@@ -1,0 +1,232 @@
+# 📚 资源精选与学习指南 (25 个项目)
+
+> 本文档收录了 `ztj1993` 在 **资源精选与学习指南** 领域的精选 Star 项目，按 Star 数量降序排列。
+
+[← 返回项目总览](../../README.md)
+
+---
+
+### 1. [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- **⭐ Stars**: `481,965` | **语言**: `Python` | **标签**: `Python` `api` `apis` `dataset` `development` `free`
+- **📝 中文介绍**: 基于 Python 构建：collective list of free APIs （技术标签: api, apis, dataset）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
+  - 超高人气（★ 481,965）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 2. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+- **⭐ Stars**: `371,048` | **语言**: `Python` | **标签**: `Python` `design` `design-patterns` `design-system` `development` `interview`
+- **📝 中文介绍**: 基于 Python 构建：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. （技术标签: design, design-patterns, design-system）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 371,048）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 3. [vinta/awesome-python](https://github.com/vinta/awesome-python)
+- **⭐ Stars**: `322,018` | **语言**: `Python` | **标签**: `Python` `awesome` `awesome-list` `python-frameworks` `python-libraries` `python-tools`
+- **📝 中文介绍**: 基于 Python 构建：definitive list that answers "I want to do X in Python, which tool should I use?" （技术标签: awesome, awesome-list, python）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 322,018）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 4. [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+- **⭐ Stars**: `177,868` | **语言**: `Python` | **标签**: `Python` `awesome` `github` `hellogithub`
+- **📝 中文介绍**: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 177,868）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 5. [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
+- **⭐ Stars**: `129,181` | **语言**: `JavaScript` | **标签**: `JavaScript` `astro` `awesome-list` `css` `education` `es6-javascript`
+- **📝 中文介绍**: 基于 JavaScript 构建：Coding articles to level up your development skills （技术标签: astro, awesome-list, css）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 129,181）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 6. [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
+- **⭐ Stars**: `102,292` | **语言**: `Unknown` | **标签**: `chinese` `cookbook` `cooking` `dishes` `recipes` `GUI/WebUI`
+- **📝 中文介绍**: 基于 多语言 构建：Programmer's guide about how to cook at home. （技术标签: chinese, cookbook, cooking）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 102,292）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 7. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+- **⭐ Stars**: `95,373` | **语言**: `Unknown` | **标签**: `ai` `mcp`
+- **📝 中文介绍**: 精选的模型上下文协议（MCP）服务端与生态工具资源大合集。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - AI 智能体集成：支持多模型对接（OpenAI、Claude、本地模型等）与灵活 Prompt 编排
+  - 超高人气（★ 95,373）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 8. [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- **⭐ Stars**: `74,116` | **语言**: `Unknown` | **标签**: `architecture` `awesome` `awesome-list` `backend` `big-data` `computer-science`
+- **📝 中文介绍**: 基于 多语言 构建：Patterns of Scalable, Reliable, and Performant Large-Scale Systems （技术标签: architecture, awesome, awesome-list）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 74,116）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 9. [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- **⭐ Stars**: `67,328` | **语言**: `Python` | **标签**: `Python` `data-analysis` `data-science` `machine-learning` `statistics`
+- **📝 中文介绍**: 基于 Python 构建：scikit-learn: machine learning in Python （技术标签: data-analysis, data-science, machine-learning）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 67,328）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 10. [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+- **⭐ Stars**: `43,740` | **语言**: `Jupyter Notebook` | **标签**: `Jupyter Notebook` `deep-learning` `examples` `machine-learning` `python` `tensorflow`
+- **📝 中文介绍**: 基于 Jupyter Notebook 构建：TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2) （技术标签: deep-learning, examples, machine-learning）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 43,740）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 11. [slatedocs/slate](https://github.com/slatedocs/slate)
+- **⭐ Stars**: `36,030` | **语言**: `Unknown` | **标签**: `api` `api-documentation` `slate` `static-site-generator` `API`
+- **📝 中文介绍**: 基于 多语言 构建：Beautiful static documentation for your API （技术标签: api, api-documentation, slate）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
+  - 超高人气（★ 36,030）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 12. [emirpasic/gods](https://github.com/emirpasic/gods)
+- **⭐ Stars**: `17,460` | **语言**: `Go` | **标签**: `Go` `avl-tree` `b-tree` `binary-heap` `data-structure` `enumerable`
+- **📝 中文介绍**: 基于 Go 构建：GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more （技术标签: avl-tree, b-tree, binary-heap）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 17,460）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 13. [jupyter/jupyter](https://github.com/jupyter/jupyter)
+- **⭐ Stars**: `15,355` | **语言**: `Python` | **标签**: `Python`
+- **📝 中文介绍**: 基于 Python 构建：Jupyter metapackage for installation and documentation。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 15,355）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 14. [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+- **⭐ Stars**: `15,119` | **语言**: `Ruby` | **标签**: `Ruby` `awesome` `awesome-list` `graphql` `list`
+- **📝 中文介绍**: 基于 Ruby 构建：Awesome list of GraphQL （技术标签: awesome, awesome-list, graphql）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 15,119）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 15. [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+- **⭐ Stars**: `12,772` | **语言**: `Unknown` | **标签**: `awesome` `awesome-list` `flask` `flask-resources` `python`
+- **📝 中文介绍**: 精选合集： awesome Flask resources and plugins。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 12,772）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 16. [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas)
+- **⭐ Stars**: `10,066` | **语言**: `Python` | **标签**: `Python` `awesome` `awesome-list` `list` `open-source` `self-hosted`
+- **📝 中文介绍**: 基于 Python 构建：List of "only yours" cloud services for everyday needs :black_flag: （技术标签: awesome, awesome-list, list）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 超高人气（★ 10,066）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+
+### 17. [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)
+- **⭐ Stars**: `9,530` | **语言**: `CSS` | **标签**: `CSS` `awesome` `awesome-list` `collection` `css-framework` `framework`
+- **📝 中文介绍**: 基于 CSS 构建：List of awesome CSS frameworks in 2026 （技术标签: awesome, awesome-list, collection）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 热门高星（★ 9,530）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+
+### 18. [pypa/sampleproject](https://github.com/pypa/sampleproject)
+- **⭐ Stars**: `5,240` | **语言**: `Python` | **标签**: `Python`
+- **📝 中文介绍**: 基于 Python 构建：sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 热门高星（★ 5,240）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+
+### 19. [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
+- **⭐ Stars**: `3,947` | **语言**: `Unknown` | **标签**: 
+- **📝 中文介绍**: 精选的 AI 驱动开发者工具、辅助编程与研发提效资源列表。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 热门高星（★ 3,947）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+
+### 20. [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide)
+- **⭐ Stars**: `3,530` | **语言**: `Unknown` | **标签**: `awesome` `awesome-list` `ide` `list` `lists`
+- **📝 中文介绍**: 基于 多语言 构建：🌩️ A list of awesome online development environments （技术标签: awesome, awesome-list, ide）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 热门高星（★ 3,530）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+
+### 21. [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer)
+- **⭐ Stars**: `3,214` | **语言**: `Python` | **标签**: `Python` `captcha-recognition` `ocr` `tensorflow` `tensorflow-tutorials`
+- **📝 中文介绍**: [验证码识别-训练] This project is based on CNN/ResNet/DenseNet+GRU/LSTM+CTC/CrossEntropy to realize verification code identification. This project is only for training the model.
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 热门高星（★ 3,214）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+
+### 22. [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break)
+- **⭐ Stars**: `2,823` | **语言**: `Jupyter Notebook` | **标签**: `Jupyter Notebook` `captcha` `captcha-breaking` `crnn` `ctc-loss` `deep-learning`
+- **📝 中文介绍**: 验证码识别。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 热门高星（★ 2,823）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+
+### 23. [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
+- **⭐ Stars**: `2,424` | **语言**: `Python` | **标签**: `Python` `hacktoberfest`
+- **📝 中文介绍**: 精选合集： Awesome Python Scripts that Automate Stuffs.
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 热门高星（★ 2,424）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+
+### 24. [WongMinHo/api-doc](https://github.com/WongMinHo/api-doc)
+- **⭐ Stars**: `58` | **语言**: `Unknown` | **标签**: `api` `gitbook` `markdown` `API`
+- **📝 中文介绍**: :green_book:基于Markdown编写的接口文档。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
+  - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
+  - 精选实用工具（★ 58）：针对特定垂直场景设计，解决痛点需求，小巧精悍
+
+### 25. [wqking/eventpy](https://github.com/wqking/eventpy)
+- **⭐ Stars**: `48` | **语言**: `Python` | **标签**: `Python` `callback` `event-dispatcher` `nested-events` `observe-pattern` `publish-subscribe`
+- **📝 中文介绍**: 基于 Python 构建：Event Dispatcher and callback list for Python （技术标签: callback, event-dispatcher, nested-events）。
+- **✨ 核心功能与亮点**:
+  - 全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集
+  - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
+  - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
+  - 精选实用工具（★ 48）：针对特定垂直场景设计，解决痛点需求，小巧精悍

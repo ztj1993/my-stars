@@ -1,0 +1,49 @@
+name: Sync & Update GitHub Stars
+
+on:
+  schedule:
+    # 每天 UTC 00:00 (北京时间 08:00) 自动同步一次
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 支持手动一键触发
+
+permissions:
+  contents: write
+
+jobs:
+  sync-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch Latest Stars from GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/fetch_stars.py
+
+      - name: Enrich & Classify Stars
+        run: |
+          python scripts/enrich_stars.py
+
+      - name: Generate Markdown Docs & Web Dashboard
+        run: |
+          python scripts/generate_docs.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/ README.md index.html
+          if git diff --staged --quiet; then
+            echo "No changes in stars data. Everything is up to date."
+          else
+            git commit -m "chore(stars): auto sync latest starred repositories [skip ci]"
+            git push
+          fi
