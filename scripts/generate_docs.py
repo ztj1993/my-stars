@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Generate Markdown documentation and an interactive HTML web dashboard
-from data/enriched_stars.json.
+with hierarchical primary and secondary categories from data/enriched_stars.json.
 """
 
 import os
@@ -23,7 +23,6 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENRICHED_FILE = os.path.join(BASE_DIR, "data", "enriched_stars.json")
 DOCS_DIR = os.path.join(BASE_DIR, "docs")
 CAT_DOCS_DIR = os.path.join(DOCS_DIR, "categories")
-LANG_DOCS_DIR = os.path.join(DOCS_DIR, "languages")
 README_FILE = os.path.join(BASE_DIR, "README.md")
 HTML_FILE = os.path.join(BASE_DIR, "index.html")
 
@@ -47,7 +46,6 @@ def load_data():
 
 
 def render_project_markdown_item(item: dict, index: int) -> str:
-    name = item["name"]
     full_name = item["full_name"]
     url = item["html_url"]
     stars = item["stars"]
@@ -55,12 +53,15 @@ def render_project_markdown_item(item: dict, index: int) -> str:
     summary = item["summary_zh"]
     tags = item["tags"]
     features = item["features_zh"]
+    subcat = item.get("subcategory", "")
+    subcat_icon = item.get("subcategory_icon", "📦")
     tag_badges = " ".join([f"`{t}`" for t in tags])
 
     features_md = "\n".join([f"  - {f}" for f in features])
 
     md = f"""### {index}. [{full_name}]({url})
-- **⭐ Stars**: `{stars:,}` | **语言**: `{lang}` | **标签**: {tag_badges}
+- **⭐ Stars**: `{stars:,}` | **二级分类**: {subcat_icon} `{subcat}` | **语言**: `{lang}`
+- **🏷️ 标签**: {tag_badges}
 - **📝 中文介绍**: {summary}
 - **✨ 核心功能与亮点**:
 {features_md}
@@ -78,67 +79,101 @@ def generate_category_docs(stars: list):
         slug = CATEGORY_SLUGS.get(cat_name, "misc")
         icon = items[0]["category_icon"] if items else "📦"
         filename = os.path.join(CAT_DOCS_DIR, f"{slug}.md")
-        
-        # Sort by stars descending
-        sorted_items = sorted(items, key=lambda x: x["stars"], reverse=True)
+
+        # Group by subcategory
+        subcats = collections.defaultdict(list)
+        for it in items:
+            subcats[it.get("subcategory", "其他")].append(it)
 
         lines = [
             f"# {icon} {cat_name} ({len(items)} 个项目)",
             "",
-            f"> 本文档收录了 `ztj1993` 在 **{cat_name}** 领域的精选 Star 项目，按 Star 数量降序排列。",
+            f"> 本文档收录了 `ztj1993` 在 **{cat_name}** 领域的精选 Star 项目，共划分 **{len(subcats)}** 个二级细分子分类。",
             "",
-            "[← 返回项目总览](../../README.md)",
+            "[← 返回知识库总览](../../README.md)",
             "",
-            "---",
+            "## 📑 本专题二级分类导航",
             ""
         ]
 
-        for i, item in enumerate(sorted_items, 1):
-            lines.append(render_project_markdown_item(item, i))
+        # Table of contents
+        subcat_order = sorted(subcats.keys(), key=lambda k: len(subcats[k]), reverse=True)
+        for idx, sub_name in enumerate(subcat_order, 1):
+            sub_icon = subcats[sub_name][0].get("subcategory_icon", "•")
+            sub_count = len(subcats[sub_name])
+            anchor = sub_name.lower().replace(" ", "-").replace("/", "").replace("、", "")
+            lines.append(f"- [{sub_icon} **{sub_name}** ({sub_count} 个项目)](#{idx}-{sub_name})")
+
+        lines.extend(["", "---", ""])
+
+        # Render sections per subcategory
+        for idx, sub_name in enumerate(subcat_order, 1):
+            sub_items = sorted(subcats[sub_name], key=lambda x: x["stars"], reverse=True)
+            sub_icon = sub_items[0].get("subcategory_icon", "📦")
+            lines.extend([
+                f"## {idx}. {sub_icon} {sub_name} ({len(sub_items)} 个项目)",
+                ""
+            ])
+            for i, item in enumerate(sub_items, 1):
+                lines.append(render_project_markdown_item(item, i))
+            lines.append("")
 
         with open(filename, "w", encoding="utf-8") as f:
             f.write("\n".join(lines))
-        print(f"Generated category doc: {filename} ({len(items)} projects)")
+        print(f"Generated category doc: {filename} ({len(items)} projects, {len(subcats)} subcategories)")
 
 
 def generate_main_readme(stars: list):
     total_stars = len(stars)
     update_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # Category stats
-    cat_counts = collections.Counter(s["category"] for s in stars)
-    lang_counts = collections.Counter(s["language"] for s in stars)
+    # Category and subcategory stats
+    cat_sub_map = collections.defaultdict(lambda: collections.defaultdict(int))
+    cat_counts = collections.Counter()
+    lang_counts = collections.Counter()
 
-    # Top 15 high star projects
+    for s in stars:
+        c = s["category"]
+        sub = s.get("subcategory", "其他")
+        cat_counts[c] += 1
+        cat_sub_map[c][sub] += 1
+        lang_counts[s["language"]] += 1
+
     top_starred = sorted(stars, key=lambda x: x["stars"], reverse=True)[:15]
 
     lines = [
         "# 🌟 My GitHub Stars 知识库",
         "",
         f"[![Total Stars](https://img.shields.io/badge/Total_Stars-{total_stars}-blue.svg?style=for-the-badge&logo=github)](https://github.com/ztj1993?tab=stars)",
-        f"[![Categories](https://img.shields.io/badge/Categories-10_Domains-brightgreen.svg?style=for-the-badge)](./docs/categories/)",
-        f"[![Last Updated](https://img.shields.io/badge/Updated-{update_time[:10]}-orange.svg?style=for-the-badge)](#)",
+        f"[![Primary Categories](https://img.shields.io/badge/Primary_Categories-10_Domains-brightgreen.svg?style=for-the-badge)](./docs/categories/)",
+        f"[![Subcategories](https://img.shields.io/badge/Subcategories-35+_Classes-blueviolet.svg?style=for-the-badge)](./docs/categories/)",
         f"[![Interactive Web UI](https://img.shields.io/badge/Web_Dashboard-Open_HTML-purple.svg?style=for-the-badge)](./index.html)",
         "",
-        "> 💡 本仓库为 GitHub 用户 [`ztj1993`](https://github.com/ztj1993) 的全部 Star 仓库精选知识库。包含 **全量数据提取、10 大功能领域智能归类、技术栈多维标签标注与中文核心功能深度介绍**。",
+        "> 💡 本仓库为 GitHub 用户 [`ztj1993`](https://github.com/ztj1993) 的全部 Star 仓库精选知识库。包含 **全量数据提取、10 大功能领域智能归类、35+ 二级细分子类体系、技术栈多维标签标注与中文核心功能深度解析**。",
         "",
         "🔗 **快速入口**：",
-        "- 🖥️ **[打开交互式 Web 搜索看板 (index.html)](./index.html)**（支持全局实时秒搜、多标签组合过滤、图表统计、卡片/表格双视图）",
+        "- 🖥️ **[打开交互式 Web 搜索看板 (index.html)](./index.html)**（支持一二级分类级联过滤、全局实时秒搜、多标签组合筛选、图表统计、卡片/表格双视图）",
         "- 📁 **[浏览各领域分册文档目录](./docs/categories/)**",
         "",
         "---",
         "",
-        "## 📊 领域分类导航 (Categories)",
+        "## 📊 领域分类与二级细分子类大盘",
         "",
-        "| 分类领域 | 项目数量 | 占比 | 专题文档入口 |",
-        "| :--- | :---: | :---: | :--- |"
+        "| 一级领域 | 项目总数 | 占比 | 包含二级细分子类 (Subcategories) | 专题文档入口 |",
+        "| :--- | :---: | :---: | :--- | :--- |"
     ]
 
     for cat_name, slug in CATEGORY_SLUGS.items():
         count = cat_counts.get(cat_name, 0)
         pct = (count / total_stars * 100) if total_stars else 0
         icon = next((s["category_icon"] for s in stars if s["category"] == cat_name), "📦")
-        lines.append(f"| {icon} **{cat_name}** | `{count}` 个 | `{pct:.1f}%` | [📖 查看《{cat_name}》专题文档](./docs/categories/{slug}.md) |")
+        
+        # Subcategories pill text
+        sub_list = cat_sub_map[cat_name]
+        sorted_subs = sorted(sub_list.items(), key=lambda x: x[1], reverse=True)
+        sub_text = "<br>".join([f"• {sub} (`{sc}`)" for sub, sc in sorted_subs])
+        
+        lines.append(f"| {icon} **{cat_name}** | `{count}` 个 | `{pct:.1f}%` | {sub_text} | [📖 查看专题文档](./docs/categories/{slug}.md) |")
 
     lines.extend([
         "",
@@ -173,7 +208,7 @@ def generate_main_readme(stars: list):
         "",
         "- 本知识库基于 Python 自动化流水线构建：",
         "  - 数据抓取：`scripts/fetch_stars.py`",
-        "  - 智能解析与中文摘要：`scripts/enrich_stars.py`",
+        "  - 智能一二级分类与中文摘要：`scripts/enrich_stars.py`",
         "  - 知识库与 Web 看板生成：`scripts/generate_docs.py`",
         "- 支持通过 GitHub Actions（`.github/workflows/update-stars.yml`）定时或手动一键同步最新 Stars。",
         "",
@@ -186,9 +221,9 @@ def generate_main_readme(stars: list):
 
 
 def generate_web_dashboard(stars: list):
-    """Generate a single-file interactive Web UI dashboard with real-time search, filters, and stats."""
+    """Generate an enhanced single-file interactive Web UI dashboard with hierarchical category filters."""
     json_payload = json.dumps(stars, ensure_ascii=False)
-    
+
     html_content = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -227,7 +262,7 @@ def generate_web_dashboard(stars: list):
       x-data="starsApp()" x-cloak>
 
   <!-- Navigation Header -->
-  <header class="sticky top-0 z-30 backdrop-blur-md bg-white/80 dark:bg-slate-900/80 border-b border-slate-200 dark:border-slate-800 transition-colors">
+  <header class="sticky top-0 z-30 backdrop-blur-md bg-white/85 dark:bg-slate-900/85 border-b border-slate-200 dark:border-slate-800 transition-colors shadow-sm">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
       <div class="flex items-center justify-between gap-4">
         <div class="flex items-center gap-3">
@@ -239,7 +274,7 @@ def generate_web_dashboard(stars: list):
               GitHub Stars 知识库
             </h1>
             <p class="text-xs text-slate-500 dark:text-slate-400">
-              User: <span class="font-semibold text-sky-600 dark:text-sky-400">ztj1993</span> • <span x-text="allStars.length"></span> 个项目
+              User: <span class="font-semibold text-sky-600 dark:text-sky-400">ztj1993</span> • <span x-text="allStars.length"></span> 个项目 • 10 大领域 35+ 子分类
             </p>
           </div>
         </div>
@@ -250,8 +285,8 @@ def generate_web_dashboard(stars: list):
           <input 
             type="text" 
             x-model="searchQuery" 
-            placeholder="搜索项目名称、中文功能概括、亮点特性、标签、语言..."
-            class="w-full pl-10 pr-10 py-2 text-sm bg-slate-100 dark:bg-slate-800 border-none rounded-xl focus:ring-2 focus:ring-sky-500 outline-none transition-all placeholder-slate-400 text-slate-900 dark:text-white"
+            placeholder="搜索项目、中文介绍、二级分类、亮点特性、标签、语言..."
+            class="w-full pl-10 pr-10 py-2 text-sm bg-slate-100 dark:bg-slate-800 border border-transparent focus:border-sky-500 rounded-xl focus:ring-2 focus:ring-sky-500/20 outline-none transition-all placeholder-slate-400 text-slate-900 dark:text-white"
           >
           <button 
             x-show="searchQuery" 
@@ -298,24 +333,50 @@ def generate_web_dashboard(stars: list):
       </div>
     </div>
 
-    <!-- Category Filter Bar -->
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-3 overflow-x-auto no-scrollbar">
+    <!-- Primary Category Filter Bar -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-2.5 pb-2 overflow-x-auto no-scrollbar border-t border-slate-100 dark:border-slate-800">
       <div class="flex items-center gap-1.5 min-w-max">
         <button 
-          @click="selectedCategory = 'all'"
+          @click="selectCategory('all')"
           :class="selectedCategory === 'all' ? 'bg-sky-600 text-white shadow-md shadow-sky-500/20' : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'"
-          class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all flex items-center gap-1.5">
-          <span>🌟 全部</span>
+          class="px-3 py-1.5 rounded-lg text-xs font-semibold transition-all flex items-center gap-1.5">
+          <span>🌟 全部领域</span>
           <span class="px-1.5 py-0.2 rounded-full text-[10px]" :class="selectedCategory === 'all' ? 'bg-white/20 text-white' : 'bg-slate-200 dark:bg-slate-700 text-slate-500'" x-text="allStars.length"></span>
         </button>
 
         <template x-for="cat in categoryList" :key="cat.name">
           <button 
-            @click="selectedCategory = cat.name"
+            @click="selectCategory(cat.name)"
             :class="selectedCategory === cat.name ? 'bg-sky-600 text-white shadow-md shadow-sky-500/20' : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'"
-            class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all flex items-center gap-1.5">
+            class="px-3 py-1.5 rounded-lg text-xs font-semibold transition-all flex items-center gap-1.5">
             <span x-text="cat.icon + ' ' + cat.name"></span>
             <span class="px-1.5 py-0.2 rounded-full text-[10px]" :class="selectedCategory === cat.name ? 'bg-white/20 text-white' : 'bg-slate-200 dark:bg-slate-700 text-slate-500'" x-text="cat.count"></span>
+          </button>
+        </template>
+      </div>
+    </div>
+
+    <!-- Secondary Subcategory Bar (Dynamic Cascade) -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-3 pt-1 overflow-x-auto no-scrollbar" x-show="availableSubcategories.length > 0">
+      <div class="flex items-center gap-1.5 min-w-max bg-sky-50/50 dark:bg-slate-800/40 p-1.5 rounded-xl border border-sky-100/60 dark:border-slate-800">
+        <span class="text-[11px] font-bold text-sky-800 dark:text-sky-300 px-2 flex items-center gap-1">
+          <i class="fa-solid fa-layer-group text-xs"></i>
+          <span>二级子类:</span>
+        </span>
+        <button 
+          @click="selectedSubcategory = 'all'"
+          :class="selectedSubcategory === 'all' ? 'bg-sky-600 text-white shadow-sm' : 'bg-white dark:bg-slate-700 text-slate-700 dark:text-slate-300 hover:bg-sky-100 dark:hover:bg-slate-600'"
+          class="px-2.5 py-1 rounded-lg text-xs font-medium transition-all flex items-center gap-1">
+          <span>全部子类</span>
+        </button>
+
+        <template x-for="sub in availableSubcategories" :key="sub.name">
+          <button 
+            @click="selectedSubcategory = sub.name"
+            :class="selectedSubcategory === sub.name ? 'bg-sky-600 text-white shadow-sm' : 'bg-white dark:bg-slate-700 text-slate-700 dark:text-slate-300 hover:bg-sky-100 dark:hover:bg-slate-600'"
+            class="px-2.5 py-1 rounded-lg text-xs font-medium transition-all flex items-center gap-1.5">
+            <span x-text="sub.icon + ' ' + sub.name"></span>
+            <span class="px-1.5 py-0.2 rounded-full text-[10px]" :class="selectedSubcategory === sub.name ? 'bg-white/20 text-white' : 'bg-slate-100 dark:bg-slate-600 text-slate-500 dark:text-slate-300'" x-text="sub.count"></span>
           </button>
         </template>
       </div>
@@ -365,17 +426,18 @@ def generate_web_dashboard(stars: list):
 
       <!-- Result Count Info -->
       <div class="flex items-center justify-between text-xs text-slate-500 dark:text-slate-400 border-t border-slate-100 dark:border-slate-700/50 pt-2.5">
-        <div>
-          共匹配到 <span class="font-bold text-sky-600 dark:text-sky-400" x-text="filteredStars.length"></span> 个项目
-          <span x-show="selectedCategory !== 'all'" x-text="' / 所选分类: ' + selectedCategory"></span>
-          <span x-show="selectedLanguage !== 'all'" x-text="' / 所选语言: ' + selectedLanguage"></span>
-          <span x-show="searchQuery" x-text="' / 包含搜索词: \\'' + searchQuery + '\\''"></span>
+        <div class="flex items-center flex-wrap gap-1.5">
+          <span>共匹配到 <span class="font-bold text-sky-600 dark:text-sky-400" x-text="filteredStars.length"></span> 个项目</span>
+          <span x-show="selectedCategory !== 'all'" class="px-2 py-0.5 rounded bg-sky-100 dark:bg-sky-950 text-sky-700 dark:text-sky-300 text-[10px]" x-text="'一级: ' + selectedCategory"></span>
+          <span x-show="selectedSubcategory !== 'all'" class="px-2 py-0.5 rounded bg-indigo-100 dark:bg-indigo-950 text-indigo-700 dark:text-indigo-300 text-[10px]" x-text="'二级: ' + selectedSubcategory"></span>
+          <span x-show="selectedLanguage !== 'all'" class="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 text-[10px]" x-text="'语言: ' + selectedLanguage"></span>
+          <span x-show="searchQuery" class="px-2 py-0.5 rounded bg-amber-100 dark:bg-amber-950 text-amber-700 dark:text-amber-300 text-[10px]" x-text="'搜索: ' + searchQuery"></span>
         </div>
         <button 
-          x-show="selectedCategory !== 'all' || selectedLanguage !== 'all' || searchQuery"
+          x-show="selectedCategory !== 'all' || selectedSubcategory !== 'all' || selectedLanguage !== 'all' || searchQuery"
           @click="resetFilters()"
           class="text-sky-600 dark:text-sky-400 hover:underline font-medium">
-          <i class="fa-solid fa-rotate-left mr-1"></i>重置所有筛选
+          <i class="fa-solid fa-rotate-left mr-1"></i>重置筛选
         </button>
       </div>
     </div>
@@ -384,7 +446,7 @@ def generate_web_dashboard(stars: list):
     <div x-show="filteredStars.length === 0" class="text-center py-16 bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700">
       <i class="fa-regular fa-folder-open text-5xl text-slate-300 dark:text-slate-600 mb-3"></i>
       <h3 class="text-base font-semibold text-slate-700 dark:text-slate-300">没有找到匹配的项目</h3>
-      <p class="text-xs text-slate-400 mt-1">请尝试更换关键词或重置筛选条件</p>
+      <p class="text-xs text-slate-400 mt-1">请尝试更换关键词或重置二级分类与筛选条件</p>
       <button @click="resetFilters()" class="mt-4 px-4 py-2 bg-sky-600 text-white text-xs font-semibold rounded-xl hover:bg-sky-700 transition-colors">
         重置筛选
       </button>
@@ -396,15 +458,13 @@ def generate_web_dashboard(stars: list):
         <div class="bg-white dark:bg-slate-800/90 rounded-2xl p-5 border border-slate-200/80 dark:border-slate-700/70 hover:border-sky-400 dark:hover:border-sky-500 shadow-sm hover:shadow-lg hover:shadow-sky-500/5 transition-all flex flex-col justify-between group">
           
           <div>
-            <!-- Card Header -->
-            <div class="flex items-start justify-between gap-3 mb-2.5">
-              <div class="flex items-center gap-2 flex-1 min-w-0">
-                <span class="text-lg" x-text="item.category_icon"></span>
-                <a :href="item.html_url" target="_blank" 
-                   class="text-sm font-bold text-slate-900 dark:text-white hover:text-sky-600 dark:hover:text-sky-400 truncate transition-colors"
-                   :title="item.full_name"
-                   x-text="item.full_name">
-                </a>
+            <!-- Breadcrumb Category Badge -->
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <div class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-lg bg-slate-100 dark:bg-slate-700/60 text-[11px] font-medium text-slate-600 dark:text-slate-300 border border-slate-200/50 dark:border-slate-700">
+                <span x-text="item.category_icon"></span>
+                <span x-text="item.category"></span>
+                <span class="text-slate-400">›</span>
+                <span class="text-sky-600 dark:text-sky-400 font-semibold" x-text="item.subcategory_icon + ' ' + item.subcategory"></span>
               </div>
               <div class="flex items-center gap-1 text-amber-500 font-bold text-xs bg-amber-50 dark:bg-amber-950/40 px-2 py-0.5 rounded-full border border-amber-200 dark:border-amber-800">
                 <i class="fa-solid fa-star text-[10px]"></i>
@@ -412,10 +472,21 @@ def generate_web_dashboard(stars: list):
               </div>
             </div>
 
+            <!-- Card Header -->
+            <div class="flex items-start justify-between gap-3 mb-2">
+              <div class="flex items-center gap-2 flex-1 min-w-0">
+                <a :href="item.html_url" target="_blank" 
+                   class="text-sm font-bold text-slate-900 dark:text-white hover:text-sky-600 dark:hover:text-sky-400 truncate transition-colors"
+                   :title="item.full_name"
+                   x-text="item.full_name">
+                </a>
+              </div>
+            </div>
+
             <!-- Chinese Summary -->
             <p class="text-xs text-slate-600 dark:text-slate-300 line-clamp-2 leading-relaxed mb-3 font-normal" x-text="item.summary_zh"></p>
 
-            <!-- Key Features Collapsible / Highlights -->
+            <!-- Key Features Highlights -->
             <div class="bg-slate-50 dark:bg-slate-900/60 rounded-xl p-2.5 mb-3 border border-slate-100 dark:border-slate-800 text-[11px] space-y-1.5">
               <template x-for="(feat, idx) in item.features_zh" :key="idx">
                 <div class="flex items-start gap-1.5 text-slate-600 dark:text-slate-300">
@@ -437,7 +508,7 @@ def generate_web_dashboard(stars: list):
             </div>
 
             <div class="flex items-center justify-between pt-2 border-t border-slate-100 dark:border-slate-700/60 text-[11px] text-slate-400">
-              <span class="text-[10px]" x-text="'分类: ' + item.category"></span>
+              <span class="text-[10px]" x-text="item.starred_at ? 'Star于: ' + item.starred_at.slice(0, 10) : ''"></span>
               <div class="flex items-center gap-2">
                 <a x-show="item.homepage" :href="item.homepage" target="_blank" class="hover:text-sky-500 transition-colors" title="官网/Demo">
                   <i class="fa-solid fa-link"></i>
@@ -460,7 +531,8 @@ def generate_web_dashboard(stars: list):
           <thead class="bg-slate-50 dark:bg-slate-900/60 text-slate-700 dark:text-slate-200 font-semibold border-b border-slate-200 dark:border-slate-700">
             <tr>
               <th class="py-3 px-4">项目仓库</th>
-              <th class="py-3 px-3">领域分类</th>
+              <th class="py-3 px-3">一级领域</th>
+              <th class="py-3 px-3">二级细分类</th>
               <th class="py-3 px-3">主要语言</th>
               <th class="py-3 px-3">Star 数</th>
               <th class="py-3 px-4">中文定位与功能亮点</th>
@@ -478,6 +550,9 @@ def generate_web_dashboard(stars: list):
                 </td>
                 <td class="py-3 px-3 whitespace-nowrap">
                   <span class="px-2 py-0.5 rounded-full text-[10px] bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 font-medium" x-text="item.category"></span>
+                </td>
+                <td class="py-3 px-3 whitespace-nowrap">
+                  <span class="px-2 py-0.5 rounded-md text-[10px] bg-sky-50 dark:bg-sky-950/60 text-sky-600 dark:text-sky-300 font-semibold border border-sky-100 dark:border-sky-900" x-text="item.subcategory_icon + ' ' + item.subcategory"></span>
                 </td>
                 <td class="py-3 px-3 whitespace-nowrap">
                   <span class="font-semibold text-sky-600 dark:text-sky-400" x-text="item.language || '-'"></span>
@@ -537,6 +612,7 @@ def generate_web_dashboard(stars: list):
         allStars: RAW_STARS_DATA,
         searchQuery: '',
         selectedCategory: 'all',
+        selectedSubcategory: 'all',
         selectedLanguage: 'all',
         sortBy: 'stars_desc',
         viewMode: 'grid',
@@ -550,6 +626,7 @@ def generate_web_dashboard(stars: list):
           }}
           this.$watch('searchQuery', () => {{ this.currentPage = 1; }});
           this.$watch('selectedCategory', () => {{ this.currentPage = 1; }});
+          this.$watch('selectedSubcategory', () => {{ this.currentPage = 1; }});
           this.$watch('selectedLanguage', () => {{ this.currentPage = 1; }});
           this.$watch('sortBy', () => {{ this.currentPage = 1; }});
         }},
@@ -563,9 +640,16 @@ def generate_web_dashboard(stars: list):
           }}
         }},
 
+        selectCategory(catName) {{
+          this.selectedCategory = catName;
+          this.selectedSubcategory = 'all';
+          this.currentPage = 1;
+        }},
+
         resetFilters() {{
           this.searchQuery = '';
           this.selectedCategory = 'all';
+          this.selectedSubcategory = 'all';
           this.selectedLanguage = 'all';
           this.sortBy = 'stars_desc';
           this.currentPage = 1;
@@ -592,6 +676,26 @@ def generate_web_dashboard(stars: list):
           }})).sort((a, b) => b.count - a.count);
         }},
 
+        get availableSubcategories() {{
+          let list = this.allStars;
+          if (this.selectedCategory !== 'all') {{
+            list = list.filter(s => s.category === this.selectedCategory);
+          }}
+          const counts = {{}};
+          const icons = {{}};
+          list.forEach(s => {{
+            if (s.subcategory) {{
+              counts[s.subcategory] = (counts[s.subcategory] || 0) + 1;
+              icons[s.subcategory] = s.subcategory_icon;
+            }}
+          }});
+          return Object.keys(counts).map(name => ({{
+            name: name,
+            count: counts[name],
+            icon: icons[name] || '•'
+          }})).sort((a, b) => b.count - a.count);
+        }},
+
         get topLanguages() {{
           const counts = {{}};
           this.allStars.forEach(s => {{
@@ -612,6 +716,11 @@ def generate_web_dashboard(stars: list):
             result = result.filter(s => s.category === this.selectedCategory);
           }}
 
+          // Subcategory filter
+          if (this.selectedSubcategory !== 'all') {{
+            result = result.filter(s => s.subcategory === this.selectedSubcategory);
+          }}
+
           // Language filter
           if (this.selectedLanguage !== 'all') {{
             result = result.filter(s => (s.language || 'Unknown') === this.selectedLanguage);
@@ -624,6 +733,8 @@ def generate_web_dashboard(stars: list):
               return (
                 (s.full_name && s.full_name.toLowerCase().includes(q)) ||
                 (s.summary_zh && s.summary_zh.toLowerCase().includes(q)) ||
+                (s.subcategory && s.subcategory.toLowerCase().includes(q)) ||
+                (s.category && s.category.toLowerCase().includes(q)) ||
                 (s.language && s.language.toLowerCase().includes(q)) ||
                 (s.tags && s.tags.some(t => t.toLowerCase().includes(q))) ||
                 (s.features_zh && s.features_zh.some(f => f.toLowerCase().includes(q))) ||
@@ -664,7 +775,7 @@ def generate_web_dashboard(stars: list):
 """
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(html_content)
-    print(f"Generated interactive web dashboard: {HTML_FILE}")
+    print(f"Generated enhanced interactive web dashboard: {HTML_FILE}")
 
 
 def main():
@@ -673,7 +784,7 @@ def main():
     generate_category_docs(stars)
     generate_main_readme(stars)
     generate_web_dashboard(stars)
-    print("\nAll documentation and Web UI generated successfully!")
+    print("\nAll hierarchical documentation and Web UI generated successfully!")
 
 
 if __name__ == "__main__":

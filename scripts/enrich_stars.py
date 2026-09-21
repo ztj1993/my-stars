@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Enrich raw stars data with categorization, Chinese summary, features, and tags.
+Enrich raw stars data with primary category, secondary subcategory, Chinese summary, features, and tags.
 Saves the enriched metadata to data/enriched_stars.json.
 """
 
@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_FILE = os.path.join(BASE_DIR, "data", "raw_stars.json")
 ENRICHED_FILE = os.path.join(BASE_DIR, "data", "enriched_stars.json")
 
-# Category definitions
+# Primary category definitions
 CATEGORIES = {
     "AI 与大模型": {
         "icon": "🤖",
@@ -126,6 +126,194 @@ CATEGORIES = {
             "curated", "resources", "cheatsheet", "notes", "handbook", "awesome-list",
             "learn", "study", "docs", "documentation", "tips"
         ]
+    }
+}
+
+# Subcategory taxonomy with keywords
+SUBCATEGORIES = {
+    "AI 与大模型": {
+        "大模型应用与客户端": {
+            "icon": "💬",
+            "keywords": ["chat", "chatgpt", "client", "desktop", "assistant", "ui", "web-ui", "openclaw", "hermes", "cc-switch", "copilot", "grok", "bot"]
+        },
+        "智能体与工作流": {
+            "icon": "🤖",
+            "keywords": ["agent", "agentic", "agents", "langchain", "dify", "workflow", "mcp", "skills", "autogen", "crewai", "pipeline", "automation"]
+        },
+        "AI 生成与短剧/多模态": {
+            "icon": "🎬",
+            "keywords": ["drama", "short-drama", "video", "image", "diffusion", "stable-diffusion", "midjourney", "comfyui", "toonflow", "huobao", "multimodal", "genai", "generative", "art"]
+        },
+        "语音识别与音频处理": {
+            "icon": "🎙️",
+            "keywords": ["whisper", "speech", "audio", "tts", "stt", "voice", "asr", "sound", "voice-clone", "text-to-speech"]
+        },
+        "模型微调与底层工具": {
+            "icon": "🧠",
+            "keywords": ["model", "rag", "ollama", "vllm", "llama", "embedding", "fine-tuning", "lora", "transformers", "pytorch", "huggingface", "deepseek", "vector", "inference"]
+        }
+    },
+    "前端与跨端开发": {
+        "Vue 生态与组件库": {
+            "icon": "💚",
+            "keywords": ["vue", "element", "naive", "pinia", "vuex", "vuetify", "ant-design-vue", "uniapp", "vue3", "vuejs"]
+        },
+        "React 与全栈框架": {
+            "icon": "⚛️",
+            "keywords": ["react", "next", "nextjs", "remix", "chakra", "antd", "mobx", "redux", "preact", "solid", "reactjs"]
+        },
+        "跨端与桌面应用": {
+            "icon": "📱",
+            "keywords": ["electron", "tauri", "flutter", "react-native", "taro", "mobile", "android", "ios", "desktop", "app", "client"]
+        },
+        "浏览器扩展与插件": {
+            "icon": "🧩",
+            "keywords": ["extension", "chrome-extension", "userscript", "tampermonkey", "plugin", "browser", "chrome", "firefox"]
+        },
+        "前端工程化与样式工具": {
+            "icon": "🎨",
+            "keywords": ["tailwind", "css", "vite", "webpack", "postcss", "sass", "less", "html", "javascript", "typescript", "wasm", "webassembly", "astro", "svelte", "ui-kit", "components", "style"]
+        }
+    },
+    "后端架构与微服务": {
+        "Go 后端与微服务": {
+            "icon": "🔷",
+            "keywords": ["go", "golang", "gin", "echo", "fiber", "grpc-go", "microservice", "rpc"]
+        },
+        "Python 后端与 API": {
+            "icon": "🐍",
+            "keywords": ["python", "fastapi", "flask", "django", "celery", "tornado", "aiohttp", "starlette", "rest-framework"]
+        },
+        "PHP 与快速开发": {
+            "icon": "🐘",
+            "keywords": ["php", "laravel", "symfony", "hyperf", "thinkphp", "swoole", "workerman", "composer"]
+        },
+        "Node.js / Java 框架": {
+            "icon": "☕",
+            "keywords": ["nodejs", "nest", "nestjs", "express", "koa", "spring", "springboot", "java", "c#", "dotnet", "asp.net"]
+        },
+        "API 网关与通信协议": {
+            "icon": "🌐",
+            "keywords": ["gateway", "grpc", "graphql", "rest", "api", "websocket", "http", "oauth", "jwt", "auth", "middleware", "reverse-proxy"]
+        }
+    },
+    "DevOps 与云原生": {
+        "Docker 与容器管理": {
+            "icon": "🐳",
+            "keywords": ["docker", "container", "dockerfile", "docker-compose", "registry", "proxy", "portainer", "podman", "artifact-registry", "nora"]
+        },
+        "Kubernetes 与编排": {
+            "icon": "☸️",
+            "keywords": ["k8s", "kubernetes", "helm", "volsync", "csi", "operator", "cluster", "etcd", "istio", "pod"]
+        },
+        "软路由与网络系统": {
+            "icon": "📡",
+            "keywords": ["openwrt", "passwall", "router", "firmware", "homelab", "dns", "ddns", "adguard", "mosdns", "smartdns"]
+        },
+        "网络代理与内网穿透": {
+            "icon": "🚀",
+            "keywords": ["clash", "v2ray", "shadowsocks", "sing-box", "xray", "trojan", "frp", "wireguard", "vpn", "tunnel", "proxy", "gsocket", "pwnat"]
+        },
+        "CI/CD 与运维监控": {
+            "icon": "📈",
+            "keywords": ["ci/cd", "ci", "cd", "github-actions", "prometheus", "grafana", "terraform", "ansible", "nginx", "traefik", "caddy", "cloudflare", "linux", "server", "deploy", "ansible-galaxy"]
+        }
+    },
+    "效率工具与 CLI": {
+        "账号管理与开发提效": {
+            "icon": "⚡",
+            "keywords": ["account", "account-manager", "cockpit", "antigravity", "manager", "switcher", "productivity", "workflow", "automation", "efficiency"]
+        },
+        "终端工具与 TUI": {
+            "icon": "💻",
+            "keywords": ["cli", "terminal", "tui", "fzf", "grep", "ripgrep", "tmux", "starship", "zsh", "bash", "shell", "powershell", "command-line"]
+        },
+        "下载器与传输工具": {
+            "icon": "📥",
+            "keywords": ["downloader", "youtube-dl", "aria2", "download", "torrent", "transfer", "sync", "syncing"]
+        },
+        "系统增强与桌面工具": {
+            "icon": "🖥️",
+            "keywords": ["desktop", "windows", "mac", "macos", "quicklook", "clipboard", "launcher", "shortcut", "tweaks", "system"]
+        },
+        "开发规范与代码管理": {
+            "icon": "🔧",
+            "keywords": ["git", "github", "linter", "formatter", "editor", "neovim", "vim", "code", "utility", "tool"]
+        }
+    },
+    "数据库与存储": {
+        "数据库客户端与管理工具": {
+            "icon": "🖥️",
+            "keywords": ["dbx", "client", "gui", "dbeaver", "datagrip", "admin", "dashboard", "studio", "viewer", "database-client"]
+        },
+        "关系型与 NoSQL 数据库": {
+            "icon": "🗄️",
+            "keywords": ["mysql", "postgresql", "postgres", "sqlite", "redis", "mongodb", "clickhouse", "duckdb", "nosql", "rdbms"]
+        },
+        "对象存储与备份同步": {
+            "icon": "💾",
+            "keywords": ["minio", "s3", "storage", "backup", "replication", "sync", "volsync", "blob", "kv", "memcached"]
+        },
+        "ORM 与数据访问层": {
+            "icon": "🔌",
+            "keywords": ["orm", "gorm", "prisma", "sqlalchemy", "mybatis", "query", "sql", "migration", "dbt"]
+        },
+        "向量数据库与搜索引擎": {
+            "icon": "🔍",
+            "keywords": ["vector", "milvus", "chroma", "qdrant", "elasticsearch", "elastic", "meilisearch", "typesense", "search"]
+        }
+    },
+    "数据处理与爬虫": {
+        "网页爬虫与自动化": {
+            "icon": "🕷️",
+            "keywords": ["scraper", "scraping", "crawler", "spider", "scrapy", "selenium", "playwright", "puppeteer", "headless", "stealth"]
+        },
+        "数据解析与表格处理": {
+            "icon": "📊",
+            "keywords": ["tablib", "pandas", "polars", "excel", "csv", "json", "pdf", "parse", "parsing", "extract", "etl", "feed", "rss"]
+        },
+        "数据可视化与报表": {
+            "icon": "📈",
+            "keywords": ["visualization", "charts", "echarts", "d3", "report", "dashboard", "table", "graph"]
+        }
+    },
+    "网络安全与逆向": {
+        "漏洞扫描与渗透测试": {
+            "icon": "🔍",
+            "keywords": ["pentest", "vulnerability", "scanner", "scan", "exploit", "xss", "sqli", "nmap", "wifite", "burp"]
+        },
+        "逆向工程与调试": {
+            "icon": "🔬",
+            "keywords": ["reverse-engineering", "frida", "ida", "ghidra", "decompiler", "debug", "disassembler", "hook", "pwn"]
+        },
+        "网络安全攻防与审计": {
+            "icon": "🛡️",
+            "keywords": ["security", "firewall", "audit", "cryptography", "bypass", "ctf", "honeypot", "malware", "auth", "gsocket", "pwnat"]
+        }
+    },
+    "影音多媒体与图形": {
+        "音视频处理与转码": {
+            "icon": "🎞️",
+            "keywords": ["ffmpeg", "video", "audio", "encoder", "decoder", "transcoder", "sound", "music", "mp4", "mp3"]
+        },
+        "流媒体与播放器": {
+            "icon": "📺",
+            "keywords": ["player", "stream", "webrtc", "rtmp", "live", "obs", "vlc", "streaming"]
+        },
+        "图形渲染与 3D": {
+            "icon": "🎨",
+            "keywords": ["3d", "opengl", "webgl", "canvas", "rendering", "graphics", "blender", "shaders", "game", "image"]
+        }
+    },
+    "资源精选与学习指南": {
+        "Awesome 精选合集": {
+            "icon": "🌟",
+            "keywords": ["awesome", "awesome-list", "curated", "collection", "list", "resources"]
+        },
+        "学习路线与实战指南": {
+            "icon": "📖",
+            "keywords": ["tutorial", "roadmap", "book", "interview", "guide", "learning", "cheat-sheet", "cheatsheet", "leetcode", "notes", "handbook"]
+        }
     }
 }
 
@@ -245,19 +433,16 @@ def has_chinese(text: str) -> bool:
     return bool(re.search(r"[\u4e00-\u9fa5]", text))
 
 def extract_chinese_part(text: str) -> str:
-    """Extracts Chinese portion if bilingual text is present."""
     if not text or not has_chinese(text):
         return ""
     
     parts = re.split(r"[|｜\n—–—]", text)
     zh_candidates = [p.strip() for p in parts if has_chinese(p)]
     if zh_candidates:
-        # Choose the most descriptive Chinese segment
         longest_zh = max(zh_candidates, key=len)
         if len(longest_zh) >= 10:
             return longest_zh
             
-    # Or return text with cleaned punctuation
     return text.strip()
 
 def translate_english_desc(desc: str, repo: dict) -> str:
@@ -275,7 +460,6 @@ def translate_english_desc(desc: str, repo: dict) -> str:
     text = desc.strip()
     lower = text.lower()
     
-    # Common prefix cleanups
     if lower.startswith("a "):
         text = text[2:].strip()
     elif lower.startswith("an "):
@@ -283,14 +467,12 @@ def translate_english_desc(desc: str, repo: dict) -> str:
     elif lower.startswith("the "):
         text = text[4:].strip()
 
-    # Dictionary translation
     sorted_dict = sorted(TRANSLATION_DICT.items(), key=lambda x: len(x[0]), reverse=True)
     res = text
     for en, zh in sorted_dict:
         pattern = re.compile(r"\b" + re.escape(en) + r"\b", re.IGNORECASE)
         res = pattern.sub(zh, res)
         
-    # Heuristic translations for common structures
     if not has_chinese(res):
         lang = repo.get("language") or "多语言"
         topics = repo.get("topics") or []
@@ -309,10 +491,10 @@ def determine_category(repo: dict) -> str:
     all_text = f"{name} {full_name} {desc} {' '.join(topics)}"
     scores = collections.defaultdict(int)
     
-    # Rule weights
+    # Priority rules
     if any(k in all_text for k in ["whisper", "llm", "gpt", "agent", "prompt", "openai", "claude", "ollama", "stable-diffusion", "midjourney", "comfyui", "vllm", "short-drama", "huobao-drama", "toonflow", "deepseek", "langchain"]):
         scores["AI 与大模型"] += 15
-    if any(k in all_text for k in ["awesome-", "learn-", "tutorial", "interview", "roadmap", "cheatsheet", "guide", "cheatsheet"]):
+    if any(k in all_text for k in ["awesome-", "learn-", "tutorial", "interview", "roadmap", "cheatsheet", "guide"]):
         scores["资源精选与学习指南"] += 12
     if any(k in all_text for k in ["docker", "k8s", "kubernetes", "openwrt", "passwall", "clash", "v2ray", "shadowsocks", "sing-box", "xray", "trojan", "helm", "terraform", "wireguard"]):
         scores["DevOps 与云原生"] += 10
@@ -331,7 +513,7 @@ def determine_category(repo: dict) -> str:
     if any(k in all_text for k in ["fastapi", "flask", "django", "gin", "echo", "spring", "nestjs", "microservice", "rpc", "grpc", "swoole", "workerman", "hyperf"]):
         scores["后端架构与微服务"] += 8
 
-    # Keyword match
+    # Keyword frequency scoring
     for cat, data in CATEGORIES.items():
         for kw in data["keywords"]:
             if kw in topics:
@@ -357,7 +539,95 @@ def determine_category(repo: dict) -> str:
             
     return max(scores.items(), key=lambda x: x[1])[0]
 
-def extract_tags(repo: dict, category: str) -> list:
+def determine_subcategory(repo: dict, category: str) -> tuple[str, str]:
+    """Determines the secondary subcategory and icon for a repository."""
+    subcats = SUBCATEGORIES.get(category, {})
+    if not subcats:
+        return "通用/其他", "📦"
+
+    name = (repo.get("name") or "").lower()
+    full_name = (repo.get("full_name") or "").lower()
+    desc = (repo.get("description") or "").lower()
+    topics = [t.lower() for t in (repo.get("topics") or [])]
+    lang = (repo.get("language") or "").lower()
+    all_text = f"{name} {full_name} {desc} {' '.join(topics)} {lang}"
+
+    scores = collections.defaultdict(int)
+
+    # Specific override rules for high accuracy
+    if category == "DevOps 与云原生":
+        if any(k in all_text for k in ["openwrt", "passwall", "router", "firmware", "smartdns", "mosdns"]):
+            scores["软路由与网络系统"] += 15
+        elif any(k in all_text for k in ["clash", "v2ray", "shadowsocks", "sing-box", "xray", "trojan", "frp", "wireguard", "tunnel", "gsocket", "pwnat"]):
+            scores["网络代理与内网穿透"] += 15
+        elif any(k in all_text for k in ["docker", "container", "dockerfile", "docker-compose", "registry", "nora", "portainer"]):
+            scores["Docker 与容器管理"] += 12
+        elif any(k in all_text for k in ["k8s", "kubernetes", "helm", "volsync", "csi", "operator"]):
+            scores["Kubernetes 与编排"] += 12
+
+    elif category == "AI 与大模型":
+        if any(k in all_text for k in ["drama", "short-drama", "video", "diffusion", "stable-diffusion", "midjourney", "comfyui", "toonflow", "huobao", "multimodal"]):
+            scores["AI 生成与短剧/多模态"] += 15
+        elif any(k in all_text for k in ["whisper", "speech", "audio", "tts", "stt", "voice", "asr"]):
+            scores["语音识别与音频处理"] += 15
+        elif any(k in all_text for k in ["agent", "agentic", "agents", "langchain", "dify", "workflow", "mcp", "skills"]):
+            scores["智能体与工作流"] += 12
+        elif any(k in all_text for k in ["ollama", "vllm", "llama", "embedding", "rag", "fine-tuning", "lora", "transformers", "pytorch", "deepseek"]):
+            scores["模型微调与底层工具"] += 10
+        elif any(k in all_text for k in ["chat", "chatgpt", "client", "assistant", "openclaw", "hermes", "cc-switch"]):
+            scores["大模型应用与客户端"] += 10
+
+    elif category == "后端架构与微服务":
+        if lang in ["go"]:
+            scores["Go 后端与微服务"] += 10
+        elif lang in ["python"]:
+            scores["Python 后端与 API"] += 10
+        elif lang in ["php"]:
+            scores["PHP 与快速开发"] += 10
+        elif lang in ["java", "c#"]:
+            scores["Node.js / Java 框架"] += 10
+        elif any(k in all_text for k in ["gateway", "grpc", "graphql", "rest", "api", "websocket", "http"]):
+            scores["API 网关与通信协议"] += 8
+
+    elif category == "前端与跨端开发":
+        if any(k in all_text for k in ["vue", "element", "naive", "pinia", "vuex", "uniapp"]):
+            scores["Vue 生态与组件库"] += 12
+        elif any(k in all_text for k in ["react", "next", "nextjs", "remix", "antd", "solid"]):
+            scores["React 与全栈框架"] += 12
+        elif any(k in all_text for k in ["electron", "tauri", "flutter", "react-native", "taro", "desktop"]):
+            scores["跨端与桌面应用"] += 10
+        elif any(k in all_text for k in ["extension", "chrome-extension", "userscript", "tampermonkey"]):
+            scores["浏览器扩展与插件"] += 12
+
+    elif category == "效率工具与 CLI":
+        if any(k in all_text for k in ["cockpit", "antigravity", "account", "switcher"]):
+            scores["账号管理与开发提效"] += 15
+        elif any(k in all_text for k in ["download", "downloader", "youtube-dl", "aria2", "torrent"]):
+            scores["下载器与传输工具"] += 12
+        elif any(k in all_text for k in ["cli", "terminal", "tui", "fzf", "grep", "ripgrep", "tmux", "zsh", "bash"]):
+            scores["终端工具与 TUI"] += 10
+        elif any(k in all_text for k in ["git", "github", "linter", "editor", "neovim", "vim"]):
+            scores["开发规范与代码管理"] += 10
+
+    # General keyword scoring
+    for subcat_name, subcat_data in subcats.items():
+        for kw in subcat_data["keywords"]:
+            if kw in topics:
+                scores[subcat_name] += 4
+            if re.search(r"\b" + re.escape(kw) + r"\b", name):
+                scores[subcat_name] += 3
+            if kw in desc:
+                scores[subcat_name] += 1
+
+    if scores and max(scores.values()) > 0:
+        best_subcat = max(scores.items(), key=lambda x: x[1])[0]
+    else:
+        best_subcat = list(subcats.keys())[0]
+
+    icon = subcats.get(best_subcat, {}).get("icon", "📦")
+    return best_subcat, icon
+
+def extract_tags(repo: dict, category: str, subcategory: str) -> list:
     tags = []
     lang = repo.get("language")
     if lang:
@@ -376,8 +646,6 @@ def extract_tags(repo: dict, category: str) -> list:
     
     if any(k in full_text for k in ["cli", "command-line", "terminal", "tui"]):
         if "CLI" not in tags: tags.append("CLI")
-    if any(k in full_text for k in ["framework", "框架"]):
-        if "框架" not in tags: tags.append("框架")
     if any(k in full_text for k in ["docker", "container", "dockerfile"]):
         if "Docker" not in tags: tags.append("Docker")
     if any(k in full_text for k in ["k8s", "kubernetes"]):
@@ -391,10 +659,9 @@ def extract_tags(repo: dict, category: str) -> list:
         
     return tags[:6]
 
-def generate_summary_and_features(repo: dict, category: str):
+def generate_summary_and_features(repo: dict, category: str, subcategory: str):
     full_name = repo.get("full_name") or ""
     raw_desc = repo.get("description") or ""
-    name = repo.get("name") or ""
     lang = repo.get("language") or "多语言"
     topics = repo.get("topics") or []
     stars = repo.get("stargazers_count", 0)
@@ -413,29 +680,8 @@ def generate_summary_and_features(repo: dict, category: str):
         
     features = []
     
-    # Feature 1: Core purpose / architecture
-    if category == "AI 与大模型":
-        features.append("智能化驱动：深度整合大语言模型、智能体或计算机视觉能力，赋能自动化与生成式场景")
-    elif category == "前端与跨端开发":
-        features.append(f"现代 UI 体验：基于 {lang} 与现代前端工程化架构，提供响应式、组件化交互界面")
-    elif category == "后端架构与微服务":
-        features.append(f"高并发与高可用：采用 {lang} 构建，具备优异的吞吐性能、模块化服务拆分与 API 路由治理")
-    elif category == "DevOps 与云原生":
-        features.append("容器与自动化部署：深度支持 Docker/K8s/CI-CD，提供开箱即用的运维管理与网络代理方案")
-    elif category == "效率工具与 CLI":
-        features.append("极速命令行交互：提供简洁高效的 CLI/TUI 操作体验，大幅简化开发者日常繁琐操作")
-    elif category == "数据处理与爬虫":
-        features.append("数据采集与结构化：具备强大的网络请求、反反爬策略以及海量数据清洗与解析能力")
-    elif category == "数据库与存储":
-        features.append("多源数据统一管理：提供高效的存取、查询优化、数据同步复制与跨数据源兼容支持")
-    elif category == "网络安全与逆向":
-        features.append("安全检测与逆向分析：包含自动化脆弱性扫描、流量抓取检测及代码审计调试能力")
-    elif category == "影音多媒体与图形":
-        features.append("多媒体渲染与转码：支持音视频多流处理、硬件加速解码、图形渲染与实时传输")
-    elif category == "资源精选与学习指南":
-        features.append("全景知识体系与精选：汇集行业最佳实践、面试指南、高频技术架构与实用资源合集")
-    else:
-        features.append(f"开箱即用：基于 {lang} 构建，工程结构清晰，依赖轻量易维护")
+    # Feature 1: Subcategory specific feature
+    features.append(f"【{subcategory}】专精领域：专注解决 {subcategory} 场景下的核心需求与工程实践")
 
     # Feature 2: Language & Performance
     if lang in ["Go", "Rust", "C", "C++"]:
@@ -483,17 +729,21 @@ def process_all_stars():
 
     enriched_stars = []
     category_counts = collections.Counter()
+    subcategory_counts = collections.defaultdict(collections.Counter)
     language_counts = collections.Counter()
 
     for idx, repo in enumerate(raw_stars):
         category = determine_category(repo)
         category_counts[category] += 1
         
+        subcategory, subcat_icon = determine_subcategory(repo, category)
+        subcategory_counts[category][subcategory] += 1
+        
         lang = repo.get("language") or "Unknown"
         language_counts[lang] += 1
         
-        tags = extract_tags(repo, category)
-        summary_zh, features_zh = generate_summary_and_features(repo, category)
+        tags = extract_tags(repo, category, subcategory)
+        summary_zh, features_zh = generate_summary_and_features(repo, category, subcategory)
         
         enriched_item = {
             "id": repo.get("id"),
@@ -508,6 +758,8 @@ def process_all_stars():
             "features_zh": features_zh,
             "category": category,
             "category_icon": CATEGORIES.get(category, {}).get("icon", "📦"),
+            "subcategory": subcategory,
+            "subcategory_icon": subcat_icon,
             "language": repo.get("language") or "Unknown",
             "tags": tags,
             "topics": repo.get("topics") or [],
@@ -521,14 +773,13 @@ def process_all_stars():
         }
         enriched_stars.append(enriched_item)
 
-    print("\n--- 分类统计概览 ---")
+    print("\n--- 一级与二级分类统计概览 ---")
     for cat, count in category_counts.most_common():
         icon = CATEGORIES.get(cat, {}).get("icon", "")
-        print(f"{icon} {cat}: {count} 个项目 ({count/len(enriched_stars)*100:.1f}%)")
-
-    print("\n--- 主要编程语言分布 ---")
-    for lang, count in language_counts.most_common(12):
-        print(f"• {lang}: {count} 个项目")
+        print(f"\n{icon} 【{cat}】 ({count} 个项目, {count/len(enriched_stars)*100:.1f}%):")
+        for subcat, sub_count in subcategory_counts[cat].most_common():
+            sub_icon = SUBCATEGORIES.get(cat, {}).get(subcat, {}).get("icon", "•")
+            print(f"   └── {sub_icon} {subcat}: {sub_count} 个")
 
     with open(ENRICHED_FILE, "w", encoding="utf-8") as f:
         json.dump(enriched_stars, f, ensure_ascii=False, indent=2)
