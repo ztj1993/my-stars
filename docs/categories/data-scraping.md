@@ -15,14 +15,14 @@
 ## 1. 🕷️ 网页爬虫与自动化 (8 个项目)
 
 ### 1. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-- **⭐ Stars**: `95,607` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
+- **⭐ Stars**: `95,614` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `automation` `chrome` `chromium` `developer-tools` `firefox`
 - **📝 中文介绍**: 基于 TypeScript 构建：JavaScript API for Chrome and Firefox （技术标签: automation, chrome, chromium）。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 95,607）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 95,614）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [ariya/phantomjs](https://github.com/ariya/phantomjs)
 - **⭐ Stars**: `29,436` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
@@ -35,14 +35,14 @@
   - 超高人气（★ 29,436）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab)
-- **⭐ Stars**: `12,273` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Go`
+- **⭐ Stars**: `12,275` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `crawlab` `crawler` `crawling-tasks` `docker` `platform`
 - **📝 中文介绍**: Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 12,273）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 12,275）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler)
 - **⭐ Stars**: `5,638` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
@@ -55,24 +55,24 @@
   - 热门高星（★ 5,638）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 5. [my8100/scrapydweb](https://github.com/my8100/scrapydweb)
-- **⭐ Stars**: `3,411` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
+- **⭐ Stars**: `3,412` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `dashboard` `log-analysis` `log-parsing` `scrapy` `scrapy-log-analysis`
 - **📝 中文介绍**: Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. Docs 文档 :point_right:。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,411）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,412）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 6. [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper)
-- **⭐ Stars**: `2,762` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
+- **⭐ Stars**: `2,763` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `dashboard` `scrapy` `scrapy-ui` `scrapyd` `scrapyd-dashboard`
 - **📝 中文介绍**: admin ui for scrapy/开源 scrapinghub。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,762）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,763）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [simplecrawler/simplecrawler](https://github.com/simplecrawler/simplecrawler)
 - **⭐ Stars**: `2,132` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
@@ -108,14 +108,14 @@
   - 超高人气（★ 13,867）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle)
-- **⭐ Stars**: `8,397` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Java`
+- **⭐ Stars**: `8,399` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Java`
 - **🏷️ 标签**: `Java`
 - **📝 中文介绍**: 基于 Java 构建：Pentaho Data Integration ( ETL ) a.k.a Kettle。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 8,397）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,399）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 3. [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord)
 - **⭐ Stars**: `7,591` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
@@ -148,14 +148,14 @@
   - 热门高星（★ 4,757）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 6. [pydata/numexpr](https://github.com/pydata/numexpr)
-- **⭐ Stars**: `2,541` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Python`
+- **⭐ Stars**: `2,542` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Python`
 - **🏷️ 标签**: `Python`
 - **📝 中文介绍**: 基于 Python 构建：Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,541）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,542）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [naorlivne/parse_it](https://github.com/naorlivne/parse_it)
 - **⭐ Stars**: `118` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Python`
