@@ -15,14 +15,14 @@
 ## 1. 🕷️ 网页爬虫与自动化 (8 个项目)
 
 ### 1. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-- **⭐ Stars**: `95,618` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
+- **⭐ Stars**: `95,622` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `automation` `chrome` `chromium` `developer-tools` `firefox`
 - **📝 中文介绍**: 基于 TypeScript 构建：JavaScript API for Chrome and Firefox （技术标签: automation, chrome, chromium）。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 95,618）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 95,622）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [ariya/phantomjs](https://github.com/ariya/phantomjs)
 - **⭐ Stars**: `29,437` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
@@ -98,34 +98,34 @@
 ## 2. 📊 数据解析与表格处理 (7 个项目)
 
 ### 1. [json-iterator/go](https://github.com/json-iterator/go)
-- **⭐ Stars**: `13,867` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Go`
+- **⭐ Stars**: `13,866` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `deserialization` `golang` `json` `json-parser` `parser`
 - **📝 中文介绍**: 高性能 100% compatible drop-in replacement of "encoding/json"。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 13,867）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 13,866）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle)
-- **⭐ Stars**: `8,400` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Java`
+- **⭐ Stars**: `8,399` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Java`
 - **🏷️ 标签**: `Java`
 - **📝 中文介绍**: 基于 Java 构建：Pentaho Data Integration ( ETL ) a.k.a Kettle。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 8,400）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,399）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 3. [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord)
-- **⭐ Stars**: `7,591` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
+- **⭐ Stars**: `7,593` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP` `doc` `docx` `html` `libreoffice-writer` `msword`
 - **📝 中文介绍**: pure PHP 库 for reading and writing word processing documents。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 7,591）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,593）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 4. [zircote/swagger-php](https://github.com/zircote/swagger-php)
 - **⭐ Stars**: `5,310` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
