@@ -15,14 +15,14 @@
 ## 1. 🕷️ 网页爬虫与自动化 (8 个项目)
 
 ### 1. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-- **⭐ Stars**: `95,622` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
+- **⭐ Stars**: `95,625` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `automation` `chrome` `chromium` `developer-tools` `firefox`
 - **📝 中文介绍**: 基于 TypeScript 构建：JavaScript API for Chrome and Firefox （技术标签: automation, chrome, chromium）。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 95,622）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 95,625）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [ariya/phantomjs](https://github.com/ariya/phantomjs)
 - **⭐ Stars**: `29,437` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
@@ -45,14 +45,14 @@
   - 超高人气（★ 12,277）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler)
-- **⭐ Stars**: `5,637` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
+- **⭐ Stars**: `5,636` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `chrome` `chromium` `crawler` `crawling` `headless-chrome`
 - **📝 中文介绍**: 分布式 爬虫 powered by Headless Chrome。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,637）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,636）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 5. [my8100/scrapydweb](https://github.com/my8100/scrapydweb)
 - **⭐ Stars**: `3,412` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
@@ -138,14 +138,14 @@
   - 热门高星（★ 5,310）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 5. [jazzband/tablib](https://github.com/jazzband/tablib)
-- **⭐ Stars**: `4,756` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Python`
+- **⭐ Stars**: `4,757` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Python`
 - **🏷️ 标签**: `Python`
 - **📝 中文介绍**: 用于表格数据集处理格式化库，支持 XLS、CSV、JSON、YAML 等多种格式自由互转。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 4,756）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 4,757）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 6. [pydata/numexpr](https://github.com/pydata/numexpr)
 - **⭐ Stars**: `2,542` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Python`
