@@ -15,24 +15,24 @@
 ## 1. 🕷️ 网页爬虫与自动化 (8 个项目)
 
 ### 1. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-- **⭐ Stars**: `95,648` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
+- **⭐ Stars**: `95,656` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `automation` `chrome` `chromium` `developer-tools` `firefox`
 - **📝 中文介绍**: 基于 TypeScript 构建：JavaScript API for Chrome and Firefox （技术标签: automation, chrome, chromium）。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 95,648）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 95,656）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [ariya/phantomjs](https://github.com/ariya/phantomjs)
-- **⭐ Stars**: `29,438` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
+- **⭐ Stars**: `29,440` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `automation` `headless` `headless-browser` `phantomjs`
 - **📝 中文介绍**: 基于 C++ 构建：Scriptable Headless Browser （技术标签: automation, headless, headless-browser）。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 29,438）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 29,440）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab)
 - **⭐ Stars**: `12,276` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Go`
@@ -171,12 +171,12 @@
 ## 3. 📈 数据可视化与报表 (1 个项目)
 
 ### 1. [iamkun/dayjs](https://github.com/iamkun/dayjs)
-- **⭐ Stars**: `48,665` | **二级分类**: 📈 `数据可视化与报表` | **语言**: `JavaScript`
+- **⭐ Stars**: `48,663` | **二级分类**: 📈 `数据可视化与报表` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `date` `date-formatting` `datetime` `dayjs` `moment`
 - **📝 中文介绍**: 极简高效的现代化日期时间处理库（仅 2KB），拥有与 Moment.js 兼容的 API 规范。
 - **✨ 核心功能与亮点**:
   - 【数据可视化与报表】专精领域：专注解决 数据可视化与报表 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 48,665）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 48,663）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
