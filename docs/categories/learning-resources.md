@@ -14,144 +14,144 @@
 ## 1. 🌟 Awesome 精选合集 (20 个项目)
 
 ### 1. [public-apis/public-apis](https://github.com/public-apis/public-apis)
-- **⭐ Stars**: `486,820` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
+- **⭐ Stars**: `487,030` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `api` `apis` `dataset` `development` `free`
 - **📝 中文介绍**: 基于 Python 构建：collective list of free APIs （技术标签: api, apis, dataset）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 486,820）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 487,030）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [vinta/awesome-python](https://github.com/vinta/awesome-python)
-- **⭐ Stars**: `325,952` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
+- **⭐ Stars**: `326,196` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `awesome` `awesome-list` `python-frameworks` `python-libraries` `python-tools`
 - **📝 中文介绍**: 基于 Python 构建：definitive list that answers "I want to do X in Python, which tool should I use?" （技术标签: awesome, awesome-list, python）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 325,952）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 326,196）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-- **⭐ Stars**: `180,705` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
+- **⭐ Stars**: `180,967` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `awesome` `github` `hellogithub`
 - **📝 中文介绍**: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 180,705）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 180,967）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
-- **⭐ Stars**: `129,144` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `JavaScript`
+- **⭐ Stars**: `129,151` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `astro` `awesome-list` `css` `education` `es6-javascript`
 - **📝 中文介绍**: 基于 JavaScript 构建：Coding articles to level up your development skills （技术标签: astro, awesome-list, css）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 129,144）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 129,151）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-- **⭐ Stars**: `95,946` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
+- **⭐ Stars**: `96,006` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
 - **🏷️ 标签**: `ai` `mcp`
 - **📝 中文介绍**: 精选的模型上下文协议（MCP）服务端与生态工具资源大合集。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - AI 智能体集成：支持多模型对接（OpenAI、Claude、本地模型等）与灵活 Prompt 编排
-  - 超高人气（★ 95,946）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 96,006）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-- **⭐ Stars**: `74,591` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
+- **⭐ Stars**: `74,612` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
 - **🏷️ 标签**: `architecture` `awesome` `awesome-list` `backend` `big-data` `computer-science`
 - **📝 中文介绍**: 基于 多语言 构建：Patterns of Scalable, Reliable, and Performant Large-Scale Systems （技术标签: architecture, awesome, awesome-list）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 74,591）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 74,612）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [slatedocs/slate](https://github.com/slatedocs/slate)
-- **⭐ Stars**: `36,022` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
+- **⭐ Stars**: `36,019` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
 - **🏷️ 标签**: `api` `api-documentation` `slate` `static-site-generator` `API`
 - **📝 中文介绍**: 基于 多语言 构建：Beautiful static documentation for your API （技术标签: api, api-documentation, slate）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 36,022）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 36,019）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [emirpasic/gods](https://github.com/emirpasic/gods)
-- **⭐ Stars**: `17,458` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Go`
+- **⭐ Stars**: `17,457` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `avl-tree` `b-tree` `binary-heap` `data-structure` `enumerable`
 - **📝 中文介绍**: 基于 Go 构建：GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more （技术标签: avl-tree, b-tree, binary-heap）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 17,458）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 17,457）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [jupyter/jupyter](https://github.com/jupyter/jupyter)
-- **⭐ Stars**: `15,351` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
+- **⭐ Stars**: `15,352` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
 - **🏷️ 标签**: `Python`
 - **📝 中文介绍**: 基于 Python 构建：Jupyter metapackage for installation and documentation。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 15,351）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 15,352）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql)
-- **⭐ Stars**: `15,135` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
+- **⭐ Stars**: `15,134` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
 - **🏷️ 标签**: `awesome` `awesome-list` `graphql` `list`
 - **📝 中文介绍**: 基于 多语言 构建：Awesome list of GraphQL （技术标签: awesome, awesome-list, graphql）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 15,135）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 15,134）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask)
-- **⭐ Stars**: `12,785` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
+- **⭐ Stars**: `12,784` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
 - **🏷️ 标签**: `awesome` `awesome-list` `flask` `flask-resources` `python`
 - **📝 中文介绍**: 精选合集： awesome Flask resources and plugins。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 12,785）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 12,784）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas)
-- **⭐ Stars**: `10,104` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
+- **⭐ Stars**: `10,106` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `awesome` `awesome-list` `list` `open-source` `self-hosted`
 - **📝 中文介绍**: 基于 Python 构建：List of "only yours" cloud services for everyday needs :black_flag: （技术标签: awesome, awesome-list, list）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 10,104）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 10,106）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)
-- **⭐ Stars**: `9,542` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `CSS`
+- **⭐ Stars**: `9,540` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `CSS`
 - **🏷️ 标签**: `CSS` `awesome` `awesome-list` `collection` `css-framework` `framework`
 - **📝 中文介绍**: 基于 CSS 构建：List of awesome CSS frameworks in 2026 （技术标签: awesome, awesome-list, collection）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 9,542）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 9,540）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 14. [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
-- **⭐ Stars**: `3,959` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
+- **⭐ Stars**: `3,958` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
 - **🏷️ 标签**: 
 - **📝 中文介绍**: 精选的 AI 驱动开发者工具、辅助编程与研发提效资源列表。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,959）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,958）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 15. [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide)
 - **⭐ Stars**: `3,535` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Unknown`
@@ -194,14 +194,14 @@
   - 热门高星（★ 2,431）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 19. [petronny/gfwlist2pac](https://github.com/petronny/gfwlist2pac)
-- **⭐ Stars**: `1,824` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `JavaScript`
+- **⭐ Stars**: `1,825` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript`
 - **📝 中文介绍**: 基于 JavaScript 构建：Automatically convert gfwlist to pac everyday。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 1,824）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 1,825）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 20. [wqking/eventpy](https://github.com/wqking/eventpy)
 - **⭐ Stars**: `48` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
@@ -217,34 +217,34 @@
 ## 2. 📖 学习路线与实战指南 (6 个项目)
 
 ### 1. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-- **⭐ Stars**: `373,466` | **二级分类**: 📖 `学习路线与实战指南` | **语言**: `Python`
+- **⭐ Stars**: `373,586` | **二级分类**: 📖 `学习路线与实战指南` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `design` `design-patterns` `design-system` `development` `interview`
 - **📝 中文介绍**: 基于 Python 构建：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. （技术标签: design, design-patterns, design-system）。
 - **✨ 核心功能与亮点**:
   - 【学习路线与实战指南】专精领域：专注解决 学习路线与实战指南 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 373,466）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 373,586）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-- **⭐ Stars**: `102,564` | **二级分类**: 📖 `学习路线与实战指南` | **语言**: `Unknown`
+- **⭐ Stars**: `102,608` | **二级分类**: 📖 `学习路线与实战指南` | **语言**: `Unknown`
 - **🏷️ 标签**: `chinese` `cookbook` `cooking` `dishes` `recipes` `GUI/WebUI`
 - **📝 中文介绍**: 基于 多语言 构建：Programmer's guide about how to cook at home. （技术标签: chinese, cookbook, cooking）。
 - **✨ 核心功能与亮点**:
   - 【学习路线与实战指南】专精领域：专注解决 学习路线与实战指南 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 102,564）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 102,608）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-- **⭐ Stars**: `67,499` | **二级分类**: 📖 `学习路线与实战指南` | **语言**: `Python`
+- **⭐ Stars**: `67,512` | **二级分类**: 📖 `学习路线与实战指南` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `data-analysis` `data-science` `machine-learning` `statistics`
 - **📝 中文介绍**: 基于 Python 构建：scikit-learn: machine learning in Python （技术标签: data-analysis, data-science, machine-learning）。
 - **✨ 核心功能与亮点**:
   - 【学习路线与实战指南】专精领域：专注解决 学习路线与实战指南 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 67,499）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 67,512）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 - **⭐ Stars**: `43,740` | **二级分类**: 📖 `学习路线与实战指南` | **语言**: `Jupyter Notebook`
