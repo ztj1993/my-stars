@@ -25,24 +25,24 @@
   - 超高人气（★ 21,668）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [1N3/Sn1per](https://github.com/1N3/Sn1per)
-- **⭐ Stars**: `11,415` | **二级分类**: 🛡️ `网络安全攻防与审计` | **语言**: `Shell`
+- **⭐ Stars**: `11,422` | **二级分类**: 🛡️ `网络安全攻防与审计` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `attack-surface` `attack-surface-management` `attacksurface` `bugbounty-platform` `cybersecurity`
 - **📝 中文介绍**: Automated penetration 测试 & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
 - **✨ 核心功能与亮点**:
   - 【网络安全攻防与审计】专精领域：专注解决 网络安全攻防与审计 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 11,415）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 11,422）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [pyca/cryptography](https://github.com/pyca/cryptography)
-- **⭐ Stars**: `7,801` | **二级分类**: 🛡️ `网络安全攻防与审计` | **语言**: `Python`
+- **⭐ Stars**: `7,804` | **二级分类**: 🛡️ `网络安全攻防与审计` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `cryptography`
 - **📝 中文介绍**: 基于 Python 构建：cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. （技术标签: cryptography, python）。
 - **✨ 核心功能与亮点**:
   - 【网络安全攻防与审计】专精领域：专注解决 网络安全攻防与审计 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 7,801）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,804）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 4. [hacklcx/HFish](https://github.com/hacklcx/HFish)
 - **⭐ Stars**: `4,555` | **二级分类**: 🛡️ `网络安全攻防与审计` | **语言**: `Unknown`
@@ -65,14 +65,14 @@
   - 热门高星（★ 3,931）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 6. [flipkart-incubator/Astra](https://github.com/flipkart-incubator/Astra)
-- **⭐ Stars**: `2,670` | **二级分类**: 🛡️ `网络安全攻防与审计` | **语言**: `Python`
+- **⭐ Stars**: `2,669` | **二级分类**: 🛡️ `网络安全攻防与审计` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `ci-cd` `owasp` `penetration-testing` `penetration-testing-framework` `postman-collection`
 - **📝 中文介绍**: Automated 安全 测试 For REST API's。
 - **✨ 核心功能与亮点**:
   - 【网络安全攻防与审计】专精领域：专注解决 网络安全攻防与审计 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,670）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,669）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket)
 - **⭐ Stars**: `1,931` | **二级分类**: 🛡️ `网络安全攻防与审计` | **语言**: `C`
@@ -108,14 +108,14 @@
   - 热门高星（★ 8,999）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 2. [code-kotis/qr-code-scanner](https://github.com/code-kotis/qr-code-scanner)
-- **⭐ Stars**: `1,062` | **二级分类**: 🔍 `漏洞扫描与渗透测试` | **语言**: `JavaScript`
+- **⭐ Stars**: `1,061` | **二级分类**: 🔍 `漏洞扫描与渗透测试` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `barcode` `barcode-scanner` `progressive-web-app` `pwa` `pwa-apps`
 - **📝 中文介绍**: 基于 JavaScript 构建：📠 A simple, fast and useful progressive web application （技术标签: barcode, barcode-scanner, progressive-web-app）。
 - **✨ 核心功能与亮点**:
   - 【漏洞扫描与渗透测试】专精领域：专注解决 漏洞扫描与渗透测试 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 1,062）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 1,061）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 
 ## 3. 🔬 逆向工程与调试 (2 个项目)
