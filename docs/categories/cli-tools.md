@@ -17,44 +17,44 @@
 ## 1. ⚡ 账号管理与开发提效 (43 个项目)
 
 ### 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
-- **⭐ Stars**: `61,916` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Unknown`
+- **⭐ Stars**: `61,935` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Unknown`
 - **🏷️ 标签**: `china` `indie` `indie-developer`
 - **📝 中文介绍**: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 61,916）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 61,935）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [apache/airflow](https://github.com/apache/airflow)
-- **⭐ Stars**: `47,279` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
+- **⭐ Stars**: `47,287` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `airflow` `apache` `apache-airflow` `automation` `dag`
 - **📝 中文介绍**: 基于 Python 构建：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows （技术标签: airflow, apache, apache-airflow）。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 47,279）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 47,287）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [jgm/pandoc](https://github.com/jgm/pandoc)
-- **⭐ Stars**: `46,693` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Haskell`
+- **⭐ Stars**: `46,709` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Haskell`
 - **🏷️ 标签**: `Haskell` `commonmark` `converter` `document` `markdown` `markup`
 - **📝 中文介绍**: 基于 Haskell 构建：Universal markup converter （技术标签: commonmark, converter, document）。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 46,693）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 46,709）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [restic/restic](https://github.com/restic/restic)
-- **⭐ Stars**: `36,801` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Go`
+- **⭐ Stars**: `36,825` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `backup` `dedupe` `deduplication` `restic` `secure-by-default`
 - **📝 中文介绍**: Fast, secure, efficient 备份 program。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 36,801）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 36,825）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [testerSunshine/12306](https://github.com/testerSunshine/12306)
 - **⭐ Stars**: `34,039` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
@@ -67,34 +67,34 @@
   - 超高人气（★ 34,039）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
-- **⭐ Stars**: `32,570` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Rust`
+- **⭐ Stars**: `32,592` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `account-manager` `antigravity` `CLI`
 - **📝 中文介绍**: 专业 Antigravity 账号管理与一键无缝切换桌面客户端（基于 Tauri v2 + React）。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 32,570）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 32,592）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat)
-- **⭐ Stars**: `26,453` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
+- **⭐ Stars**: `26,452` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `api` `itchat` `robot` `wechat` `API`
 - **📝 中文介绍**: A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 26,453）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 26,452）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)
-- **⭐ Stars**: `24,075` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
+- **⭐ Stars**: `24,082` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `automation` `data` `data-engineering` `data-ops` `data-science`
 - **📝 中文介绍**: Prefect is a 工作流 编排 框架 for building resilient data pipelines in Python.
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 24,075）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 24,082）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [joke2k/faker](https://github.com/joke2k/faker)
 - **⭐ Stars**: `19,464` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
@@ -107,44 +107,44 @@
   - 超高人气（★ 19,464）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
-- **⭐ Stars**: `19,350` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Rust`
+- **⭐ Stars**: `19,381` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `account-manager` `ai` `antigravity` `codebuddy` `codex`
 - **📝 中文介绍**: 通用 AI IDE 账号管理工具，支持 Antigravity/Cursor/Copilot 多账号无缝切换与配额监控。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - AI 智能体集成：支持多模型对接（OpenAI、Claude、本地模型等）与灵活 Prompt 编排
-  - 超高人气（★ 19,350）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 19,381）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [spotify/luigi](https://github.com/spotify/luigi)
-- **⭐ Stars**: `18,782` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
+- **⭐ Stars**: `18,784` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `hadoop` `luigi` `orchestration-framework` `scheduling`
 - **📝 中文介绍**: Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, 工作流 management, 可视化 etc. It also comes with Hadoop support built in.
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 18,782）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 18,784）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [youfou/wxpy](https://github.com/youfou/wxpy)
-- **⭐ Stars**: `14,255` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
+- **⭐ Stars**: `14,254` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `api` `wechat` `weixin` `API`
 - **📝 中文介绍**: 微信机器人 / 可能是最优雅的微信个人号 API ✨✨。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 14,255）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 14,254）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [lz4/lz4](https://github.com/lz4/lz4)
-- **⭐ Stars**: `12,168` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `C`
+- **⭐ Stars**: `12,172` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `C`
 - **🏷️ 标签**: `C` `compression` `lz4`
 - **📝 中文介绍**: 基于 C 构建：Extremely Fast Compression algorithm （技术标签: c, compression, lz4）。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 12,168）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 12,172）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 14. [CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets)
 - **⭐ Stars**: `10,611` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Jupyter Notebook`
@@ -167,34 +167,34 @@
   - 热门高星（★ 7,416）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 16. [python-openxml/python-docx](https://github.com/python-openxml/python-docx)
-- **⭐ Stars**: `5,749` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
+- **⭐ Stars**: `5,750` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
 - **🏷️ 标签**: `Python`
 - **📝 中文介绍**: 基于 Python 构建：Create and modify Word documents with Python。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,749）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,750）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 17. [eradman/entr](https://github.com/eradman/entr)
-- **⭐ Stars**: `5,719` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `C`
+- **⭐ Stars**: `5,718` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `C`
 - **🏷️ 标签**: `C` `inotify` `kqueue` `test-automation`
 - **📝 中文介绍**: 基于 C 构建：Run arbitrary commands when files change （技术标签: inotify, kqueue, test-automation）。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,719）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,718）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 18. [mcxiaoke/mqtt](https://github.com/mcxiaoke/mqtt)
-- **⭐ Stars**: `5,203` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Rich Text Format`
+- **⭐ Stars**: `5,204` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Rich Text Format`
 - **🏷️ 标签**: `Rich Text Format` `mqtt`
 - **📝 中文介绍**: MQTT协议3.1.1中文翻译版，IoT，物联网。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,203）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,204）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 19. [life4/textdistance](https://github.com/life4/textdistance)
 - **⭐ Stars**: `3,544` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
@@ -237,14 +237,14 @@
   - 热门高星（★ 2,537）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 23. [vmware/pyvmomi](https://github.com/vmware/pyvmomi)
-- **⭐ Stars**: `2,321` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
+- **⭐ Stars**: `2,323` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `API`
 - **📝 中文介绍**: 基于 Python 构建：VMware vSphere API Python Bindings。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,321）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,323）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 24. [realpython/python-scripts](https://github.com/realpython/python-scripts)
 - **⭐ Stars**: `2,161` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
@@ -267,14 +267,14 @@
   - 热门高星（★ 1,923）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 26. [TeamWin/android_bootable_recovery](https://github.com/TeamWin/android_bootable_recovery)
-- **⭐ Stars**: `1,721` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `C++`
+- **⭐ Stars**: `1,722` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `C++`
 - **🏷️ 标签**: `C++`
 - **📝 中文介绍**: 基于 C++ 开发的实用开源项目与工具 android_bootable_recovery。
 - **✨ 核心功能与亮点**:
   - 【账号管理与开发提效】专精领域：专注解决 账号管理与开发提效 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 1,721）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 1,722）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 27. [vmware/pyvmomi-community-samples](https://github.com/vmware/pyvmomi-community-samples)
 - **⭐ Stars**: `1,040` | **二级分类**: ⚡ `账号管理与开发提效` | **语言**: `Python`
@@ -450,54 +450,54 @@
 ## 2. 💻 终端工具与 TUI (37 个项目)
 
 ### 1. [n8n-io/n8n](https://github.com/n8n-io/n8n)
-- **⭐ Stars**: `208,600` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
+- **⭐ Stars**: `208,693` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `ai` `apis` `automation` `cli` `data-flow`
 - **📝 中文介绍**: Fair-code 工作流 自动化 platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 208,600）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 208,693）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-- **⭐ Stars**: `190,165` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Shell`
+- **⭐ Stars**: `190,176` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `cli` `cli-app` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme`
 - **📝 中文介绍**: 🙃 A delightful community-driven (with 2,500+ contributors) 框架 for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, Docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 190,165）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 190,176）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-- **⭐ Stars**: `83,417` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Go`
+- **⭐ Stars**: `83,433` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `cli` `git` `terminal` `CLI`
 - **📝 中文介绍**: 基于 Go 构建：simple terminal UI for git commands （技术标签: cli, git, terminal）。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 83,417）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 83,433）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [certbot/certbot](https://github.com/certbot/certbot)
-- **⭐ Stars**: `33,297` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
+- **⭐ Stars**: `33,300` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `acme` `acme-client` `certbot` `certificate` `letsencrypt`
 - **📝 中文介绍**: Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your 服务端. It can also act as a 客户端 for any other CA that uses the ACME protocol.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 33,297）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 33,300）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
-- **⭐ Stars**: `32,191` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
+- **⭐ Stars**: `32,208` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `automation` `cli` `json` `money` `outreach`
 - **📝 中文介绍**: 基于 Python 构建：Automate the process of making money online. （技术标签: automation, cli, json）。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 32,191）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 32,208）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [google/python-fire](https://github.com/google/python-fire)
 - **⭐ Stars**: `28,231` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
@@ -510,34 +510,34 @@
   - 超高人气（★ 28,231）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
-- **⭐ Stars**: `26,758` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `C#`
+- **⭐ Stars**: `26,775` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `C#`
 - **🏷️ 标签**: `C#` `chocolatey` `cli` `npm` `package` `package-manager`
 - **📝 中文介绍**: UniGetUI: The Graphical 界面 for your package managers. Could be terribly described as a 包管理器 管理器 to manage your package managers。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 26,758）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 26,775）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [allinurl/goaccess](https://github.com/allinurl/goaccess)
-- **⭐ Stars**: `21,083` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `C`
+- **⭐ Stars**: `21,086` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `C`
 - **🏷️ 标签**: `C` `analytics` `apache` `caddy` `cli` `command-line`
 - **📝 中文介绍**: GoAccess is a 实时 web log 分析器 and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 21,083）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 21,086）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [nhn/tui.editor](https://github.com/nhn/tui.editor)
-- **⭐ Stars**: `17,998` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
+- **⭐ Stars**: `18,000` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `chart` `commonmark` `documentation` `editor` `frontend`
 - **📝 中文介绍**: 基于 TypeScript 构建：🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. （技术标签: chart, commonmark, documentation）。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 17,998）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 18,000）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
 - **⭐ Stars**: `17,495` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `JavaScript`
@@ -550,34 +550,34 @@
   - 超高人气（★ 17,495）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)
-- **⭐ Stars**: `16,592` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
+- **⭐ Stars**: `16,594` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `aiohttp` `async` `asyncio` `hacktoberfest` `http`
 - **📝 中文介绍**: 异步 HTTP 客户端/服务端 框架 for asyncio and Python。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 16,592）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 16,594）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator)
-- **⭐ Stars**: `16,347` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Java`
+- **⭐ Stars**: `16,351` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `cloud-storage` `crypto` `cryptography` `cryptomator` `encryption`
 - **📝 中文介绍**: Cryptomator for Windows, macOS, and Linux: Secure 客户端-side encryption for your cloud 存储, ensuring privacy and control over your data.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 16,347）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 16,351）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [encode/httpx](https://github.com/encode/httpx)
-- **⭐ Stars**: `15,803` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
+- **⭐ Stars**: `15,818` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `asyncio` `http` `trio` `CLI`
 - **📝 中文介绍**: next generation HTTP 客户端 for Python. 🦋。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 15,803）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 15,818）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 14. [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox)
 - **⭐ Stars**: `15,450` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
@@ -590,54 +590,54 @@
   - 超高人气（★ 15,450）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 15. [kopia/kopia](https://github.com/kopia/kopia)
-- **⭐ Stars**: `14,445` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Go`
+- **⭐ Stars**: `14,490` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `backup` `cloud` `deduplication` `encryption` `google-cloud-storage`
 - **📝 中文介绍**: 跨平台 备份 tool for Windows, macOS & Linux with fast, incremental backups, 客户端-side end-to-end encryption, compression and data deduplication. 命令行工具 and 图形界面 included.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 14,445）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 14,490）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 16. [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP)
-- **⭐ Stars**: `13,889` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `C`
+- **⭐ Stars**: `13,893` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `C`
 - **🏷️ 标签**: `C` `android` `freerdp` `library` `rdp` `rdp-client`
 - **📝 中文介绍**: FreeRDP is a free remote desktop protocol 库 and clients。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 13,889）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 13,893）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 17. [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo)
-- **⭐ Stars**: `10,639` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
+- **⭐ Stars**: `10,641` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `automate` `keyboard` `mouse` `simulation` `CLI`
 - **📝 中文介绍**: 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 10,639）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 10,641）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 18. [hatoo/oha](https://github.com/hatoo/oha)
-- **⭐ Stars**: `10,632` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Rust`
+- **⭐ Stars**: `10,637` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `benchmark` `cli` `command-line` `http` `http2`
 - **📝 中文介绍**: Ohayou(おはよう), HTTP load 生成器, inspired by rakyll/hey with 终端界面 animation.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 10,632）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 10,637）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 19. [houtianze/bypy](https://github.com/houtianze/bypy)
-- **⭐ Stars**: `8,582` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
+- **⭐ Stars**: `8,583` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `CLI`
 - **📝 中文介绍**: Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 8,582）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,583）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 20. [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog)
 - **⭐ Stars**: `7,429` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Python`
@@ -650,44 +650,44 @@
   - 热门高星（★ 7,429）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 21. [humhub/humhub](https://github.com/humhub/humhub)
-- **⭐ Stars**: `6,757` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `PHP`
+- **⭐ Stars**: `6,762` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP` `awesome` `enterprise-social-networks` `humhub` `ldap` `social-network`
 - **📝 中文介绍**: HumHub is an 开源 Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,757）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,762）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 22. [netless-io/flat](https://github.com/netless-io/flat)
-- **⭐ Stars**: `6,437` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
+- **⭐ Stars**: `6,439` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `agora` `agora-flat` `cloud-recording` `e-class` `e-learning`
 - **📝 中文介绍**: Project flat is the Web, Windows and macOS 客户端 of Agora Flat 开源 classroom.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,437）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,439）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 23. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-- **⭐ Stars**: `6,238` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `C#`
+- **⭐ Stars**: `6,252` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `C#`
 - **🏷️ 标签**: `C#` `cross-platform` `git` `git-gui` `gui` `CLI`
 - **📝 中文介绍**: Windows/macOS/Linux 图形界面 客户端 for GIT users。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,238）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,252）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 24. [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
-- **⭐ Stars**: `5,997` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `PHP`
+- **⭐ Stars**: `6,001` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP` `code-editor` `file-browser` `file-explorer` `file-management-system` `file-manager`
 - **📝 中文介绍**: Single-file PHP file 管理器, browser and manage your files efficiently and easily with tinyfilemanager。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,997）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,001）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 25. [Hanson/vbot](https://github.com/Hanson/vbot)
 - **⭐ Stars**: `4,617` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `PHP`
@@ -720,14 +720,14 @@
   - 热门高星（★ 3,335）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 28. [nyakang/nyaterm](https://github.com/nyakang/nyaterm)
-- **⭐ Stars**: `1,884` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
-- **🏷️ 标签**: `TypeScript` `otp` `react` `serialport` `sftp` `sftp-client`
-- **📝 中文介绍**: 基于 TypeScript 构建：modern remote terminal workspace （技术标签: otp, react, serialport）。
+- **⭐ Stars**: `1,897` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Rust`
+- **🏷️ 标签**: `Rust` `gpui` `otp` `serialport` `sftp` `sftp-client`
+- **📝 中文介绍**: 基于 Rust 构建：modern remote terminal workspace （技术标签: gpui, otp, serialport）。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
-  - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
+  - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 热门高星（★ 1,884）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 1,897）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 29. [jselbie/stunserver](https://github.com/jselbie/stunserver)
 - **⭐ Stars**: `1,617` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `C++`
@@ -740,14 +740,14 @@
   - 热门高星（★ 1,617）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 30. [ivan-hc/AM](https://github.com/ivan-hc/AM)
-- **⭐ Stars**: `1,432` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Shell`
+- **⭐ Stars**: `1,433` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `am` `appimage` `appimage-collection` `appimage-repository` `appman`
 - **📝 中文介绍**: AppImage 包管理器: AppImage sandboxing, local and system installation, update all AppImages, an extensible 数据库 of AppImages and portable apps, lists for AppImages and other GNU/Linux binaries, integrate AppImages by drag/drop or install unlisted AppImages, conversion of old AppImage types... and more! Manage AppImages like never before!。
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 热门高星（★ 1,432）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 1,433）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 31. [EventSource/eventsource](https://github.com/EventSource/eventsource)
 - **⭐ Stars**: `1,161` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
@@ -823,114 +823,114 @@
 ## 3. 🖥️ 系统增强与桌面工具 (16 个项目)
 
 ### 1. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-- **⭐ Stars**: `139,940` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C`
+- **⭐ Stars**: `140,008` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C`
 - **🏷️ 标签**: `C` `advanced-paste` `color-picker` `command-palette` `desktop` `fancyzones`
 - **📝 中文介绍**: Microsoft PowerToys is 精选合集： utilities that supercharge productivity and customization on Windows。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 139,940）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 140,008）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-- **⭐ Stars**: `21,922` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Batchfile`
+- **⭐ Stars**: `21,931` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Batchfile`
 - **🏷️ 标签**: `Batchfile` `ame-wizard` `atlas` `atlasos` `debloat` `fps`
 - **📝 中文介绍**: 🚀 An open and 轻量级 modification to Windows, designed to optimize performance, privacy and usability.
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 21,922）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 21,931）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [winsw/winsw](https://github.com/winsw/winsw)
-- **⭐ Stars**: `14,384` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C#`
+- **⭐ Stars**: `14,389` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C#`
 - **🏷️ 标签**: `C#` `csharp` `dotnet` `hacktoberfest` `nuget` `windows-service`
 - **📝 中文介绍**: 基于 C# 构建：wrapper executable that can run any executable as a Windows service, in a permissive license. （技术标签: csharp, dotnet, hacktoberfest）。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 14,384）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 14,389）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver)
-- **⭐ Stars**: `10,425` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C++`
+- **⭐ Stars**: `10,430` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `display` `display-driver` `displays` `driver` `drivers`
 - **📝 中文介绍**: 基于 C++ 构建：Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software. （技术标签: display, display-driver, displays）。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 10,425）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 10,430）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [winfsp/winfsp](https://github.com/winfsp/winfsp)
-- **⭐ Stars**: `9,005` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C`
+- **⭐ Stars**: `9,007` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C`
 - **🏷️ 标签**: `C` `driver` `filesystem` `fuse` `gplv3` `kernel`
 - **📝 中文介绍**: 基于 C 构建：Windows File System Proxy - FUSE for Windows （技术标签: driver, filesystem, fuse）。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 9,005）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 9,007）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 6. [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)
-- **⭐ Stars**: `8,331` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Unknown`
+- **⭐ Stars**: `8,332` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Unknown`
 - **🏷️ 标签**: `c` `ssh` `windows`
 - **📝 中文介绍**: 基于 多语言 构建：Win32 port of OpenSSH （技术标签: c, ssh, windows）。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 8,331）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,332）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win)
-- **⭐ Stars**: `6,258` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C#`
+- **⭐ Stars**: `6,259` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `C#`
 - **🏷️ 标签**: `C#` `hyper-v` `usb` `usbip` `usbip-win` `usbipd`
 - **📝 中文介绍**: 基于 C# 构建：Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2. （技术标签: hyper-v, usb, usbip）。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,258）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,259）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 8. [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10)
-- **⭐ Stars**: `6,136` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `PowerShell`
+- **⭐ Stars**: `6,135` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `PowerShell`
 - **🏷️ 标签**: `PowerShell` `cleanup` `powershell-scripts` `windows-10`
 - **📝 中文介绍**: 精选合集： Scripts Which Disable / Remove Windows 10 Features and Apps。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,136）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,135）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 9. [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP)
-- **⭐ Stars**: `3,250` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Rust`
+- **⭐ Stars**: `3,254` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `rdp` `GUI/WebUI`
 - **📝 中文介绍**: 基于 Rust 构建：Rust implementation of the Microsoft Remote Desktop Protocol (RDP) （技术标签: rdp, rust）。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,250）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,254）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 10. [Xpra-org/xpra](https://github.com/Xpra-org/xpra)
-- **⭐ Stars**: `3,030` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Python`
+- **⭐ Stars**: `3,032` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `network-access` `remote-app` `remote-desktop` `GUI/WebUI`
 - **📝 中文介绍**: 基于 Python 构建：Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows. （技术标签: network-access, remote-app, remote-desktop）。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,030）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,032）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 11. [pallets-eco/blinker](https://github.com/pallets-eco/blinker)
-- **⭐ Stars**: `2,107` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Python`
+- **⭐ Stars**: `2,108` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `blinker` `signals`
 - **📝 中文介绍**: 基于 Python 构建：fast Python in-process signal/event dispatching system. （技术标签: blinker, python, signals）。
 - **✨ 核心功能与亮点**:
   - 【系统增强与桌面工具】专精领域：专注解决 系统增强与桌面工具 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,107）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,108）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 12. [yohang/Finite](https://github.com/yohang/Finite)
 - **⭐ Stars**: `1,349` | **二级分类**: 🖥️ `系统增强与桌面工具` | **语言**: `PHP`
@@ -986,34 +986,34 @@
 ## 4. 🔧 开发规范与代码管理 (10 个项目)
 
 ### 1. [jashkenas/underscore](https://github.com/jashkenas/underscore)
-- **⭐ Stars**: `27,311` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `JavaScript`
+- **⭐ Stars**: `27,308` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript`
 - **📝 中文介绍**: 基于 JavaScript 构建：JavaScript's utility _ belt。
 - **✨ 核心功能与亮点**:
   - 【开发规范与代码管理】专精领域：专注解决 开发规范与代码管理 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 27,311）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 27,308）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool)
-- **⭐ Stars**: `14,593` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `PowerShell`
+- **⭐ Stars**: `14,600` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `PowerShell`
 - **🏷️ 标签**: `PowerShell` `msoffice` `msproject` `office` `office-365` `office-tools`
 - **📝 中文介绍**: 基于 PowerShell 构建：Office Tool Plus localization projects. （技术标签: msoffice, msproject, office）。
 - **✨ 核心功能与亮点**:
   - 【开发规范与代码管理】专精领域：专注解决 开发规范与代码管理 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 14,593）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 14,600）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [phpstan/phpstan](https://github.com/phpstan/phpstan)
-- **⭐ Stars**: `14,141` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `PHP`
+- **⭐ Stars**: `14,142` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP` `php7` `phpstan` `static-analysis` `static-analyzer` `static-code-analysis`
 - **📝 中文介绍**: 基于 PHP 构建：PHP Static Analysis Tool - discover bugs in your code without running it! （技术标签: php, php7, phpstan）。
 - **✨ 核心功能与亮点**:
   - 【开发规范与代码管理】专精领域：专注解决 开发规范与代码管理 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 14,141）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 14,142）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe)
 - **⭐ Stars**: `6,953` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `Haxe`
@@ -1046,24 +1046,24 @@
   - 热门高星（★ 5,629）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor)
-- **⭐ Stars**: `5,339` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `TypeScript`
+- **⭐ Stars**: `5,340` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `svg` `svg-editor` `svg-parser` `svg-path`
 - **📝 中文介绍**: 基于 TypeScript 构建：Online editor to create and manipulate SVG paths （技术标签: svg, svg-editor, svg-parser）。
 - **✨ 核心功能与亮点**:
   - 【开发规范与代码管理】专精领域：专注解决 开发规范与代码管理 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,339）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,340）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 8. [git-cola/git-cola](https://github.com/git-cola/git-cola)
-- **⭐ Stars**: `2,584` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `Python`
+- **⭐ Stars**: `2,585` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `cross-platform-gui` `debian` `diff` `editor` `git`
 - **📝 中文介绍**: git-cola: The highly caffeinated Git 图形界面。
 - **✨ 核心功能与亮点**:
   - 【开发规范与代码管理】专精领域：专注解决 开发规范与代码管理 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,584）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,585）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 9. [liexusong/php-beast](https://github.com/liexusong/php-beast)
 - **⭐ Stars**: `1,737` | **二级分类**: 🔧 `开发规范与代码管理` | **语言**: `C`
@@ -1089,44 +1089,44 @@
 ## 5. 📥 下载器与传输工具 (6 个项目)
 
 ### 1. [syncthing/syncthing](https://github.com/syncthing/syncthing)
-- **⭐ Stars**: `89,748` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `Go`
+- **⭐ Stars**: `89,783` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `p2p` `peer-to-peer` `synchronization`
 - **📝 中文介绍**: 开源 Continuous File Synchronization。
 - **✨ 核心功能与亮点**:
   - 【下载器与传输工具】专精领域：专注解决 下载器与传输工具 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 89,748）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 89,783）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
-- **⭐ Stars**: `41,118` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `C++`
+- **⭐ Stars**: `41,148` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `bittorrent` `bittorrent-client` `c-plus-plus` `crossplatform` `torrent`
 - **📝 中文介绍**: qBittorrent BitTorrent 客户端。
 - **✨ 核心功能与亮点**:
   - 【下载器与传输工具】专精领域：专注解决 下载器与传输工具 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 41,118）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 41,148）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [httpie/cli](https://github.com/httpie/cli)
-- **⭐ Stars**: `38,675` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `Python`
+- **⭐ Stars**: `38,676` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `api` `api-client` `api-testing` `cli` `client`
 - **📝 中文介绍**: 🥧 HTTPie 命令行工具 — modern, user-friendly 命令行 HTTP 客户端 for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - **✨ 核心功能与亮点**:
   - 【下载器与传输工具】专精领域：专注解决 下载器与传输工具 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 38,675）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 38,676）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [transmission/transmission](https://github.com/transmission/transmission)
-- **⭐ Stars**: `15,347` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `C++`
+- **⭐ Stars**: `15,354` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `CLI`
 - **📝 中文介绍**: Official Transmission BitTorrent 客户端 repository。
 - **✨ 核心功能与亮点**:
   - 【下载器与传输工具】专精领域：专注解决 下载器与传输工具 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 15,347）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 15,354）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [python-trio/trio](https://github.com/python-trio/trio)
 - **⭐ Stars**: `7,355` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `Python`
@@ -1139,12 +1139,12 @@
   - 热门高星（★ 7,355）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 6. [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot)
-- **⭐ Stars**: `3,688` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `Perl`
+- **⭐ Stars**: `3,689` | **二级分类**: 📥 `下载器与传输工具` | **语言**: `Perl`
 - **🏷️ 标签**: `Perl` `backup` `rsnapshot` `rsync`
 - **📝 中文介绍**: 基于 Perl 构建：tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss) （技术标签: backup, perl, rsnapshot）。
 - **✨ 核心功能与亮点**:
   - 【下载器与传输工具】专精领域：专注解决 下载器与传输工具 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,688）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,689）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 

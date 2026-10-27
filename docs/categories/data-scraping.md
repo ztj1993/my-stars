@@ -15,14 +15,14 @@
 ## 1. 🕷️ 网页爬虫与自动化 (8 个项目)
 
 ### 1. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-- **⭐ Stars**: `95,743` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
+- **⭐ Stars**: `95,746` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `automation` `chrome` `chromium` `developer-tools` `firefox`
 - **📝 中文介绍**: 基于 TypeScript 构建：JavaScript API for Chrome and Firefox （技术标签: automation, chrome, chromium）。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 95,743）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 95,746）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [ariya/phantomjs](https://github.com/ariya/phantomjs)
 - **⭐ Stars**: `29,427` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
@@ -35,14 +35,14 @@
   - 超高人气（★ 29,427）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab)
-- **⭐ Stars**: `12,285` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Go`
+- **⭐ Stars**: `12,286` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `crawlab` `crawler` `crawling-tasks` `docker` `platform`
 - **📝 中文介绍**: Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 12,285）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 12,286）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler)
 - **⭐ Stars**: `5,636` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
@@ -75,14 +75,14 @@
   - 热门高星（★ 2,766）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [simplecrawler/simplecrawler](https://github.com/simplecrawler/simplecrawler)
-- **⭐ Stars**: `2,128` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
+- **⭐ Stars**: `2,129` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript`
 - **📝 中文介绍**: Flexible event driven 爬虫 for node.
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,128）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,129）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 8. [he426100/alipay-crawler](https://github.com/he426100/alipay-crawler)
 - **⭐ Stars**: `51` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `PHP`
@@ -98,14 +98,14 @@
 ## 2. 📊 数据解析与表格处理 (7 个项目)
 
 ### 1. [json-iterator/go](https://github.com/json-iterator/go)
-- **⭐ Stars**: `13,856` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Go`
+- **⭐ Stars**: `13,857` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `deserialization` `golang` `json` `json-parser` `parser`
 - **📝 中文介绍**: 高性能 100% compatible drop-in replacement of "encoding/json"。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 13,856）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 13,857）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle)
 - **⭐ Stars**: `8,411` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Java`
@@ -118,24 +118,24 @@
   - 热门高星（★ 8,411）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 3. [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord)
-- **⭐ Stars**: `7,588` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
+- **⭐ Stars**: `7,587` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP` `doc` `docx` `html` `libreoffice-writer` `msword`
 - **📝 中文介绍**: pure PHP 库 for reading and writing word processing documents。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 7,588）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,587）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 4. [zircote/swagger-php](https://github.com/zircote/swagger-php)
-- **⭐ Stars**: `5,306` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
+- **⭐ Stars**: `5,305` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP`
 - **📝 中文介绍**: php swagger annotation and parsing 库。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,306）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,305）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 5. [jazzband/tablib](https://github.com/jazzband/tablib)
 - **⭐ Stars**: `4,761` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Python`
