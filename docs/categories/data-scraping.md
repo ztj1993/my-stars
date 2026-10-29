@@ -15,24 +15,24 @@
 ## 1. 🕷️ 网页爬虫与自动化 (8 个项目)
 
 ### 1. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-- **⭐ Stars**: `95,756` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
+- **⭐ Stars**: `95,765` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `automation` `chrome` `chromium` `developer-tools` `firefox`
 - **📝 中文介绍**: 基于 TypeScript 构建：JavaScript API for Chrome and Firefox （技术标签: automation, chrome, chromium）。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 95,756）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 95,765）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [ariya/phantomjs](https://github.com/ariya/phantomjs)
-- **⭐ Stars**: `29,426` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
+- **⭐ Stars**: `29,425` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `automation` `headless` `headless-browser` `phantomjs`
 - **📝 中文介绍**: 基于 C++ 构建：Scriptable Headless Browser （技术标签: automation, headless, headless-browser）。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 29,426）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 29,425）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab)
 - **⭐ Stars**: `12,286` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Go`
@@ -45,24 +45,24 @@
   - 超高人气（★ 12,286）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler)
-- **⭐ Stars**: `5,634` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
+- **⭐ Stars**: `5,633` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `chrome` `chromium` `crawler` `crawling` `headless-chrome`
 - **📝 中文介绍**: 分布式 爬虫 powered by Headless Chrome。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,634）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,633）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 5. [my8100/scrapydweb](https://github.com/my8100/scrapydweb)
-- **⭐ Stars**: `3,409` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
+- **⭐ Stars**: `3,410` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `dashboard` `log-analysis` `log-parsing` `scrapy` `scrapy-log-analysis`
 - **📝 中文介绍**: Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. Docs 文档 :point_right:。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,409）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,410）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 6. [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper)
 - **⭐ Stars**: `2,766` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
@@ -108,34 +108,34 @@
   - 超高人气（★ 13,856）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle)
-- **⭐ Stars**: `8,411` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Java`
+- **⭐ Stars**: `8,410` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Java`
 - **🏷️ 标签**: `Java`
 - **📝 中文介绍**: 基于 Java 构建：Pentaho Data Integration ( ETL ) a.k.a Kettle。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 8,411）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,410）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 3. [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord)
-- **⭐ Stars**: `7,588` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
+- **⭐ Stars**: `7,587` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP` `doc` `docx` `html` `libreoffice-writer` `msword`
 - **📝 中文介绍**: pure PHP 库 for reading and writing word processing documents。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 7,588）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,587）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 4. [zircote/swagger-php](https://github.com/zircote/swagger-php)
-- **⭐ Stars**: `5,305` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
+- **⭐ Stars**: `5,304` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP`
 - **📝 中文介绍**: php swagger annotation and parsing 库。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,305）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,304）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 5. [jazzband/tablib](https://github.com/jazzband/tablib)
 - **⭐ Stars**: `4,759` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Python`
@@ -171,12 +171,12 @@
 ## 3. 📈 数据可视化与报表 (1 个项目)
 
 ### 1. [iamkun/dayjs](https://github.com/iamkun/dayjs)
-- **⭐ Stars**: `48,659` | **二级分类**: 📈 `数据可视化与报表` | **语言**: `JavaScript`
+- **⭐ Stars**: `48,660` | **二级分类**: 📈 `数据可视化与报表` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `date` `date-formatting` `datetime` `dayjs` `moment`
 - **📝 中文介绍**: 极简高效的现代化日期时间处理库（仅 2KB），拥有与 Moment.js 兼容的 API 规范。
 - **✨ 核心功能与亮点**:
   - 【数据可视化与报表】专精领域：专注解决 数据可视化与报表 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 48,659）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 48,660）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
