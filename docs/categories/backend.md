@@ -17,14 +17,14 @@
 ## 1. 🔷 Go 后端与微服务 (37 个项目)
 
 ### 1. [AlistGo/alist](https://github.com/AlistGo/alist)
-- **⭐ Stars**: `50,383` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
+- **⭐ Stars**: `50,389` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `file-server` `gin` `golang` `onedrive` `solidjs`
 - **📝 中文介绍**: 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **✨ 核心功能与亮点**:
   - 【Go 后端与微服务】专精领域：专注解决 Go 后端与微服务 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 50,383）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 50,389）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [serverless/serverless](https://github.com/serverless/serverless)
 - **⭐ Stars**: `46,927` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `JavaScript`
@@ -37,24 +37,24 @@
   - 超高人气（★ 46,927）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [JustVugg/colibri](https://github.com/JustVugg/colibri)
-- **⭐ Stars**: `45,229` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `C`
+- **⭐ Stars**: `45,412` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `C`
 - **🏷️ 标签**: `C`
 - **📝 中文介绍**: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny 引擎, immense model. 🐦。
 - **✨ 核心功能与亮点**:
   - 【Go 后端与微服务】专精领域：专注解决 Go 后端与微服务 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 45,229）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 45,412）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)
-- **⭐ Stars**: `22,022` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `TypeScript`
+- **⭐ Stars**: `22,024` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `commonmark` `javascript` `markdown`
 - **📝 中文介绍**: Markdown 解析器, done right. 100% CommonMark support, extensions, syntax plugins & high speed。
 - **✨ 核心功能与亮点**:
   - 【Go 后端与微服务】专精领域：专注解决 Go 后端与微服务 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 22,022）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 22,024）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [apache/casbin](https://github.com/apache/casbin)
 - **⭐ Stars**: `20,476` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
@@ -87,14 +87,14 @@
   - 超高人气（★ 20,012）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server)
-- **⭐ Stars**: `16,742` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
+- **⭐ Stars**: `16,741` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `chat` `im` `messaging` `messenger` `openclaw`
 - **📝 中文介绍**: 基于 Go 构建：IM Chat OpenClaw （技术标签: chat, im, messaging）。
 - **✨ 核心功能与亮点**:
   - 【Go 后端与微服务】专精领域：专注解决 Go 后端与微服务 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 16,742）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 16,741）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [peterq/pan-light](https://github.com/peterq/pan-light)
 - **⭐ Stars**: `12,121` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
@@ -107,14 +107,14 @@
   - 超高人气（★ 12,121）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo)
-- **⭐ Stars**: `10,939` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
+- **⭐ Stars**: `10,940` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `ably` `alternative` `eventsource` `grpc` `http-streaming`
 - **📝 中文介绍**: Scalable 实时 messaging 服务端 in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever.
 - **✨ 核心功能与亮点**:
   - 【Go 后端与微服务】专精领域：专注解决 Go 后端与微服务 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 10,939）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 10,940）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner)
 - **⭐ Stars**: `8,527` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
@@ -127,14 +127,14 @@
   - 热门高星（★ 8,527）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 12. [traefik/yaegi](https://github.com/traefik/yaegi)
-- **⭐ Stars**: `8,428` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
+- **⭐ Stars**: `8,431` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `golang` `interpreter`
 - **📝 中文介绍**: Yaegi is Another Elegant Go 解释器。
 - **✨ 核心功能与亮点**:
   - 【Go 后端与微服务】专精领域：专注解决 Go 后端与微服务 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 8,428）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,431）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 13. [smallnest/rpcx](https://github.com/smallnest/rpcx)
 - **⭐ Stars**: `8,320` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
@@ -157,14 +157,14 @@
   - 热门高星（★ 6,935）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 15. [elazarl/goproxy](https://github.com/elazarl/goproxy)
-- **⭐ Stars**: `6,771` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
+- **⭐ Stars**: `6,772` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
 - **🏷️ 标签**: `Go`
 - **📝 中文介绍**: HTTP proxy 库 for Go。
 - **✨ 核心功能与亮点**:
   - 【Go 后端与微服务】专精领域：专注解决 Go 后端与微服务 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,771）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,772）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 16. [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin)
 - **⭐ Stars**: `6,115` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
@@ -207,14 +207,14 @@
   - 热门高星（★ 4,280）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 20. [darccio/mergo](https://github.com/darccio/mergo)
-- **⭐ Stars**: `3,108` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
+- **⭐ Stars**: `3,107` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `golang` `hacktoberfest` `mapping` `merge` `structures`
 - **📝 中文介绍**: 基于 Go 构建：Mergo: merging Go structs and maps since 2013 （技术标签: go, golang, hacktoberfest）。
 - **✨ 核心功能与亮点**:
   - 【Go 后端与微服务】专精领域：专注解决 Go 后端与微服务 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,108）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,107）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 21. [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
 - **⭐ Stars**: `2,764` | **二级分类**: 🔷 `Go 后端与微服务` | **语言**: `C`
@@ -390,14 +390,14 @@
 ## 2. 🐘 PHP 与快速开发 (23 个项目)
 
 ### 1. [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)
-- **⭐ Stars**: `22,184` | **二级分类**: 🐘 `PHP 与快速开发` | **语言**: `PHP`
+- **⭐ Stars**: `22,185` | **二级分类**: 🐘 `PHP 与快速开发` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP` `code-examples` `design-pattern` `design-patterns` `designpatternsphp` `modern-php`
 - **📝 中文介绍**: 基于 PHP 构建：Sample code for several design patterns in PHP 8.x （技术标签: code-examples, design-pattern, design-patterns）。
 - **✨ 核心功能与亮点**:
   - 【PHP 与快速开发】专精领域：专注解决 PHP 与快速开发 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 22,184）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 22,185）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [w7corp/easywechat](https://github.com/w7corp/easywechat)
 - **⭐ Stars**: `10,367` | **二级分类**: 🐘 `PHP 与快速开发` | **语言**: `PHP`
@@ -510,14 +510,14 @@
   - 热门高星（★ 1,330）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 13. [franzliedke/studio](https://github.com/franzliedke/studio)
-- **⭐ Stars**: `1,136` | **二级分类**: 🐘 `PHP 与快速开发` | **语言**: `PHP`
+- **⭐ Stars**: `1,137` | **二级分类**: 🐘 `PHP 与快速开发` | **语言**: `PHP`
 - **🏷️ 标签**: `PHP` `composer-packages` `composer-plugin`
 - **📝 中文介绍**: 基于 PHP 构建：workbench for developing Composer packages. （技术标签: composer-packages, composer-plugin, php）。
 - **✨ 核心功能与亮点**:
   - 【PHP 与快速开发】专精领域：专注解决 PHP 与快速开发 场景下的核心需求与工程实践
   - 快速开发与交付：基于成熟 PHP 生态框架，适合敏捷业务迭代与高性价比部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 1,136）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 1,137）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 14. [slince/composer-registry-manager](https://github.com/slince/composer-registry-manager)
 - **⭐ Stars**: `556` | **二级分类**: 🐘 `PHP 与快速开发` | **语言**: `PHP`
@@ -623,44 +623,44 @@
 ## 3. 🐍 Python 后端与 API (19 个项目)
 
 ### 1. [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
-- **⭐ Stars**: `46,505` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
+- **⭐ Stars**: `46,528` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `debugging` `http` `http2` `man-in-the-middle` `mitmproxy`
 - **📝 中文介绍**: 基于 Python 构建：interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. （技术标签: debugging, http, http2）。
 - **✨ 核心功能与亮点**:
   - 【Python 后端与 API】专精领域：专注解决 Python 后端与 API 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 46,505）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 46,528）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [getsentry/sentry](https://github.com/getsentry/sentry)
-- **⭐ Stars**: `45,683` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
+- **⭐ Stars**: `45,687` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `apm` `crash-reporting` `crash-reports` `csp-report` `devops`
 - **📝 中文介绍**: Developer-first error tracking and performance 监控。
 - **✨ 核心功能与亮点**:
   - 【Python 后端与 API】专精领域：专注解决 Python 后端与 API 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 45,683）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 45,687）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [python-poetry/poetry](https://github.com/python-poetry/poetry)
-- **⭐ Stars**: `34,327` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
+- **⭐ Stars**: `34,326` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `dependency-manager` `package-manager` `packaging` `poetry`
 - **📝 中文介绍**: 基于 Python 构建：Python packaging and dependency management made easy （技术标签: dependency-manager, package-manager, packaging）。
 - **✨ 核心功能与亮点**:
   - 【Python 后端与 API】专精领域：专注解决 Python 后端与 API 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 34,327）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 34,326）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [Delgan/loguru](https://github.com/Delgan/loguru)
-- **⭐ Stars**: `24,157` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
+- **⭐ Stars**: `24,156` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `log` `logger` `logging`
 - **📝 中文介绍**: 基于 Python 构建：Python logging made (stupidly) simple （技术标签: log, logger, logging）。
 - **✨ 核心功能与亮点**:
   - 【Python 后端与 API】专精领域：专注解决 Python 后端与 API 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 24,157）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 24,156）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [tornadoweb/tornado](https://github.com/tornadoweb/tornado)
 - **⭐ Stars**: `22,165` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
@@ -673,14 +673,14 @@
   - 超高人气（★ 22,165）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper)
-- **⭐ Stars**: `16,580` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
+- **⭐ Stars**: `16,579` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `debug` `debugger` `introspection` `logging`
 - **📝 中文介绍**: 基于 Python 构建：Never use print for debugging again （技术标签: debug, debugger, introspection）。
 - **✨ 核心功能与亮点**:
   - 【Python 后端与 API】专精领域：专注解决 Python 后端与 API 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 16,580）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 16,579）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot)
 - **⭐ Stars**: `14,523` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
@@ -693,24 +693,24 @@
   - 超高人气（★ 14,523）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)
-- **⭐ Stars**: `13,642` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
+- **⭐ Stars**: `13,641` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `api` `http` `http-server` `httpbin` `json`
 - **📝 中文介绍**: 基于 Python 构建：HTTP Request & Response Service, written in Python + Flask. （技术标签: api, http, http-server）。
 - **✨ 核心功能与亮点**:
   - 【Python 后端与 API】专精领域：专注解决 Python 后端与 API 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 13,642）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 13,641）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
-- **⭐ Stars**: `6,449` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
+- **⭐ Stars**: `6,450` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
 - **🏷️ 标签**: `Python`
 - **📝 中文介绍**: 让时间陪你慢慢变富 https://onregularinvesting.com。
 - **✨ 核心功能与亮点**:
   - 【Python 后端与 API】专精领域：专注解决 Python 后端与 API 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,449）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,450）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 10. [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users)
 - **⭐ Stars**: `6,258` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
@@ -753,14 +753,14 @@
   - 热门高星（★ 3,743）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 14. [vinifmor/bauh](https://github.com/vinifmor/bauh)
-- **⭐ Stars**: `1,411` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
+- **⭐ Stars**: `1,413` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `appimage` `arch` `archlinux` `aur` `debian`
 - **📝 中文介绍**: Graphical user 界面 for managing your Linux applications. Supports AppImage, Debian and Arch packages (including AUR), Flatpak, Snap and native Web applications。
 - **✨ 核心功能与亮点**:
   - 【Python 后端与 API】专精领域：专注解决 Python 后端与 API 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 1,411）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 1,413）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 15. [marshmallow-code/webargs](https://github.com/marshmallow-code/webargs)
 - **⭐ Stars**: `1,411` | **二级分类**: 🐍 `Python 后端与 API` | **语言**: `Python`
@@ -816,34 +816,34 @@
 ## 4. ☕ Node.js / Java 框架 (18 个项目)
 
 ### 1. [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-- **⭐ Stars**: `55,643` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `TypeScript`
+- **⭐ Stars**: `55,647` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `blogging` `cms` `ghost` `javascript` `journalism`
 - **📝 中文介绍**: 基于 TypeScript 构建：Independent technology for modern publishing, memberships, subscriptions and newsletters. （技术标签: blogging, cms, ghost）。
 - **✨ 核心功能与亮点**:
   - 【Node.js / Java 框架】专精领域：专注解决 Node.js / Java 框架 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 55,643）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 55,647）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [keycloak/keycloak](https://github.com/keycloak/keycloak)
-- **⭐ Stars**: `37,618` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
+- **⭐ Stars**: `37,621` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `keycloak` `oidc` `saml`
 - **📝 中文介绍**: 开源 Identity and Access Management For Modern Applications and Services。
 - **✨ 核心功能与亮点**:
   - 【Node.js / Java 框架】专精领域：专注解决 Node.js / Java 框架 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 37,618）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 37,621）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
-- **⭐ Stars**: `34,052` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
+- **⭐ Stars**: `34,051` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `demo` `in-action` `spring` `spring-boot` `spring-boot-2`
 - **📝 中文介绍**: 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - **✨ 核心功能与亮点**:
   - 【Node.js / Java 框架】专精领域：专注解决 Node.js / Java 框架 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 34,052）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 34,051）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)
 - **⭐ Stars**: `30,642` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
@@ -856,14 +856,14 @@
   - 超高人气（★ 30,642）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha)
-- **⭐ Stars**: `26,573` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
+- **⭐ Stars**: `26,571` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
 - **🏷️ 标签**: `Java`
 - **📝 中文介绍**: ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓。
 - **✨ 核心功能与亮点**:
   - 【Node.js / Java 框架】专精领域：专注解决 Node.js / Java 框架 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 26,573）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 26,571）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [alibaba/Sentinel](https://github.com/alibaba/Sentinel)
 - **⭐ Stars**: `23,148` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
@@ -876,14 +876,14 @@
   - 超高人气（★ 23,148）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
-- **⭐ Stars**: `22,629` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
+- **⭐ Stars**: `22,630` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `big-data` `cloud` `coap-server` `dashboards` `http`
 - **📝 中文介绍**: 一站式 IoT Platform - Device management, data collection, processing and 可视化.
 - **✨ 核心功能与亮点**:
   - 【Node.js / Java 框架】专精领域：专注解决 Node.js / Java 框架 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 22,629）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 22,630）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)
 - **⭐ Stars**: `17,891` | **二级分类**: ☕ `Node.js / Java 框架` | **语言**: `Java`
@@ -999,14 +999,14 @@
 ## 5. 🌐 API 网关与通信协议 (5 个项目)
 
 ### 1. [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)
-- **⭐ Stars**: `28,260` | **二级分类**: 🌐 `API 网关与通信协议` | **语言**: `JavaScript`
+- **⭐ Stars**: `28,258` | **二级分类**: 🌐 `API 网关与通信协议` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `cdn` `digitalocean` `digitalocean-community-tools` `drupal` `gzip`
 - **📝 中文介绍**: ⚙️ NGINX config 生成器 on steroids 💉。
 - **✨ 核心功能与亮点**:
   - 【API 网关与通信协议】专精领域：专注解决 API 网关与通信协议 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 28,260）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 28,258）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [nock/nock](https://github.com/nock/nock)
 - **⭐ Stars**: `13,137` | **二级分类**: 🌐 `API 网关与通信协议` | **语言**: `JavaScript`
@@ -1029,14 +1029,14 @@
   - 热门高星（★ 9,259）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 4. [wendux/ajax-hook](https://github.com/wendux/ajax-hook)
-- **⭐ Stars**: `2,657` | **二级分类**: 🌐 `API 网关与通信协议` | **语言**: `JavaScript`
+- **⭐ Stars**: `2,656` | **二级分类**: 🌐 `API 网关与通信协议` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `ajax` `ajax-hook` `hooks` `xmlhttprequest-hook`
 - **📝 中文介绍**: 基于 JavaScript 构建：Intercepting browser's http requests which made by XMLHttpRequest. （技术标签: ajax, ajax-hook, hooks）。
 - **✨ 核心功能与亮点**:
   - 【API 网关与通信协议】专精领域：专注解决 API 网关与通信协议 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,657）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,656）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 5. [Yaffle/EventSource](https://github.com/Yaffle/EventSource)
 - **⭐ Stars**: `2,180` | **二级分类**: 🌐 `API 网关与通信协议` | **语言**: `JavaScript`
