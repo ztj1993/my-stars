@@ -17,164 +17,164 @@
 ## 1. 🐳 Docker 与容器管理 (82 个项目)
 
 ### 1. [netdata/netdata](https://github.com/netdata/netdata)
-- **⭐ Stars**: `81,419` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `81,430` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `ai` `alerting` `cncf` `data-visualization` `database`
 - **📝 中文介绍**: 基于 Go 构建：fastest path to AI-powered full stack observability, even for lean teams. （技术标签: ai, alerting, cncf）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 81,419）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 81,430）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [traefik/traefik](https://github.com/traefik/traefik)
-- **⭐ Stars**: `65,550` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `65,560` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `consul` `docker` `gateway` `gatewayapi` `golang`
 - **📝 中文介绍**: 基于 Go 构建：Cloud Native Application Proxy （技术标签: consul, docker, gateway）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 65,550）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 65,560）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [dockur/windows](https://github.com/dockur/windows)
-- **⭐ Stars**: `54,197` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
+- **⭐ Stars**: `54,202` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `docker` `docker-container` `virtualization` `windows` `windows-virtual-desktop`
 - **📝 中文介绍**: Windows inside a Docker 容器.
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 54,197）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 54,202）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [harness/harness](https://github.com/harness/harness)
-- **⭐ Stars**: `38,908` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `38,919` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `build-automation` `build-pipelines` `ci` `ci-cd` `code-repository`
 - **📝 中文介绍**: Harness 开源 is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 38,908）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 38,919）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
-- **⭐ Stars**: `34,715` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `JavaScript`
+- **⭐ Stars**: `34,732` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `nginx` `nginx-proxy` `Docker`
 - **📝 中文介绍**: Docker 容器 for managing Nginx proxy hosts with a simple, powerful 界面。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 34,715）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 34,732）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [goharbor/harbor](https://github.com/goharbor/harbor)
-- **⭐ Stars**: `29,728` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `29,737` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `cloud-native` `cncf` `cncf-project` `container` `container-management`
 - **📝 中文介绍**: 开源 trusted cloud native 制品/包注册表 project that stores, signs, and scans content.
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 29,728）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 29,737）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [openfaas/faas](https://github.com/openfaas/faas)
-- **⭐ Stars**: `26,260` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `26,263` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `docker` `faas` `functions` `functions-as-a-service` `gitops`
 - **📝 中文介绍**: 基于 Go 构建：OpenFaaS - Serverless Functions Made Simple （技术标签: docker, faas, functions）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 26,260）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 26,263）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [winboat-org/winboat](https://github.com/winboat-org/winboat)
-- **⭐ Stars**: `23,399` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `TypeScript`
+- **⭐ Stars**: `23,400` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `docker` `docker-compose` `linux` `rdp` `virtualization`
 - **📝 中文介绍**: 基于 TypeScript 构建：Run Windows apps on 🐧 Linux with ✨ seamless integration （技术标签: docker, docker-compose, linux）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 23,399）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 23,400）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [whyour/qinglong](https://github.com/whyour/qinglong)
-- **⭐ Stars**: `20,101` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `JavaScript`
+- **⭐ Stars**: `20,106` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `crontab` `docker` `python` `shell` `task-manager`
 - **📝 中文介绍**: 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 20,101）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 20,106）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [deviantony/docker-elk](https://github.com/deviantony/docker-elk)
-- **⭐ Stars**: `18,381` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
+- **⭐ Stars**: `18,382` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `docker` `docker-compose` `elasticsearch` `elk` `kibana`
 - **📝 中文介绍**: 基于 Shell 构建：Elastic stack (ELK) powered by Docker and Compose. （技术标签: docker, docker-compose, elasticsearch）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 18,381）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 18,382）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [ory/hydra](https://github.com/ory/hydra)
-- **⭐ Stars**: `17,664` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `17,667` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `authorization` `cloud` `docker` `federation` `hydra`
 - **📝 中文介绍**: Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and 安全. Written in Go.
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 17,664）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 17,667）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [budtmo/docker-android](https://github.com/budtmo/docker-android)
-- **⭐ Stars**: `16,136` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Python`
+- **⭐ Stars**: `16,138` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `ai-agent` `android` `android-emulator` `aws` `azure`
 - **📝 中文介绍**: Android in Docker solution with noVNC supported, video recording, mcp 服务端 and AI-agent。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 16,136）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 16,138）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-- **⭐ Stars**: `15,370` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
+- **⭐ Stars**: `15,371` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `mirror` `speedup`
 - **📝 中文介绍**: 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 15,370）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 15,371）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 14. [drakkan/sftpgo](https://github.com/drakkan/sftpgo)
-- **⭐ Stars**: `12,812` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `12,815` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `azure-blob` `cloud-storage` `data-at-rest-encryption` `docker` `ftp`
 - **📝 中文介绍**: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV 服务端 - S3, Google Cloud 存储, Azure Blob。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 12,812）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 12,815）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 15. [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
-- **⭐ Stars**: `12,623` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Jinja`
+- **⭐ Stars**: `12,626` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Jinja`
 - **🏷️ 标签**: `Jinja` `ansible` `baremetal` `boot` `dhcp` `docker`
 - **📝 中文介绍**: 基于 Jinja 构建：Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. （技术标签: ansible, baremetal, boot）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 12,623）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 12,626）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 16. [fission/fission](https://github.com/fission/fission)
-- **⭐ Stars**: `8,946` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `8,948` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `cloud-native` `containers` `devops` `docker` `faas`
 - **📝 中文介绍**: 基于 Go 构建：Fast and Simple Serverless Functions for Kubernetes （技术标签: cloud-native, containers, devops）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 8,946）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,948）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 17. [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
 - **⭐ Stars**: `8,663` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
@@ -187,46 +187,56 @@
   - 热门高星（★ 8,663）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 18. [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
-- **⭐ Stars**: `8,197` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `8,202` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `automation` `ci` `cicd` `devops` `docker`
 - **📝 中文介绍**: Woodpecker is a simple, yet powerful CI/CD 引擎 with great extensibility.
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 8,197）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,202）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 19. [concourse/concourse](https://github.com/concourse/concourse)
-- **⭐ Stars**: `7,940` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `7,939` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `ci` `ci-cd` `concourse` `containerd` `containers`
 - **📝 中文介绍**: Concourse is a 容器-based 自动化 system written in Go. It's mostly used for CI/CD.
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 7,940）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,939）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 20. [Mailu/Mailu](https://github.com/Mailu/Mailu)
-- **⭐ Stars**: `7,623` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Python`
+- **⭐ Stars**: `7,626` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `2fa` `dkim` `dmarc` `docker` `docker-compose`
 - **📝 中文介绍**: Insular email distribution - mail 服务端 as Docker images。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 7,623）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,626）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
-### 21. [apache/openwhisk](https://github.com/apache/openwhisk)
-- **⭐ Stars**: `6,808` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Scala`
+### 21. [libracoder/kiri](https://github.com/libracoder/kiri)
+- **⭐ Stars**: `6,900` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Rust`
+- **🏷️ 标签**: `Rust` `containers` `docker` `kubernetes` `linux` `macos`
+- **📝 中文介绍**: small, fast 容器 运行时 for macOS, Windows and Linux with free Ngrok alternative。
+- **✨ 核心功能与亮点**:
+  - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
+  - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
+  - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
+  - 热门高星（★ 6,900）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+
+### 22. [apache/openwhisk](https://github.com/apache/openwhisk)
+- **⭐ Stars**: `6,809` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Scala`
 - **🏷️ 标签**: `Scala` `apache` `cloud` `docker` `faas` `functions`
 - **📝 中文介绍**: Apache OpenWhisk is an 开源 serverless cloud platform。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 6,808）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,809）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
-### 22. [fnproject/fn](https://github.com/fnproject/fn)
+### 23. [fnproject/fn](https://github.com/fnproject/fn)
 - **⭐ Stars**: `5,949` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `containers` `docker` `faas` `kubernetes` `lambda`
 - **📝 中文介绍**: 容器 native, cloud agnostic serverless platform.
@@ -236,17 +246,17 @@
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
   - 热门高星（★ 5,949）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
-### 23. [nuclio/nuclio](https://github.com/nuclio/nuclio)
-- **⭐ Stars**: `5,775` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+### 24. [nuclio/nuclio](https://github.com/nuclio/nuclio)
+- **⭐ Stars**: `5,776` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `containers` `docker` `faas` `faas-platform` `functions`
 - **📝 中文介绍**: 高性能 Serverless event and data processing platform。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 5,775）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,776）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
-### 24. [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books)
+### 25. [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books)
 - **⭐ Stars**: `4,921` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Unknown`
 - **🏷️ 标签**: `algorithm` `c` `clean-code` `cpp` `design-pattern` `docker`
 - **📝 中文介绍**: 📚 经典技术书籍推荐，持续更新...
@@ -256,17 +266,17 @@
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
   - 热门高星（★ 4,921）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
-### 25. [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy)
-- **⭐ Stars**: `4,853` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `C++`
+### 26. [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy)
+- **⭐ Stars**: `4,882` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `antigravity` `dll-injection` `force-proxy-network-hook` `http-proxy` `minhook`
 - **📝 中文介绍**: 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 4,853）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 4,882）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
-### 26. [hashicorp/consul-template](https://github.com/hashicorp/consul-template)
+### 27. [hashicorp/consul-template](https://github.com/hashicorp/consul-template)
 - **⭐ Stars**: `4,819` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `consul` `golang` `vault`
 - **📝 中文介绍**: 模板 rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
@@ -276,17 +286,17 @@
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
   - 热门高星（★ 4,819）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
-### 27. [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay)
-- **⭐ Stars**: `4,619` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
+### 28. [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay)
+- **⭐ Stars**: `4,620` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `containers` `docker` `CLI` `Docker`
 - **📝 中文介绍**: 基于 Shell 构建：s6 overlay for containers (includes execline, s6-linux-utils & a custom init) （技术标签: containers, docker）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 4,619）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 4,620）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
-### 28. [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet)
+### 29. [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet)
 - **⭐ Stars**: `4,086` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `dockerfile` `planet` `self-host-zerotier` `self-hosted` `zerotier`
 - **📝 中文介绍**: 一分钟私有部署zerotier-planet服务。
@@ -295,16 +305,6 @@
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
   - 热门高星（★ 4,086）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
-
-### 29. [libracoder/kiri](https://github.com/libracoder/kiri)
-- **⭐ Stars**: `3,965` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Rust`
-- **🏷️ 标签**: `Rust` `containers` `docker` `kubernetes` `linux` `macos`
-- **📝 中文介绍**: small, fast 容器 运行时 for macOS, Windows and Linux with free Ngrok alternative。
-- **✨ 核心功能与亮点**:
-  - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
-  - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
-  - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 3,965）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 30. [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas)
 - **⭐ Stars**: `3,801` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Jinja`
@@ -337,14 +337,14 @@
   - 热门高星（★ 3,555）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 33. [ophub/fnnas](https://github.com/ophub/fnnas)
-- **⭐ Stars**: `3,411` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
+- **⭐ Stars**: `3,414` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `a311d` `allwinner` `amlogic` `arm64` `debian`
 - **📝 中文介绍**: 基于 Shell 构建：Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc. （技术标签: a311d, allwinner, amlogic）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,411）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,414）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 34. [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles)
 - **⭐ Stars**: `3,205` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Dockerfile`
@@ -357,14 +357,14 @@
   - 热门高星（★ 3,205）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 35. [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya)
-- **⭐ Stars**: `3,190` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
+- **⭐ Stars**: `3,187` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `CLI` `Docker`
 - **📝 中文介绍**: 基于 Shell 构建：💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,190）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,187）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 36. [PGYER/codefever](https://github.com/PGYER/codefever)
 - **⭐ Stars**: `2,746` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `PHP`
@@ -387,14 +387,14 @@
   - 热门高星（★ 2,153）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 38. [cnk3x/xunlei](https://github.com/cnk3x/xunlei)
-- **⭐ Stars**: `2,068` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
+- **⭐ Stars**: `2,069` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `docker` `thunder` `xlp` `xunlei` `Docker`
 - **📝 中文介绍**: 提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 2,068）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,069）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 39. [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark)
 - **⭐ Stars**: `2,045` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
@@ -537,14 +537,14 @@
   - 精选实用工具（★ 892）：针对特定垂直场景设计，解决痛点需求，小巧精悍
 
 ### 53. [dkms-project/dkms](https://github.com/dkms-project/dkms)
-- **⭐ Stars**: `876` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
+- **⭐ Stars**: `877` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `dkms`
 - **📝 中文介绍**: 基于 Shell 构建：Dynamic Kernel Module System （技术标签: dkms）。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 精选实用工具（★ 876）：针对特定垂直场景设计，解决痛点需求，小巧精悍
+  - 精选实用工具（★ 877）：针对特定垂直场景设计，解决痛点需求，小巧精悍
 
 ### 54. [dockur/samba](https://github.com/dockur/samba)
 - **⭐ Stars**: `840` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Shell`
@@ -637,14 +637,14 @@
   - 精选实用工具（★ 417）：针对特定垂直场景设计，解决痛点需求，小巧精悍
 
 ### 63. [getnora-io/nora](https://github.com/getnora-io/nora)
-- **⭐ Stars**: `383` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Rust`
+- **⭐ Stars**: `384` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `air-gapped` `artifact-registry` `artifactory-alternative` `cargo-registry` `container-registry`
 - **📝 中文介绍**: 极轻量级多格式制品仓库管理服务，单二进制文件支持 Docker/npm/PyPI 等 15 种格式制品存储。
 - **✨ 核心功能与亮点**:
   - 【Docker 与容器管理】专精领域：专注解决 Docker 与容器管理 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 精选实用工具（★ 383）：针对特定垂直场景设计，解决痛点需求，小巧精悍
+  - 精选实用工具（★ 384）：针对特定垂直场景设计，解决痛点需求，小巧精悍
 
 ### 64. [lxdware/lxd-dashboard](https://github.com/lxdware/lxd-dashboard)
 - **⭐ Stars**: `348` | **二级分类**: 🐳 `Docker 与容器管理` | **语言**: `Hack`
@@ -840,104 +840,104 @@
 ## 2. 🚀 网络代理与内网穿透 (24 个项目)
 
 ### 1. [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-- **⭐ Stars**: `158,472` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Rust`
+- **⭐ Stars**: `158,621` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `clash` `clash-meta` `clash-verge` `linux` `mac`
 - **📝 中文介绍**: modern 图形界面 客户端 based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 158,472）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 158,621）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [2dust/v2rayN](https://github.com/2dust/v2rayN)
-- **⭐ Stars**: `120,638` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `C#`
+- **⭐ Stars**: `120,707` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `C#`
 - **🏷️ 标签**: `C#` `proxy` `shadowsocks` `socks5` `trojan` `v2fly`
 - **📝 中文介绍**: 图形界面 客户端 for Windows, Linux and macOS, support Xray and sing-box and others。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 120,638）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 120,707）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-- **⭐ Stars**: `65,914` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Kotlin`
+- **⭐ Stars**: `65,970` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Kotlin`
 - **🏷️ 标签**: `Kotlin` `android` `proxy` `shadowsocks` `socks5` `trojan`
 - **📝 中文介绍**: V2Ray 客户端 for Android, support Xray core and v2fly core。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 65,914）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 65,970）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [chen08209/FlClash](https://github.com/chen08209/FlClash)
-- **⭐ Stars**: `63,275` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Dart`
+- **⭐ Stars**: `63,432` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Dart`
 - **🏷️ 标签**: `Dart` `clash` `clash-meta` `flutter` `hysteria` `multi-platform`
 - **📝 中文介绍**: multi-platform proxy 客户端 based on ClashMeta,simple and easy to use, 开源 and ad-free.
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 63,275）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 63,432）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [juanfont/headscale](https://github.com/juanfont/headscale)
-- **⭐ Stars**: `45,713` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
+- **⭐ Stars**: `45,748` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `tailscale` `tailscale-control-server` `tailscale-server` `wireguard`
 - **📝 中文介绍**: 开源, self-hosted implementation of the Tailscale control 服务端。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 45,713）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 45,748）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-- **⭐ Stars**: `39,978` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
+- **⭐ Stars**: `40,013` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
 - **🏷️ 标签**: `Go`
 - **📝 中文介绍**: 基于 Go 构建：universal proxy platform。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 39,978）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 40,013）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [ehang-io/nps](https://github.com/ehang-io/nps)
-- **⭐ Stars**: `34,254` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
+- **⭐ Stars**: `34,253` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `dns` `firewall` `gzip` `http` `https`
 - **📝 中文介绍**: 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 34,254）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 34,253）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-- **⭐ Stars**: `27,492` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `TypeScript`
+- **⭐ Stars**: `27,499` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript`
 - **📝 中文介绍**: 基于 TypeScript 构建：easiest way to run WireGuard VPN + Web-based Admin UI.
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 27,492）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 27,499）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party)
-- **⭐ Stars**: `27,229` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `TypeScript`
+- **⭐ Stars**: `27,234` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `clash` `clash-meta` `electron` `mihomo` `GUI/WebUI`
 - **📝 中文介绍**: :electron: Another Mihomo 图形界面.
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 27,229）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 27,234）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
-- **⭐ Stars**: `21,044` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Unknown`
+- **⭐ Stars**: `21,046` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Unknown`
 - **🏷️ 标签**: `adblock` `adguard` `anticensorship` `chinalist` `dnsmasq` `easylist`
 - **📝 中文介绍**: 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 21,044）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 21,046）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [ginuerzh/gost](https://github.com/ginuerzh/gost)
 - **⭐ Stars**: `18,274` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
@@ -950,74 +950,74 @@
   - 超高人气（★ 18,274）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
-- **⭐ Stars**: `17,117` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `C++`
+- **⭐ Stars**: `17,118` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `clash` `clashr` `emoji` `gist` `quantumult`
 - **📝 中文介绍**: 基于 C++ 构建：Utility to convert between various subscription format （技术标签: clash, clashr, emoji）。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 17,117）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 17,118）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
-- **⭐ Stars**: `14,758` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Rust`
+- **⭐ Stars**: `14,774` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `nat-traversal` `p2p` `tailscale` `vpn` `zerotier`
 - **📝 中文介绍**: 基于 Rust 构建：simple, decentralized mesh VPN with WireGuard support. （技术标签: nat-traversal, p2p, rust）。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 14,758）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 14,774）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 14. [rathole-org/rathole](https://github.com/rathole-org/rathole)
-- **⭐ Stars**: `14,461` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Rust`
+- **⭐ Stars**: `14,464` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `firewall` `frp` `http` `nat` `network`
 - **📝 中文介绍**: 轻量级 and 高性能 反向代理 for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 14,461）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 14,464）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 15. [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store)
-- **⭐ Stars**: `10,904` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `JavaScript`
+- **⭐ Stars**: `10,911` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `clash` `http` `loon` `quantumultx` `shadowrocket`
 - **📝 中文介绍**: Advanced Subscription 管理器 for QX, Loon, Surge, Stash, Egern and Shadowrocket!。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 10,904）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 10,911）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 16. [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
-- **⭐ Stars**: `9,907` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
+- **⭐ Stars**: `9,914` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `geosite` `v2ray`
 - **📝 中文介绍**: 基于 Go 构建：Community managed domain list. Generate geosite.dat for V2Ray. （技术标签: geosite, v2ray）。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 9,907）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 9,914）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 17. [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode)
-- **⭐ Stars**: `6,532` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Unknown`
+- **⭐ Stars**: `6,533` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Unknown`
 - **🏷️ 标签**: `clash` `freenode` `node` `proxy` `ssr` `v2ray`
 - **📝 中文介绍**: 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,532）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,533）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 18. [free18/v2ray](https://github.com/free18/v2ray)
-- **⭐ Stars**: `5,906` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Unknown`
+- **⭐ Stars**: `5,913` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Unknown`
 - **🏷️ 标签**: `android-vpn` `bulink` `clash` `fanqiang` `free-ss` `freefq`
 - **📝 中文介绍**: 每日分享免费节点、免费机场、付费机场、电报代理、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,906）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,913）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 19. [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks)
 - **⭐ Stars**: `5,579` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `Go`
@@ -1083,44 +1083,44 @@
 ## 3. 📡 软路由与网络系统 (20 个项目)
 
 ### 1. [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
-- **⭐ Stars**: `31,624` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `C`
+- **⭐ Stars**: `31,626` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `C`
 - **🏷️ 标签**: `C` `lede` `lua` `openwrt-feed` `openwrt-package` `openwrt-zh-cn`
 - **📝 中文介绍**: 基于 C 构建：Lean's LEDE source （技术标签: lede, lua, openwrt-feed）。
 - **✨ 核心功能与亮点**:
   - 【软路由与网络系统】专精领域：专注解决 软路由与网络系统 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 31,624）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 31,626）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
-- **⭐ Stars**: `28,193` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `JavaScript`
+- **⭐ Stars**: `28,220` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `clash` `luci` `mihomo` `openclash` `openwrt`
 - **📝 中文介绍**: Clash 客户端 For OpenWrt。
 - **✨ 核心功能与亮点**:
   - 【软路由与网络系统】专精领域：专注解决 软路由与网络系统 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 28,193）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 28,220）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)
-- **⭐ Stars**: `17,556` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `Go`
+- **⭐ Stars**: `17,559` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `alidns` `baiduyun` `cloudflare` `ddns` `ddns-go`
 - **📝 中文介绍**: 基于 Go 构建：Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo... （技术标签: alidns, baiduyun, cloudflare）。
 - **✨ 核心功能与亮点**:
   - 【软路由与网络系统】专精领域：专注解决 软路由与网络系统 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 17,556）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 17,559）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [pymumu/smartdns](https://github.com/pymumu/smartdns)
-- **⭐ Stars**: `11,415` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `C`
+- **⭐ Stars**: `11,418` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `C`
 - **🏷️ 标签**: `C` `dns` `dns-over-https` `dns-over-tls` `dns-server` `dns64`
 - **📝 中文介绍**: A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
 - **✨ 核心功能与亮点**:
   - 【软路由与网络系统】专精领域：专注解决 软路由与网络系统 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 11,415）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 11,418）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [Openwrt-Passwall/openwrt-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall)
 - **⭐ Stars**: `10,005` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `Lua`
@@ -1133,14 +1133,14 @@
   - 超高人气（★ 10,005）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)
-- **⭐ Stars**: `7,200` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `JavaScript`
+- **⭐ Stars**: `7,198` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `alist` `ddnsto` `homeproxy` `luci-app-adguardhome` `luci-app-aliddns`
 - **📝 中文介绍**: openwrt常用软件包。
 - **✨ 核心功能与亮点**:
   - 【软路由与网络系统】专精领域：专注解决 软路由与网络系统 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 7,200）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,198）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [NewFuture/DDNS](https://github.com/NewFuture/DDNS)
 - **⭐ Stars**: `4,689` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `Python`
@@ -1153,24 +1153,24 @@
   - 热门高星（★ 4,689）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 8. [PowerDNS/pdns](https://github.com/PowerDNS/pdns)
-- **⭐ Stars**: `4,521` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `C++`
+- **⭐ Stars**: `4,522` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `authoritative` `dns` `dns-server` `dnsdist` `hacktoberfest`
 - **📝 中文介绍**: 基于 C++ 构建：PowerDNS Authoritative, PowerDNS Recursor, dnsdist （技术标签: authoritative, dns, dns-server）。
 - **✨ 核心功能与亮点**:
   - 【软路由与网络系统】专精领域：专注解决 软路由与网络系统 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 4,521）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 4,522）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 9. [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2)
-- **⭐ Stars**: `3,792` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `Lua`
+- **⭐ Stars**: `3,796` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `Lua`
 - **🏷️ 标签**: `Lua`
 - **📝 中文介绍**: 基于 Lua 构建：simple powerful OpenWrt LuCI proxy application.
 - **✨ 核心功能与亮点**:
   - 【软路由与网络系统】专精领域：专注解决 软路由与网络系统 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,792）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,796）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 10. [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt)
 - **⭐ Stars**: `3,095` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `Shell`
@@ -1263,14 +1263,14 @@
   - 精选实用工具（★ 157）：针对特定垂直场景设计，解决痛点需求，小巧精悍
 
 ### 19. [maksimkurb/keen-pbr](https://github.com/maksimkurb/keen-pbr)
-- **⭐ Stars**: `145` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `C++`
+- **⭐ Stars**: `146` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `dnsmasq` `entware` `keen-pbr` `keenetic` `keenetic-pbr`
 - **📝 中文介绍**: keen-pbr is a Policy Based Routing 工具包 for Keenetic and OpenWRT routers / Инструменты для выборочной маршрутизации на роутерах Keenetic и OpenWRT。
 - **✨ 核心功能与亮点**:
   - 【软路由与网络系统】专精领域：专注解决 软路由与网络系统 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 精选实用工具（★ 145）：针对特定垂直场景设计，解决痛点需求，小巧精悍
+  - 精选实用工具（★ 146）：针对特定垂直场景设计，解决痛点需求，小巧精悍
 
 ### 20. [lisaac/openwrt-in-docker](https://github.com/lisaac/openwrt-in-docker)
 - **⭐ Stars**: `130` | **二级分类**: 📡 `软路由与网络系统` | **语言**: `Unknown`
@@ -1286,44 +1286,44 @@
 ## 4. 📈 CI/CD 与运维监控 (19 个项目)
 
 ### 1. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-- **⭐ Stars**: `80,908` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `C`
+- **⭐ Stars**: `80,922` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `C`
 - **🏷️ 标签**: `C` `arm64` `auto-install` `bootable-usb` `bsd` `chromeos`
 - **📝 中文介绍**: 基于 C 构建：new bootable USB solution. （技术标签: arm64, auto-install, bootable-usb）。
 - **✨ 核心功能与亮点**:
   - 【CI/CD 与运维监控】专精领域：专注解决 CI/CD 与运维监控 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 80,908）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 80,922）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [fabric/fabric](https://github.com/fabric/fabric)
-- **⭐ Stars**: `15,532` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `Python`
+- **⭐ Stars**: `15,533` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `Python`
 - **🏷️ 标签**: `Python`
 - **📝 中文介绍**: 基于 Python 构建：Simple, Pythonic remote execution and deployment.
 - **✨ 核心功能与亮点**:
   - 【CI/CD 与运维监控】专精领域：专注解决 CI/CD 与运维监控 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 15,532）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 15,533）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch)
-- **⭐ Stars**: `14,299` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `Python`
+- **⭐ Stars**: `14,301` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `application-firewall` `data-breach` `firewall` `linux` `networking`
 - **📝 中文介绍**: 基于 Python 构建：OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch. （技术标签: application-firewall, data-breach, firewall）。
 - **✨ 核心功能与亮点**:
   - 【CI/CD 与运维监控】专精领域：专注解决 CI/CD 与运维监控 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 14,299）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 14,301）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [adnanh/webhook](https://github.com/adnanh/webhook)
-- **⭐ Stars**: `12,217` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `Go`
+- **⭐ Stars**: `12,220` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `automate` `automation` `ci` `deploy` `devops`
 - **📝 中文介绍**: webhook is a 轻量级 incoming webhook 服务端 to run shell commands。
 - **✨ 核心功能与亮点**:
   - 【CI/CD 与运维监控】专精领域：专注解决 CI/CD 与运维监控 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 12,217）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 12,220）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [ansible/ansible-examples](https://github.com/ansible/ansible-examples)
 - **⭐ Stars**: `12,056` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `Shell`
@@ -1346,14 +1346,14 @@
   - 热门高星（★ 9,815）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [gocd/gocd](https://github.com/gocd/gocd)
-- **⭐ Stars**: `7,439` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `Java`
+- **⭐ Stars**: `7,441` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `cd` `ci` `ci-cd` `continuous-delivery` `continuous-delivery-server`
 - **📝 中文介绍**: GoCD - Continuous Delivery 服务端 main repository。
 - **✨ 核心功能与亮点**:
   - 【CI/CD 与运维监控】专精领域：专注解决 CI/CD 与运维监控 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 7,439）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,441）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 8. [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi)
 - **⭐ Stars**: `3,198` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `JavaScript`
@@ -1366,14 +1366,14 @@
   - 热门高星（★ 3,198）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 9. [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng)
-- **⭐ Stars**: `2,822` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `C`
+- **⭐ Stars**: `2,825` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `C`
 - **🏷️ 标签**: `C` `cpu` `disk` `freebsd` `kernel` `linux`
 - **📝 中文介绍**: 基于 C 构建：This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. （技术标签: c, cpu, disk）。
 - **✨ 核心功能与亮点**:
   - 【CI/CD 与运维监控】专精领域：专注解决 CI/CD 与运维监控 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,822）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,825）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 10. [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features)
 - **⭐ Stars**: `1,914` | **二级分类**: 📈 `CI/CD 与运维监控` | **语言**: `C`
@@ -1479,34 +1479,34 @@
 ## 5. ☸️ Kubernetes 与编排 (14 个项目)
 
 ### 1. [hashicorp/consul](https://github.com/hashicorp/consul)
-- **⭐ Stars**: `30,114` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
+- **⭐ Stars**: `30,113` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `api-gateway` `consul` `ecs` `kubernetes` `service-discovery`
 - **📝 中文介绍**: Consul is a 分布式, highly available, and data center aware solution to connect and configure applications across dynamic, 分布式 infrastructure.
 - **✨ 核心功能与亮点**:
   - 【Kubernetes 与编排】专精领域：专注解决 Kubernetes 与编排 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 30,114）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 30,113）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [goauthentik/authentik](https://github.com/goauthentik/authentik)
-- **⭐ Stars**: `26,350` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Python`
+- **⭐ Stars**: `26,360` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `authentication` `authentik` `authorization` `kubernetes` `oauth2`
 - **📝 中文介绍**: 基于 Python 构建：authentication glue you need. （技术标签: authentication, authentik, authorization）。
 - **✨ 核心功能与亮点**:
   - 【Kubernetes 与编排】专精领域：专注解决 Kubernetes 与编排 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 26,350）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 26,360）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
-- **⭐ Stars**: `21,189` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
+- **⭐ Stars**: `21,190` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `gcp` `gke` `google-cloud` `grpc` `istio`
 - **📝 中文介绍**: 基于 Go 构建：Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. （技术标签: gcp, gke, google-cloud）。
 - **✨ 核心功能与亮点**:
   - 【Kubernetes 与编排】专精领域：专注解决 Kubernetes 与编排 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 21,189）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 21,190）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
 - **⭐ Stars**: `11,535` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
@@ -1519,14 +1519,14 @@
   - 超高人气（★ 11,535）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [velero-io/velero](https://github.com/velero-io/velero)
-- **⭐ Stars**: `10,376` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
+- **⭐ Stars**: `10,378` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `backup` `disaster-recovery` `hacktoberfest` `kubernetes` `velero`
 - **📝 中文介绍**: 备份 and migrate Kubernetes applications and their persistent volumes。
 - **✨ 核心功能与亮点**:
   - 【Kubernetes 与编排】专精领域：专注解决 Kubernetes 与编排 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 10,376）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 10,378）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [kelseyhightower/confd](https://github.com/kelseyhightower/confd)
 - **⭐ Stars**: `8,414` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
@@ -1539,14 +1539,14 @@
   - 热门高星（★ 8,414）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [longhorn/longhorn](https://github.com/longhorn/longhorn)
-- **⭐ Stars**: `8,064` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Shell`
+- **⭐ Stars**: `8,065` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `cncf` `distributed-systems` `high-availability` `k8s-sig-storage` `kubernetes`
 - **📝 中文介绍**: Cloud-Native 分布式 存储 built on and for Kubernetes。
 - **✨ 核心功能与亮点**:
   - 【Kubernetes 与编排】专精领域：专注解决 Kubernetes 与编排 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 8,064）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,065）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 8. [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless)
 - **⭐ Stars**: `6,818` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
@@ -1559,14 +1559,14 @@
   - 热门高星（★ 6,818）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 9. [cubefs/cubefs](https://github.com/cubefs/cubefs)
-- **⭐ Stars**: `5,696` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
+- **⭐ Stars**: `5,697` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `ai-native-storage` `cloud-native-storage` `cloud-storage` `cncf` `data-orchestration`
 - **📝 中文介绍**: cloud-native 分布式 存储。
 - **✨ 核心功能与亮点**:
   - 【Kubernetes 与编排】专精领域：专注解决 Kubernetes 与编排 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 5,696）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,697）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 10. [apache/cloudstack](https://github.com/apache/cloudstack)
 - **⭐ Stars**: `3,134` | **二级分类**: ☸️ `Kubernetes 与编排` | **语言**: `Java`
