@@ -17,34 +17,34 @@
 ## 1. 🗄️ 关系型与 NoSQL 数据库 (44 个项目)
 
 ### 1. [grafana/grafana](https://github.com/grafana/grafana)
-- **⭐ Stars**: `77,932` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
+- **⭐ Stars**: `77,954` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `alerting` `analytics` `business-intelligence` `dashboard` `data-visualization`
 - **📝 中文介绍**: open and composable observability and data 可视化 platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 77,932）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 77,954）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [nocodb/nocodb](https://github.com/nocodb/nocodb)
-- **⭐ Stars**: `65,540` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
+- **⭐ Stars**: `65,553` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `airtable` `airtable-alternative` `automatic-api` `hacktoberfest` `low-code`
 - **📝 中文介绍**: 基于 TypeScript 构建：🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative （技术标签: airtable, airtable-alternative, automatic-api）。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 65,540）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 65,553）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [calcom/cal.diy](https://github.com/calcom/cal.diy)
-- **⭐ Stars**: `50,074` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
+- **⭐ Stars**: `50,108` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `next-auth` `nextjs` `open-source` `postgresql` `prisma`
 - **📝 中文介绍**: 基于 TypeScript 构建：Scheduling infrastructure for absolutely everyone. （技术标签: next-auth, nextjs, open-source）。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 50,074）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 50,108）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [discourse/discourse](https://github.com/discourse/discourse)
 - **⭐ Stars**: `48,087` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Ruby`
@@ -77,24 +77,24 @@
   - 超高人气（★ 34,860）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
-- **⭐ Stars**: `32,123` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
+- **⭐ Stars**: `32,124` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `access-control` `api` `automatic-api` `bigquery` `graphql`
 - **📝 中文介绍**: Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on 数据库 events.
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 32,123）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 32,124）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [t8y2/dbx](https://github.com/t8y2/dbx)
-- **⭐ Stars**: `30,426` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Rust`
+- **⭐ Stars**: `30,573` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `ai` `cli` `clickhouse` `database` `database-client`
 - **📝 中文介绍**: 轻量级跨平台现代数据库客户端，支持 90+ 数据库并内置 AI 助手与 MCP Server。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 30,426）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 30,573）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [alibaba/canal](https://github.com/alibaba/canal)
 - **⭐ Stars**: `29,744` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Java`
@@ -107,74 +107,74 @@
   - 超高人气（★ 29,744）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [getredash/redash](https://github.com/getredash/redash)
-- **⭐ Stars**: `28,888` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
+- **⭐ Stars**: `28,887` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `analytics` `athena` `bi` `bigquery` `business-intelligence`
 - **📝 中文介绍**: Make Your Company Data Driven. Connect to any data source, easily visualize, 仪表盘 and share your data.
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 28,888）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 28,887）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [PostgREST/postgrest](https://github.com/PostgREST/postgrest)
-- **⭐ Stars**: `27,759` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Haskell`
+- **⭐ Stars**: `27,763` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Haskell`
 - **🏷️ 标签**: `Haskell` `api` `automatic-api` `database` `http` `pg`
 - **📝 中文介绍**: REST API for any Postgres 数据库。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 27,759）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 27,763）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [valkey-io/valkey](https://github.com/valkey-io/valkey)
-- **⭐ Stars**: `27,724` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `C`
+- **⭐ Stars**: `27,726` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `C`
 - **🏷️ 标签**: `C` `cache` `database` `key-value` `key-value-store` `nosql`
 - **📝 中文介绍**: flexible 分布式 key-value 数据库 that is optimized for 缓存 and other realtime workloads.
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 27,724）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 27,726）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [pubkey/rxdb](https://github.com/pubkey/rxdb)
-- **⭐ Stars**: `23,434` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
+- **⭐ Stars**: `23,437` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `angular` `browser-database` `couchdb` `crdt` `database`
 - **📝 中文介绍**: local-first 数据库 that runs on every JS 运行时 and replicates with your existing 后端 - no vendor, no lock-in - https://rxdb.info/。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 23,434）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 23,437）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 14. [vitessio/vitess](https://github.com/vitessio/vitess)
-- **⭐ Stars**: `21,420` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
+- **⭐ Stars**: `21,422` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `cncf` `database-cluster` `kubernetes` `mysql` `shard`
 - **📝 中文介绍**: Vitess is a 数据库 clustering system for horizontal scaling of MySQL.
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 21,420）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 21,422）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 15. [apache/shardingsphere](https://github.com/apache/shardingsphere)
-- **⭐ Stars**: `20,832` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Java`
+- **⭐ Stars**: `20,831` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `bigdata` `data-encryption` `data-pipeline` `database` `database-cluster`
 - **📝 中文介绍**: Empowering Data Intelligence with 分布式 SQL for Sharding, Scalability, and 安全 Across All Databases.
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 20,832）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 20,831）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 16. [knex/knex](https://github.com/knex/knex)
-- **⭐ Stars**: `20,338` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `JavaScript`
+- **⭐ Stars**: `20,337` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `knex` `mysql` `postgresql` `sql` `sqlite3`
 - **📝 中文介绍**: query builder for PostgreSQL, MySQL, CockroachDB, SQL 服务端, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 20,338）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 20,337）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 17. [golang-migrate/migrate](https://github.com/golang-migrate/migrate)
 - **⭐ Stars**: `19,028` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
@@ -187,14 +187,14 @@
   - 超高人气（★ 19,028）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 18. [rqlite/rqlite](https://github.com/rqlite/rqlite)
-- **⭐ Stars**: `17,951` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
+- **⭐ Stars**: `17,954` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `consensus` `database` `distributed-database` `distributed-systems` `fault-tolerance`
 - **📝 中文介绍**: 轻量级, fault-tolerant 数据库 built on SQLite. Designed to keep your data highly available with minimal effort.
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 17,951）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 17,954）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 19. [bytebase/bytebase](https://github.com/bytebase/bytebase)
 - **⭐ Stars**: `14,718` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
@@ -207,34 +207,34 @@
   - 超高人气（★ 14,718）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 20. [github/gh-ost](https://github.com/github/gh-ost)
-- **⭐ Stars**: `13,647` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
+- **⭐ Stars**: `13,650` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `mysql` `schema-migrations`
 - **📝 中文介绍**: GitHub's Online Schema-数据迁移 Tool for MySQL。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 13,647）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 13,650）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 21. [simonw/datasette](https://github.com/simonw/datasette)
-- **⭐ Stars**: `11,576` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Python`
+- **⭐ Stars**: `11,588` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `asgi` `automatic-api` `csv` `datasets` `datasette`
 - **📝 中文介绍**: 开源 multi-tool for exploring and publishing data。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 11,576）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 11,588）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 22. [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq)
-- **⭐ Stars**: `9,602` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
+- **⭐ Stars**: `9,606` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `background-jobs` `elixir` `nodejs` `php` `python`
 - **📝 中文介绍**: 基于 TypeScript 构建：BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL （技术标签: background-jobs, elixir, nodejs）。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 9,602）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 9,606）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 23. [RichardKnop/machinery](https://github.com/RichardKnop/machinery)
 - **⭐ Stars**: `7,982` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
@@ -257,14 +257,14 @@
   - 热门高星（★ 7,581）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 25. [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher)
-- **⭐ Stars**: `7,328` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `C`
+- **⭐ Stars**: `7,327` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `C`
 - **🏷️ 标签**: `C`
 - **📝 中文介绍**: SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of 数据库 files and other 安全 features.
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 7,328）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,327）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 26. [pyeve/eve](https://github.com/pyeve/eve)
 - **⭐ Stars**: `6,751` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Python`
@@ -277,14 +277,14 @@
   - 热门高星（★ 6,751）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 27. [go-xorm/xorm](https://github.com/go-xorm/xorm)
-- **⭐ Stars**: `6,610` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
+- **⭐ Stars**: `6,609` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `golang` `mssql` `mysql` `orm` `postgres`
 - **📝 中文介绍**: 基于 Go 构建：Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm （技术标签: golang, mssql, mysql）。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,610）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,609）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 28. [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm)
 - **⭐ Stars**: `5,643` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Python`
@@ -297,14 +297,14 @@
   - 热门高星（★ 5,643）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 29. [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial)
-- **⭐ Stars**: `5,387` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Java`
+- **⭐ Stars**: `5,388` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `database` `db` `elasticsearch` `hbase` `mongodb`
 - **📝 中文介绍**: 📚 后端程序员应该掌握的主流数据库知识。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,387）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,388）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 30. [zombodb/zombodb](https://github.com/zombodb/zombodb)
 - **⭐ Stars**: `4,715` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `PLpgSQL`
@@ -377,14 +377,14 @@
   - 热门高星（★ 2,462）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 37. [julien-duponchelle/python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)
-- **⭐ Stars**: `2,417` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Python`
+- **⭐ Stars**: `2,418` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `hacktoberfest` `mysql` `mysql-binlog` `mysql-replication-protocol`
 - **📝 中文介绍**: Pure Python Implementation of MySQL 数据复制 protocol build on top of PyMYSQL。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,417）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,418）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 38. [brokercap/Bifrost](https://github.com/brokercap/Bifrost)
 - **⭐ Stars**: `2,091` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
@@ -407,14 +407,14 @@
   - 热门高星（★ 1,870）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 40. [nfrastack/db-backup](https://github.com/nfrastack/db-backup)
-- **⭐ Stars**: `1,567` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
+- **⭐ Stars**: `1,568` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `backup` `couchdb` `docker` `influx` `mariadb`
 - **📝 中文介绍**: 备份 and restore your databases to multiple 存储 backends。
 - **✨ 核心功能与亮点**:
   - 【关系型与 NoSQL 数据库】专精领域：专注解决 关系型与 NoSQL 数据库 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 热门高星（★ 1,567）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 1,568）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 41. [leonchen83/redis-replicator](https://github.com/leonchen83/redis-replicator)
 - **⭐ Stars**: `998` | **二级分类**: 🗄️ `关系型与 NoSQL 数据库` | **语言**: `Java`
@@ -460,34 +460,34 @@
 ## 2. 🖥️ 数据库客户端与管理工具 (10 个项目)
 
 ### 1. [strapi/strapi](https://github.com/strapi/strapi)
-- **⭐ Stars**: `73,494` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `TypeScript`
+- **⭐ Stars**: `73,502` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `api` `cms` `cms-framework` `content-management` `content-management-system`
 - **📝 中文介绍**: 业界领先的开源 Headless CMS 框架，完全基于 TypeScript/JavaScript 打造，高度可定制。
 - **✨ 核心功能与亮点**:
   - 【数据库客户端与管理工具】专精领域：专注解决 数据库客户端与管理工具 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 73,494）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 73,502）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [prometheus/prometheus](https://github.com/prometheus/prometheus)
-- **⭐ Stars**: `67,641` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `Go`
+- **⭐ Stars**: `67,665` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `alerting` `graphing` `hacktoberfest` `metrics` `monitoring`
 - **📝 中文介绍**: Prometheus 监控 system and time series 数据库.
 - **✨ 核心功能与亮点**:
   - 【数据库客户端与管理工具】专精领域：专注解决 数据库客户端与管理工具 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 67,641）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 67,665）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [Vonng/ddia](https://github.com/Vonng/ddia)
-- **⭐ Stars**: `23,952` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `Python`
+- **⭐ Stars**: `23,959` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `book` `database` `ddia` `distributed-systems`
 - **📝 中文介绍**: 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译。
 - **✨ 核心功能与亮点**:
   - 【数据库客户端与管理工具】专精领域：专注解决 数据库客户端与管理工具 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 23,952）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 23,959）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [dtm-labs/dtm](https://github.com/dtm-labs/dtm)
 - **⭐ Stars**: `10,933` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `Go`
@@ -520,14 +520,14 @@
   - 热门高星（★ 2,093）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [withlin/canal-go](https://github.com/withlin/canal-go)
-- **⭐ Stars**: `957` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `Go`
+- **⭐ Stars**: `958` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `CLI`
 - **📝 中文介绍**: Alibaba mysql database binlog incremental subscription & consumer components Canal's golang client[阿里巴巴mysql数据库binlog的增量订阅&消费组件 Canal 的 go 客户端 ] https://github.com/alibaba/canal。
 - **✨ 核心功能与亮点**:
   - 【数据库客户端与管理工具】专精领域：专注解决 数据库客户端与管理工具 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 精选实用工具（★ 957）：针对特定垂直场景设计，解决痛点需求，小巧精悍
+  - 精选实用工具（★ 958）：针对特定垂直场景设计，解决痛点需求，小巧精悍
 
 ### 8. [xingwenge/canal-php](https://github.com/xingwenge/canal-php)
 - **⭐ Stars**: `396` | **二级分类**: 🖥️ `数据库客户端与管理工具` | **语言**: `PHP`
@@ -563,14 +563,14 @@
 ## 3. 🔌 ORM 与数据访问层 (10 个项目)
 
 ### 1. [go-gorm/gorm](https://github.com/go-gorm/gorm)
-- **⭐ Stars**: `39,993` | **二级分类**: 🔌 `ORM 与数据访问层` | **语言**: `Go`
+- **⭐ Stars**: `39,989` | **二级分类**: 🔌 `ORM 与数据访问层` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `golang` `gorm` `orm` `web`
 - **📝 中文介绍**: fantastic ORM 库 for Golang, aims to be developer friendly。
 - **✨ 核心功能与亮点**:
   - 【ORM 与数据访问层】专精领域：专注解决 ORM 与数据访问层 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 39,993）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 39,989）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [taosdata/TDengine](https://github.com/taosdata/TDengine)
 - **⭐ Stars**: `25,194` | **二级分类**: 🔌 `ORM 与数据访问层` | **语言**: `C`
@@ -593,14 +593,14 @@
   - 超高人气（★ 16,365）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [codenotary/immudb](https://github.com/codenotary/immudb)
-- **⭐ Stars**: `9,052` | **二级分类**: 🔌 `ORM 与数据访问层` | **语言**: `Go`
+- **⭐ Stars**: `9,053` | **二级分类**: 🔌 `ORM 与数据访问层` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `auditable` `compliance` `cryptographic` `database` `gdpr`
 - **📝 中文介绍**: immudb - immutable 数据库 based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history。
 - **✨ 核心功能与亮点**:
   - 【ORM 与数据访问层】专精领域：专注解决 ORM 与数据访问层 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 9,052）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 9,053）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 5. [kardianos/service](https://github.com/kardianos/service)
 - **⭐ Stars**: `4,853` | **二级分类**: 🔌 `ORM 与数据访问层` | **语言**: `Go`
@@ -666,34 +666,34 @@
 ## 4. 💾 对象存储与备份同步 (7 个项目)
 
 ### 1. [google/leveldb](https://github.com/google/leveldb)
-- **⭐ Stars**: `39,548` | **二级分类**: 💾 `对象存储与备份同步` | **语言**: `C++`
+- **⭐ Stars**: `39,553` | **二级分类**: 💾 `对象存储与备份同步` | **语言**: `C++`
 - **🏷️ 标签**: `C++`
 - **📝 中文介绍**: LevelDB is a fast key-value 存储 库 written at Google that provides an ordered mapping from string keys to string values.
 - **✨ 核心功能与亮点**:
   - 【对象存储与备份同步】专精领域：专注解决 对象存储与备份同步 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 39,548）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 39,553）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [rustfs/rustfs](https://github.com/rustfs/rustfs)
-- **⭐ Stars**: `36,140` | **二级分类**: 💾 `对象存储与备份同步` | **语言**: `Rust`
+- **⭐ Stars**: `36,192` | **二级分类**: 💾 `对象存储与备份同步` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `ai-native` `ai-storage` `amazon-s3` `bigdata` `cloud-native`
 - **📝 中文介绍**: RustFS is an 开源, S3-compatible 高性能 object 存储 system supporting 数据迁移 and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - **✨ 核心功能与亮点**:
   - 【对象存储与备份同步】专精领域：专注解决 对象存储与备份同步 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 36,140）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 36,192）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [getmoto/moto](https://github.com/getmoto/moto)
-- **⭐ Stars**: `8,747` | **二级分类**: 💾 `对象存储与备份同步` | **语言**: `Python`
+- **⭐ Stars**: `8,750` | **二级分类**: 💾 `对象存储与备份同步` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `aws` `boto` `ec2` `s3`
 - **📝 中文介绍**: 库 that allows you to easily mock out tests based on AWS infrastructure.
 - **✨ 核心功能与亮点**:
   - 【对象存储与备份同步】专精领域：专注解决 对象存储与备份同步 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 8,747）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,750）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 4. [spatie/laravel-backup](https://github.com/spatie/laravel-backup)
 - **⭐ Stars**: `6,027` | **二级分类**: 💾 `对象存储与备份同步` | **语言**: `PHP`
@@ -739,24 +739,24 @@
 ## 5. 🔍 向量数据库与搜索引擎 (5 个项目)
 
 ### 1. [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
-- **⭐ Stars**: `59,868` | **二级分类**: 🔍 `向量数据库与搜索引擎` | **语言**: `Rust`
+- **⭐ Stars**: `59,882` | **二级分类**: 🔍 `向量数据库与搜索引擎` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `ai` `api` `app-search` `database` `enterprise-search`
 - **📝 中文介绍**: lightning-fast search 引擎 API bringing AI-powered hybrid search to your sites and applications.
 - **✨ 核心功能与亮点**:
   - 【向量数据库与搜索引擎】专精领域：专注解决 向量数据库与搜索引擎 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 59,868）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 59,882）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)
-- **⭐ Stars**: `21,382` | **二级分类**: 🔍 `向量数据库与搜索引擎` | **语言**: `Rust`
+- **⭐ Stars**: `21,383` | **二级分类**: 🔍 `向量数据库与搜索引擎` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `backend` `database` `graph` `index` `infrastructure`
 - **📝 中文介绍**: 🦔 Fast, 轻量级 & schema-less search 后端. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - **✨ 核心功能与亮点**:
   - 【向量数据库与搜索引擎】专精领域：专注解决 向量数据库与搜索引擎 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 21,382）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 21,383）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql)
 - **⭐ Stars**: `7,006` | **二级分类**: 🔍 `向量数据库与搜索引擎` | **语言**: `Java`
@@ -769,14 +769,14 @@
   - 热门高星（★ 7,006）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 4. [qax-os/ElasticHD](https://github.com/qax-os/ElasticHD)
-- **⭐ Stars**: `3,744` | **二级分类**: 🔍 `向量数据库与搜索引擎` | **语言**: `Go`
+- **⭐ Stars**: `3,745` | **二级分类**: 🔍 `向量数据库与搜索引擎` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `elastic` `elastic-sql-dsl` `elasticdashboard` `elastichd` `elasticsearch`
 - **📝 中文介绍**: Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等。
 - **✨ 核心功能与亮点**:
   - 【向量数据库与搜索引擎】专精领域：专注解决 向量数据库与搜索引擎 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,744）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,745）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 5. [pelias/pelias](https://github.com/pelias/pelias)
 - **⭐ Stars**: `3,607` | **二级分类**: 🔍 `向量数据库与搜索引擎` | **语言**: `Twig`
