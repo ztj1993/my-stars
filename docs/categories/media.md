@@ -15,14 +15,14 @@
 ## 1. 📺 流媒体与播放器 (5 个项目)
 
 ### 1. [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-- **⭐ Stars**: `46,621` | **二级分类**: 📺 `流媒体与播放器` | **语言**: `TypeScript`
+- **⭐ Stars**: `46,472` | **二级分类**: 📺 `流媒体与播放器` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `chat` `collaboration` `foss` `free` `hacktoberfest`
 - **📝 中文介绍**: Interoperable by design. Governed by you. 开源, secure platform for messaging, voice, video and governed AI, built for defense and government.
 - **✨ 核心功能与亮点**:
   - 【流媒体与播放器】专精领域：专注解决 流媒体与播放器 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 46,621）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 46,472）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
 - **⭐ Stars**: `31,480` | **二级分类**: 📺 `流媒体与播放器` | **语言**: `JavaScript`
@@ -35,14 +35,14 @@
   - 超高人气（★ 31,480）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server)
-- **⭐ Stars**: `4,745` | **二级分类**: 📺 `流媒体与播放器` | **语言**: `Java`
+- **⭐ Stars**: `4,748` | **二级分类**: 📺 `流媒体与播放器` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `abr` `android-sdk` `ant-media` `broadcast` `cmaf`
 - **📝 中文介绍**: Ant Media 服务端 — Ultra-low latency streaming 引擎 with WebRTC (~0.5s), SRT, RTMP, HLS, CMAF, adaptive bitrate, transcoding & scaling。
 - **✨ 核心功能与亮点**:
   - 【流媒体与播放器】专精领域：专注解决 流媒体与播放器 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 4,745）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 4,748）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 4. [EasyDarwin/EasyPusher](https://github.com/EasyDarwin/EasyPusher)
 - **⭐ Stars**: `814` | **二级分类**: 📺 `流媒体与播放器` | **语言**: `C++`
@@ -68,57 +68,57 @@
 ## 2. 🎞️ 音视频处理与转码 (4 个项目)
 
 ### 1. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-- **⭐ Stars**: `155,108` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `C`
+- **⭐ Stars**: `155,168` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `C`
 - **🏷️ 标签**: `C` `android` `ffmpeg` `genyteam-system` `libav` `mirroring`
 - **📝 中文介绍**: 基于 C 构建：Display and control your Android device （技术标签: android, c, ffmpeg）。
 - **✨ 核心功能与亮点**:
   - 【音视频处理与转码】专精领域：专注解决 音视频处理与转码 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 155,108）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 155,168）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
-- **⭐ Stars**: `39,314` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `Python`
+- **⭐ Stars**: `39,328` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `audio-analysis` `change` `conversational-ai` `conversion` `converter`
 - **📝 中文介绍**: 基于 Python 构建：Easily train a good VC model with voice data <= 10 mins! （技术标签: audio-analysis, change, conversational-ai）。
 - **✨ 核心功能与亮点**:
   - 【音视频处理与转码】专精领域：专注解决 音视频处理与转码 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 39,314）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 39,328）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
-- **⭐ Stars**: `27,966` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `C#`
+- **⭐ Stars**: `27,973` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `C#`
 - **🏷️ 标签**: `C#` `editor` `gif` `recorder` `sketchboard` `video`
 - **📝 中文介绍**: 基于 C# 构建：🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. （技术标签: editor, gif, recorder）。
 - **✨ 核心功能与亮点**:
   - 【音视频处理与转码】专精领域：专注解决 音视频处理与转码 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 27,966）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 27,973）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [pikvm/pikvm](https://github.com/pikvm/pikvm)
-- **⭐ Stars**: `10,476` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `Unknown`
+- **⭐ Stars**: `10,479` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `Unknown`
 - **🏷️ 标签**: `atx` `hardware` `hdmi` `ip-kvm` `ipkvm` `ipmi`
 - **📝 中文介绍**: 基于 多语言 构建：Open and inexpensive DIY IP-KVM based on Raspberry Pi （技术标签: atx, hardware, hdmi）。
 - **✨ 核心功能与亮点**:
   - 【音视频处理与转码】专精领域：专注解决 音视频处理与转码 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 10,476）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 10,479）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 
 ## 3. 🎨 图形渲染与 3D (2 个项目)
 
 ### 1. [danielgatis/rembg](https://github.com/danielgatis/rembg)
-- **⭐ Stars**: `25,559` | **二级分类**: 🎨 `图形渲染与 3D` | **语言**: `Python`
+- **⭐ Stars**: `25,572` | **二级分类**: 🎨 `图形渲染与 3D` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `background-removal` `image-processing`
 - **📝 中文介绍**: 基于 Python 构建：Rembg is a tool to remove images background （技术标签: background-removal, image-processing, python）。
 - **✨ 核心功能与亮点**:
   - 【图形渲染与 3D】专精领域：专注解决 图形渲染与 3D 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 25,559）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 25,572）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [yomboprime/lithofun](https://github.com/yomboprime/lithofun)
 - **⭐ Stars**: `51` | **二级分类**: 🎨 `图形渲染与 3D` | **语言**: `JavaScript`
