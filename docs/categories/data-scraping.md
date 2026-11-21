@@ -25,14 +25,14 @@
   - 超高人气（★ 95,875）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [ariya/phantomjs](https://github.com/ariya/phantomjs)
-- **⭐ Stars**: `29,411` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
+- **⭐ Stars**: `29,409` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `automation` `headless` `headless-browser` `phantomjs`
 - **📝 中文介绍**: 基于 C++ 构建：Scriptable Headless Browser （技术标签: automation, headless, headless-browser）。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 29,411）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 29,409）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab)
 - **⭐ Stars**: `12,301` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Go`
@@ -65,14 +65,14 @@
   - 热门高星（★ 3,412）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 6. [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper)
-- **⭐ Stars**: `2,766` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
+- **⭐ Stars**: `2,765` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `dashboard` `scrapy` `scrapy-ui` `scrapyd` `scrapyd-dashboard`
 - **📝 中文介绍**: admin ui for scrapy/开源 scrapinghub。
 - **✨ 核心功能与亮点**:
   - 【网页爬虫与自动化】专精领域：专注解决 网页爬虫与自动化 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,766）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,765）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 7. [simplecrawler/simplecrawler](https://github.com/simplecrawler/simplecrawler)
 - **⭐ Stars**: `2,129` | **二级分类**: 🕷️ `网页爬虫与自动化` | **语言**: `JavaScript`
@@ -98,24 +98,24 @@
 ## 2. 📊 数据解析与表格处理 (7 个项目)
 
 ### 1. [json-iterator/go](https://github.com/json-iterator/go)
-- **⭐ Stars**: `13,849` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Go`
+- **⭐ Stars**: `13,848` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `deserialization` `golang` `json` `json-parser` `parser`
 - **📝 中文介绍**: 高性能 100% compatible drop-in replacement of "encoding/json"。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 13,849）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 13,848）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle)
-- **⭐ Stars**: `8,418` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Java`
+- **⭐ Stars**: `8,419` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `Java`
 - **🏷️ 标签**: `Java`
 - **📝 中文介绍**: 基于 Java 构建：Pentaho Data Integration ( ETL ) a.k.a Kettle。
 - **✨ 核心功能与亮点**:
   - 【数据解析与表格处理】专精领域：专注解决 数据解析与表格处理 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 8,418）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,419）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 3. [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord)
 - **⭐ Stars**: `7,584` | **二级分类**: 📊 `数据解析与表格处理` | **语言**: `PHP`
