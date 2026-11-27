@@ -35,9 +35,9 @@
 | 编程语言 | 项目数量 | 占比 |
 | :--- | :---: | :---: |
 | **Python** | `162` 个 | `22.2%` |
-| **Go** | `111` 个 | `15.2%` |
+| **Go** | `112` 个 | `15.3%` |
 | **JavaScript** | `73` 个 | `10.0%` |
-| **TypeScript** | `67` 个 | `9.2%` |
+| **TypeScript** | `66` 个 | `9.0%` |
 | **PHP** | `47` 个 | `6.4%` |
 | **Java** | `41` 个 | `5.6%` |
 | **C** | `39` 个 | `5.3%` |
@@ -50,154 +50,154 @@
 ## 🏆 热门高星标杆项目精选 (Top Starred Projects)
 
 ### 1. [public-apis/public-apis](https://github.com/public-apis/public-apis)
-- **⭐ Stars**: `501,517` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
+- **⭐ Stars**: `501,704` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `api` `apis` `dataset` `development` `free`
 - **📝 中文介绍**: 基于 Python 构建：collective list of free APIs （技术标签: api, apis, dataset）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 501,517）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 501,704）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [openclaw/openclaw](https://github.com/openclaw/openclaw)
-- **⭐ Stars**: `395,249` | **二级分类**: 💬 `大模型应用与客户端` | **语言**: `TypeScript`
+- **⭐ Stars**: `395,323` | **二级分类**: 💬 `大模型应用与客户端` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `ai` `assistant` `crustacean` `molty` `openclaw`
 - **📝 中文介绍**: 基于 TypeScript 构建：AI that really does things. Any OS. Any Platform. The lobster way. 🦞 （技术标签: ai, assistant, crustacean）。
 - **✨ 核心功能与亮点**:
   - 【大模型应用与客户端】专精领域：专注解决 大模型应用与客户端 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - AI 智能体集成：支持多模型对接（OpenAI、Claude、本地模型等）与灵活 Prompt 编排
-  - 超高人气（★ 395,249）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 395,323）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-- **⭐ Stars**: `379,282` | **二级分类**: 📖 `学习路线与实战指南` | **语言**: `Python`
+- **⭐ Stars**: `379,401` | **二级分类**: 📖 `学习路线与实战指南` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `design` `design-patterns` `design-system` `development` `interview`
 - **📝 中文介绍**: 基于 Python 构建：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. （技术标签: design, design-patterns, design-system）。
 - **✨ 核心功能与亮点**:
   - 【学习路线与实战指南】专精领域：专注解决 学习路线与实战指南 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 379,282）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 379,401）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [vinta/awesome-python](https://github.com/vinta/awesome-python)
-- **⭐ Stars**: `337,202` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
+- **⭐ Stars**: `337,405` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `awesome` `awesome-list` `python-frameworks` `python-libraries` `python-tools`
 - **📝 中文介绍**: 基于 Python 构建：definitive list that answers "I want to do X in Python, which tool should I use?" （技术标签: awesome, awesome-list, python）。
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 337,202）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 337,405）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [affaan-m/ECC](https://github.com/affaan-m/ECC)
-- **⭐ Stars**: `310,849` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `JavaScript`
+- **⭐ Stars**: `311,415` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `ai-agents` `anthropic` `claude` `claude-code` `developer-tools`
 - **📝 中文介绍**: agent harness performance optimization system. Skills, instincts, memory, 安全, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - **✨ 核心功能与亮点**:
   - 【智能体与工作流】专精领域：专注解决 智能体与工作流 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - AI 智能体集成：支持多模型对接（OpenAI、Claude、本地模型等）与灵活 Prompt 编排
-  - 超高人气（★ 310,849）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 311,415）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-- **⭐ Stars**: `266,171` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Python`
+- **⭐ Stars**: `266,466` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt`
 - **📝 中文介绍**: 基于 Python 构建：agent that grows with you （技术标签: ai, ai-agent, ai-agents）。
 - **✨ 核心功能与亮点**:
   - 【智能体与工作流】专精领域：专注解决 智能体与工作流 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - AI 智能体集成：支持多模型对接（OpenAI、Claude、本地模型等）与灵活 Prompt 编排
-  - 超高人气（★ 266,171）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 266,466）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [n8n-io/n8n](https://github.com/n8n-io/n8n)
-- **⭐ Stars**: `212,174` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
+- **⭐ Stars**: `212,368` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `ai` `apis` `automation` `cli` `data-flow`
 - **📝 中文介绍**: Fair-code 工作流 自动化 platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 212,174）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 212,368）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-- **⭐ Stars**: `191,319` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
+- **⭐ Stars**: `191,503` | **二级分类**: 🌟 `Awesome 精选合集` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `awesome` `github` `hellogithub`
 - **📝 中文介绍**: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - **✨ 核心功能与亮点**:
   - 【Awesome 精选合集】专精领域：专注解决 Awesome 精选合集 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 191,319）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 191,503）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-- **⭐ Stars**: `190,895` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Shell`
+- **⭐ Stars**: `190,929` | **二级分类**: 💻 `终端工具与 TUI` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `cli` `cli-app` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme`
 - **📝 中文介绍**: 🙃 A delightful community-driven (with 2,500+ contributors) 框架 for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, Docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - **✨ 核心功能与亮点**:
   - 【终端工具与 TUI】专精领域：专注解决 终端工具与 TUI 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 超高人气（★ 190,895）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 190,929）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [langgenius/dify](https://github.com/langgenius/dify)
-- **⭐ Stars**: `161,931` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Python`
+- **⭐ Stars**: `161,980` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `agent` `agentic-ai` `agentic-framework` `agentic-workflow` `ai`
 - **📝 中文介绍**: 基于 Python 构建：Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. （技术标签: agent, agentic-ai, agentic-framework）。
 - **✨ 核心功能与亮点**:
   - 【智能体与工作流】专精领域：专注解决 智能体与工作流 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - AI 智能体集成：支持多模型对接（OpenAI、Claude、本地模型等）与灵活 Prompt 编排
-  - 超高人气（★ 161,931）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 161,980）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-- **⭐ Stars**: `160,773` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `TypeScript`
+- **⭐ Stars**: `161,007` | **二级分类**: 🚀 `网络代理与内网穿透` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `clash` `clash-meta` `clash-verge` `linux` `mac`
 - **📝 中文介绍**: modern 图形界面 客户端 based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience。
 - **✨ 核心功能与亮点**:
   - 【网络代理与内网穿透】专精领域：专注解决 网络代理与内网穿透 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 160,773）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 161,007）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-- **⭐ Stars**: `157,280` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Rust`
+- **⭐ Stars**: `157,517` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `ai-tools` `claude-code` `codex` `deepseek-harness` `desktop-app`
 - **📝 中文介绍**: 跨平台 desktop 一站式 助手 for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io。
 - **✨ 核心功能与亮点**:
   - 【智能体与工作流】专精领域：专注解决 智能体与工作流 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 157,280）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 157,517）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-- **⭐ Stars**: `155,767` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `C`
+- **⭐ Stars**: `155,868` | **二级分类**: 🎞️ `音视频处理与转码` | **语言**: `C`
 - **🏷️ 标签**: `C` `android` `ffmpeg` `genyteam-system` `libav` `mirroring`
 - **📝 中文介绍**: 基于 C 构建：Display and control your Android device （技术标签: android, c, ffmpeg）。
 - **✨ 核心功能与亮点**:
   - 【音视频处理与转码】专精领域：专注解决 音视频处理与转码 场景下的核心需求与工程实践
   - 极致性能：使用 C 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 155,767）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 155,868）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 14. [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-- **⭐ Stars**: `154,323` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Python`
+- **⭐ Stars**: `154,744` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `ai-skills` `antigravity` `claude` `claude-code` `codex`
 - **📝 中文介绍**: 基于 Python 构建：AI skill that provides design intelligence for building professional UI/UX across multiple platforms. （技术标签: ai-skills, antigravity, claude）。
 - **✨ 核心功能与亮点**:
   - 【智能体与工作流】专精领域：专注解决 智能体与工作流 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 154,323）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 154,744）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 15. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
-- **⭐ Stars**: `153,487` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Python`
+- **⭐ Stars**: `153,944` | **二级分类**: 🤖 `智能体与工作流` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `ai-agents` `antigravity` `ast` `claude-code` `code-analysis`
 - **📝 中文介绍**: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini 命令行工具: local deterministic AST parsing, every edge explained, no vector store.
 - **✨ 核心功能与亮点**:
   - 【智能体与工作流】专精领域：专注解决 智能体与工作流 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - AI 智能体集成：支持多模型对接（OpenAI、Claude、本地模型等）与灵活 Prompt 编排
-  - 超高人气（★ 153,487）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 153,944）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 
 ---
@@ -210,4 +210,4 @@
   - 知识库与 Web 看板生成：`scripts/generate_docs.py`
 - 支持通过 GitHub Actions（`.github/workflows/update-stars.yml`）定时或手动一键同步最新 Stars。
 
-<sub>*知识库构建时间: 2026-11-26 06:50:12*</sub>
+<sub>*知识库构建时间: 2026-11-27 06:42:15*</sub>
