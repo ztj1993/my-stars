@@ -17,134 +17,134 @@
 ## 1. 💚 Vue 生态与组件库 (58 个项目)
 
 ### 1. [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-- **⭐ Stars**: `136,383` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `136,422` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `canvas` `collaboration` `diagrams` `drawing` `hacktoberfest`
 - **📝 中文介绍**: 基于 TypeScript 构建：Virtual whiteboard for sketching hand-drawn like diagrams （技术标签: canvas, collaboration, diagrams）。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 136,383）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 136,422）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-- **⭐ Stars**: `119,725` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Unknown`
+- **⭐ Stars**: `119,729` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Unknown`
 - **🏷️ 标签**: `android` `angular` `books` `free` `ios` `javascript`
 - **📝 中文介绍**: :books: 免费的计算机编程类中文书籍，欢迎投稿。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 119,725）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 119,729）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-- **⭐ Stars**: `80,988` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `81,003` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `api` `api-client` `api-rest` `api-testing` `developer-tools`
 - **📝 中文介绍**: 开源 API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & 命令行工具 • 开源 Alternative to Postman, Insomnia。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 80,988）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 81,003）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)
-- **⭐ Stars**: `52,771` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `52,770` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `angular` `capacitor` `framework` `frontend` `ionic`
 - **📝 中文介绍**: powerful 跨平台 UI 工具包 for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 52,771）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 52,770）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-- **⭐ Stars**: `41,044` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `41,045` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `javascript` `material` `material-components` `material-design` `material-theme`
 - **📝 中文介绍**: 🐉 Vue Component 框架。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 41,044）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 41,045）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)
-- **⭐ Stars**: `40,936` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Vue`
+- **⭐ Stars**: `40,935` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Vue`
 - **🏷️ 标签**: `Vue` `es2015` `flex` `sass` `vue-router` `vuex`
 - **📝 中文介绍**: Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 Vue 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 40,936）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 40,935）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [NervJS/taro](https://github.com/NervJS/taro)
-- **⭐ Stars**: `37,764` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `37,766` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `javascript` `jquery` `nerv` `nervjs` `react`
 - **📝 中文介绍**: 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 37,764）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 37,766）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [markedjs/marked](https://github.com/markedjs/marked)
-- **⭐ Stars**: `37,329` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `37,328` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `commonmark` `compiler` `gfm` `hacktoberfest` `markdown`
 - **📝 中文介绍**: markdown 解析器 and 编译器. Built for speed.
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 37,329）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 37,328）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [wailsapp/wails](https://github.com/wailsapp/wails)
-- **⭐ Stars**: `37,212` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Go`
+- **⭐ Stars**: `37,218` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `angular` `desktop-application` `golang` `javascript` `linux`
 - **📝 中文介绍**: 基于 Go 构建：Create beautiful applications using Go （技术标签: angular, desktop-application, go）。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 37,212）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 37,218）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
-- **⭐ Stars**: `33,875` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `33,880` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `admin-template` `ant-design` `element-plus` `monorepo` `naive-ui`
 - **📝 中文介绍**: 基于 TypeScript 构建：modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast! （技术标签: admin-template, ant-design, element-plus）。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 33,875）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 33,880）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-- **⭐ Stars**: `31,612` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `JavaScript`
+- **⭐ Stars**: `31,611` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `doc` `docs` `docsify` `documentation` `documentation-tool`
 - **📝 中文介绍**: 🃏 A magical documentation site 生成器.
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 31,612）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 31,611）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-- **⭐ Stars**: `27,651` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Python`
+- **⭐ Stars**: `27,655` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `documentation` `framework` `material-design` `mkdocs` `plugins`
 - **📝 中文介绍**: 基于 Python 构建：Documentation that simply works （技术标签: documentation, framework, material-design）。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 27,651）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 27,655）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
-- **⭐ Stars**: `24,161` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Unknown`
+- **⭐ Stars**: `24,163` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Unknown`
 - **🏷️ 标签**: `API`
 - **📝 中文介绍**: 基于 多语言 构建：📚 A public list of APIs from round the web.
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 24,161）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 24,163）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 14. [nuysoft/Mock](https://github.com/nuysoft/Mock)
 - **⭐ Stars**: `19,550` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `JavaScript`
@@ -157,44 +157,44 @@
   - 超高人气（★ 19,550）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 15. [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
-- **⭐ Stars**: `16,810` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Shell`
+- **⭐ Stars**: `16,817` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Shell`
 - **🏷️ 标签**: `Shell` `9p` `efi` `hackintosh` `hacktoberfest` `kvm`
 - **📝 中文介绍**: 基于 Shell 构建：Quickly create and run optimised Windows, macOS and Linux virtual machines （技术标签: 9p, efi, hackintosh）。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 脚本化一键执行：跨环境无缝适配，免复杂安装配置，支持一键自动化脚本部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 16,810）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 16,817）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 16. [tidwall/gjson](https://github.com/tidwall/gjson)
-- **⭐ Stars**: `15,581` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Go`
+- **⭐ Stars**: `15,582` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `golang` `json` `json-parser`
 - **📝 中文介绍**: Get JSON values quickly - JSON 解析器 for Go。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 15,581）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 15,582）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 17. [pjialin/py12306](https://github.com/pjialin/py12306)
-- **⭐ Stars**: `14,963` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Python`
+- **⭐ Stars**: `14,964` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Python`
 - **🏷️ 标签**: `Python`
 - **📝 中文介绍**: 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 14,963）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 14,964）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 18. [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle)
-- **⭐ Stars**: `13,683` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Python`
+- **⭐ Stars**: `13,685` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Python`
 - **🏷️ 标签**: `Python`
 - **📝 中文介绍**: Transparent proxy 服务端 that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 13,683）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 13,685）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 19. [developit/mitt](https://github.com/developit/mitt)
 - **⭐ Stars**: `11,903` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
@@ -247,14 +247,14 @@
   - 热门高星（★ 8,851）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 24. [x-extends/vxe-table](https://github.com/x-extends/vxe-table)
-- **⭐ Stars**: `8,632` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `8,633` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `cell` `checkbox` `editable` `form` `grid`
 - **📝 中文介绍**: vxe table 支持 vue2, vue3 的表格解决方案。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 8,632）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 8,633）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 25. [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger)
 - **⭐ Stars**: `7,619` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `JavaScript`
@@ -317,34 +317,34 @@
   - 热门高星（★ 5,668）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 31. [Hillobar/Rope](https://github.com/Hillobar/Rope)
-- **⭐ Stars**: `5,419` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Python`
+- **⭐ Stars**: `5,420` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `GUI/WebUI`
 - **📝 中文介绍**: 图形界面-focused roop。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 5,419）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 5,420）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 32. [surveyjs/survey-library](https://github.com/surveyjs/survey-library)
-- **⭐ Stars**: `4,942` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `4,943` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `angular` `dynamic-form-builder` `form` `form-builder` `form-library`
 - **📝 中文介绍**: 开源 JavaScript form 库 for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, multi-step form wizards, surveys, quizzes, and other data-entry tools.
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 4,942）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 4,943）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 33. [Qsnh/meedu](https://github.com/Qsnh/meedu)
-- **⭐ Stars**: `3,869` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
+- **⭐ Stars**: `3,870` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript`
 - **📝 中文介绍**: MeEdu 是一款面向个人、中小机构的在线网校、知识付费、线上培训解决方案。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,869）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,870）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 34. [huangwei9527/quark-h5](https://github.com/huangwei9527/quark-h5)
 - **⭐ Stars**: `3,592` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `JavaScript`
@@ -367,14 +367,14 @@
   - 热门高星（★ 3,382）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 36. [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui)
-- **⭐ Stars**: `3,283` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `JavaScript`
+- **⭐ Stars**: `3,282` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `crontab` `nodejs` `unix`
 - **📝 中文介绍**: 基于 JavaScript 构建：Easy and safe way to manage your crontab file （技术标签: crontab, nodejs, unix）。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,283）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,282）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 37. [DarkaOnLine/L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger)
 - **⭐ Stars**: `2,932` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `PHP`
@@ -417,14 +417,14 @@
   - 热门高星（★ 2,197）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 41. [zyedidia/eget](https://github.com/zyedidia/eget)
-- **⭐ Stars**: `2,108` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Go`
+- **⭐ Stars**: `2,107` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `command-line-tool` `golang` `installer` `prebuilt-binaries` `CLI`
 - **📝 中文介绍**: 基于 Go 构建：Easily install prebuilt binaries from GitHub. （技术标签: command-line-tool, go, golang）。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,108）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,107）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 42. [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud)
 - **⭐ Stars**: `1,890` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `Python`
@@ -467,14 +467,14 @@
   - 精选实用工具（★ 832）：针对特定垂直场景设计，解决痛点需求，小巧精悍
 
 ### 46. [yuexps/Antigravity-Hans](https://github.com/yuexps/Antigravity-Hans)
-- **⭐ Stars**: `741` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `JavaScript`
+- **⭐ Stars**: `803` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `antigravity` `antigravity-ide` `antigravity-tools`
 - **📝 中文介绍**: 反重力/Antigravity汉化，为 Google Antigravity 及 Antigravity IDE 提供的中文汉化工具。
 - **✨ 核心功能与亮点**:
   - 【Vue 生态与组件库】专精领域：专注解决 Vue 生态与组件库 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 精选实用工具（★ 741）：针对特定垂直场景设计，解决痛点需求，小巧精悍
+  - 精选实用工具（★ 803）：针对特定垂直场景设计，解决痛点需求，小巧精悍
 
 ### 47. [Adldap2/Adldap2](https://github.com/Adldap2/Adldap2)
 - **⭐ Stars**: `709` | **二级分类**: 💚 `Vue 生态与组件库` | **语言**: `PHP`
@@ -600,84 +600,84 @@
 ## 2. 📱 跨端与桌面应用 (27 个项目)
 
 ### 1. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-- **⭐ Stars**: `131,730` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Rust`
+- **⭐ Stars**: `131,873` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `android` `anydesk` `dart` `flatpak` `flutter`
 - **📝 中文介绍**: 开源 remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 131,730）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 131,873）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [electron/electron](https://github.com/electron/electron)
-- **⭐ Stars**: `124,130` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `C++`
+- **⭐ Stars**: `124,154` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `C++`
 - **🏷️ 标签**: `C++` `c-plus-plus` `chrome` `css` `electron` `html`
 - **📝 中文介绍**: :electron: Build 跨平台 desktop apps with JavaScript, HTML, and CSS。
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 极致性能：使用 C++ 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 124,130）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 124,154）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [immich-app/immich](https://github.com/immich-app/immich)
-- **⭐ Stars**: `120,218` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `TypeScript`
+- **⭐ Stars**: `120,285` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript`
 - **📝 中文介绍**: 高性能 self-hosted photo and video management solution.
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 120,218）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 120,285）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-- **⭐ Stars**: `113,244` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Rust`
+- **⭐ Stars**: `113,199` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `app-framework` `cross-platform` `desktop` `gui` `high-performance`
 - **📝 中文介绍**: Build smaller, faster, and more secure desktop and mobile applications with a web 前端.
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 113,244）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 113,199）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-- **⭐ Stars**: `79,621` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Dart`
+- **⭐ Stars**: `79,678` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Dart`
 - **🏷️ 标签**: `Dart` `blog` `confluence-alternative` `content-management` `content-services` `documentation`
 - **📝 中文介绍**: Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading 开源 Notion alternative.
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 79,621）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 79,678）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [apolloconfig/apollo](https://github.com/apolloconfig/apollo)
-- **⭐ Stars**: `29,820` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Java`
+- **⭐ Stars**: `29,822` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `config-management` `configuration-management` `distributed-configuration` `microservices` `spring-boot`
 - **📝 中文介绍**: Apollo is a reliable configuration management system suitable for 微服务 configuration management scenarios.
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 29,820）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 29,822）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
-- **⭐ Stars**: `22,598` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `C#`
+- **⭐ Stars**: `22,623` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `C#`
 - **🏷️ 标签**: `C#`
 - **📝 中文介绍**: 基于 C# 构建：WinUI app for building smaller, customized Windows 11 images.
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 22,598）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 22,623）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [kivy/kivy](https://github.com/kivy/kivy)
-- **⭐ Stars**: `19,032` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Python`
+- **⭐ Stars**: `19,031` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `android` `app` `framework` `games-development` `ios`
 - **📝 中文介绍**: 开源 UI 框架 written in Python, running on Windows, Linux, macOS, Android and iOS。
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 19,032）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 19,031）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [framework7io/framework7](https://github.com/framework7io/framework7)
 - **⭐ Stars**: `18,788` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `JavaScript`
@@ -700,14 +700,14 @@
   - 超高人气（★ 18,498）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [flet-dev/flet](https://github.com/flet-dev/flet)
-- **⭐ Stars**: `17,592` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Python`
+- **⭐ Stars**: `17,594` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `android` `cross-platform` `desktop` `flutter` `ios`
 - **📝 中文介绍**: Build realtime web, mobile and desktop apps in Python only. No 前端 experience required.
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 17,592）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 17,594）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
 - **⭐ Stars**: `14,288` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Objective-C`
@@ -720,14 +720,14 @@
   - 超高人气（★ 14,288）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
-- **⭐ Stars**: `9,998` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Unknown`
+- **⭐ Stars**: `10,000` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Unknown`
 - **🏷️ 标签**: 
 - **📝 中文介绍**: 基于 多语言 构建：Xiaomi Mobile Phone Kernel OpenSource。
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 9,998）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 超高人气（★ 10,000）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 14. [happydog-intj/JsBridge](https://github.com/happydog-intj/JsBridge)
 - **⭐ Stars**: `9,909` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Java`
@@ -740,14 +740,14 @@
   - 热门高星（★ 9,909）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 15. [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot)
-- **⭐ Stars**: `6,736` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Kotlin`
+- **⭐ Stars**: `6,737` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Kotlin`
 - **🏷️ 标签**: `Kotlin` `android` `hotspot` `tethering` `vpn` `wifi-direct`
 - **📝 中文介绍**: 基于 Kotlin 构建：Share your VPN connection over hotspot or repeater! (root required) （技术标签: android, hotspot, tethering）。
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 6,736）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 6,737）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 16. [ElasticHQ/elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ)
 - **⭐ Stars**: `4,987` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `JavaScript`
@@ -770,14 +770,14 @@
   - 热门高星（★ 3,215）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 18. [qqxpee/antigravity2-cn](https://github.com/qqxpee/antigravity2-cn)
-- **⭐ Stars**: `2,779` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `JavaScript`
+- **⭐ Stars**: `2,919` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript`
 - **📝 中文介绍**: 🚀 Antigravity 2.0 Chinese Localization Suite & Injector. 专为 2.0 新版 Electron 架构量身定制的零依赖中文汉化包。基于 ASAR 物理层动态包注入机制，完美汉化界面、系统菜单、任务栏托盘及设置面板，支持一键极速安装与无痕还原。
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,779）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,919）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 19. [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM)
 - **⭐ Stars**: `2,639` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Rust`
@@ -790,14 +790,14 @@
   - 热门高星（★ 2,639）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 20. [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG)
-- **⭐ Stars**: `2,463` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Java`
+- **⭐ Stars**: `2,464` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `android` `mediaprojection` `remote-desktop` `rfb` `server`
 - **📝 中文介绍**: Android VNC remote desktop 服务端 for local networks。
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 2,463）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 2,464）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 21. [EXALAB/AnLinux-App](https://github.com/EXALAB/AnLinux-App)
 - **⭐ Stars**: `2,373` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Java`
@@ -830,14 +830,14 @@
   - 热门高星（★ 1,267）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 24. [basildane/WakeOnLAN](https://github.com/basildane/WakeOnLAN)
-- **⭐ Stars**: `1,204` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Visual Basic .NET`
+- **⭐ Stars**: `1,205` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Visual Basic .NET`
 - **🏷️ 标签**: `Visual Basic .NET` `GUI/WebUI`
 - **📝 中文介绍**: Wake On LAN, WakeOnLAN, shutdown software for Windows. A powerful WOL, ping, shutdown, 图形界面 application.
 - **✨ 核心功能与亮点**:
   - 【跨端与桌面应用】专精领域：专注解决 跨端与桌面应用 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 1,204）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 1,205）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 25. [quantum6/Android-USB-OTG-Camera](https://github.com/quantum6/Android-USB-OTG-Camera)
 - **⭐ Stars**: `151` | **二级分类**: 📱 `跨端与桌面应用` | **语言**: `Java`
@@ -873,34 +873,34 @@
 ## 3. 🎨 前端工程化与样式工具 (26 个项目)
 
 ### 1. [denoland/deno](https://github.com/denoland/deno)
-- **⭐ Stars**: `109,038` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `Rust`
+- **⭐ Stars**: `108,945` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `deno` `javascript` `typescript`
 - **📝 中文介绍**: modern 运行时 for JavaScript and TypeScript.
 - **✨ 核心功能与亮点**:
   - 【前端工程化与样式工具】专精领域：专注解决 前端工程化与样式工具 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 109,038）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 108,945）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [storybookjs/storybook](https://github.com/storybookjs/storybook)
-- **⭐ Stars**: `91,740` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `TypeScript`
+- **⭐ Stars**: `91,747` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `angular` `components` `design-systems` `documentation` `html`
 - **📝 中文介绍**: Storybook is the industry standard workshop for building, documenting, and 测试 UI components in isolation。
 - **✨ 核心功能与亮点**:
   - 【前端工程化与样式工具】专精领域：专注解决 前端工程化与样式工具 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 91,740）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 91,747）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [lodash/lodash](https://github.com/lodash/lodash)
-- **⭐ Stars**: `61,401` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `JavaScript`
+- **⭐ Stars**: `61,305` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `lodash` `modules` `utilities`
 - **📝 中文介绍**: modern JavaScript utility 库 delivering modularity, performance, & extras.
 - **✨ 核心功能与亮点**:
   - 【前端工程化与样式工具】专精领域：专注解决 前端工程化与样式工具 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 61,401）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 61,305）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [wekan/wekan](https://github.com/wekan/wekan)
 - **⭐ Stars**: `21,178` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `JavaScript`
@@ -933,14 +933,14 @@
   - 超高人气（★ 17,707）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [leaningtech/webvm](https://github.com/leaningtech/webvm)
-- **⭐ Stars**: `17,497` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `Svelte`
+- **⭐ Stars**: `17,500` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `Svelte`
 - **🏷️ 标签**: `Svelte` `cheerp` `cheerpx` `cpp` `lwip` `repl`
 - **📝 中文介绍**: 基于 Svelte 构建：Virtual Machine for the Web （技术标签: cheerp, cheerpx, cpp）。
 - **✨ 核心功能与亮点**:
   - 【前端工程化与样式工具】专精领域：专注解决 前端工程化与样式工具 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 17,497）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 17,500）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
 - **⭐ Stars**: `15,435` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `Python`
@@ -983,14 +983,14 @@
   - 超高人气（★ 12,961）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
-- **⭐ Stars**: `10,218` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `CSS`
+- **⭐ Stars**: `10,217` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `CSS`
 - **🏷️ 标签**: `CSS`
 - **📝 中文介绍**: 基于 CSS 构建：Delightful, performance-focused pure css loading animations.
 - **✨ 核心功能与亮点**:
   - 【前端工程化与样式工具】专精领域：专注解决 前端工程化与样式工具 场景下的核心需求与工程实践
   - 技术栈友好：灵活适配多种技术环境，支持容器化与多平台部署
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 10,218）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 10,217）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 13. [givanz/VvvebJs](https://github.com/givanz/VvvebJs)
 - **⭐ Stars**: `8,744` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `JavaScript`
@@ -1043,14 +1043,14 @@
   - 热门高星（★ 3,872）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 18. [dcodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
-- **⭐ Stars**: `3,796` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `JavaScript`
+- **⭐ Stars**: `3,795` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `authentication` `bcrypt`
 - **📝 中文介绍**: 基于 JavaScript 构建：Optimized bcrypt in JavaScript with zero dependencies, with TypeScript support. （技术标签: authentication, bcrypt, javascript）。
 - **✨ 核心功能与亮点**:
   - 【前端工程化与样式工具】专精领域：专注解决 前端工程化与样式工具 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 3,796）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 3,795）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 19. [sbfkcel/towxml](https://github.com/sbfkcel/towxml)
 - **⭐ Stars**: `2,891` | **二级分类**: 🎨 `前端工程化与样式工具` | **语言**: `JavaScript`
@@ -1146,64 +1146,64 @@
   - 超高人气（★ 127,013）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 2. [oven-sh/bun](https://github.com/oven-sh/bun)
-- **⭐ Stars**: `97,003` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Rust`
+- **⭐ Stars**: `96,974` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Rust`
 - **🏷️ 标签**: `Rust` `bun` `bundler` `javascript` `javascriptcore` `jsx`
 - **📝 中文介绍**: Incredibly fast JavaScript 运行时, bundler, test runner, and 包管理器 – all in one。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 极致性能：使用 Rust 原生编写，单二进制分发，内存占用低且启动迅速
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 97,003）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 96,974）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 3. [apache/superset](https://github.com/apache/superset)
-- **⭐ Stars**: `75,704` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Python`
+- **⭐ Stars**: `75,711` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Python`
 - **🏷️ 标签**: `Python` `analytics` `apache` `apache-superset` `asf` `bi`
 - **📝 中文介绍**: Apache Superset is a Data 可视化 and Data Exploration Platform。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 生态丰富：依托完善的 Python 开源生态，API 接口设计简洁且易于二次扩展
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 75,704）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 75,711）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 4. [appwrite/appwrite](https://github.com/appwrite/appwrite)
-- **⭐ Stars**: `58,683` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
+- **⭐ Stars**: `58,612` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `android` `appwrite` `backend` `backend-as-a-service` `docker`
 - **📝 中文介绍**: 开源 cloud for agents & devs. Including Auth, Databases, 存储, Functions, Messaging, Hosting, Realtime, WAF and more。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 容器化就绪：内置 Dockerfile 与容器编排模板，方便一键部署上线与集群扩容
-  - 超高人气（★ 58,683）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 58,612）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 5. [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-- **⭐ Stars**: `55,918` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `JavaScript`
+- **⭐ Stars**: `55,921` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `blog` `compiler` `gatsby` `graphql` `react`
 - **📝 中文介绍**: React-based 框架 with performance, scalability, and 安全 built in.
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 55,918）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 55,921）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 6. [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
-- **⭐ Stars**: `39,099` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
+- **⭐ Stars**: `39,105` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `electron` `electron-app` `knowledge-base` `knowledge-graph` `knowledge-management`
 - **📝 中文介绍**: 基于 TypeScript 构建：Build your personal knowledge base with Trilium Notes （技术标签: electron, electron-app, knowledge-base）。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 39,099）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 39,105）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 7. [preactjs/preact](https://github.com/preactjs/preact)
-- **⭐ Stars**: `39,021` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `JavaScript`
+- **⭐ Stars**: `39,023` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `JavaScript`
 - **🏷️ 标签**: `JavaScript` `components` `dom` `jsx` `preact` `react`
 - **📝 中文介绍**: 基于 JavaScript 构建：⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM. （技术标签: components, dom, jsx）。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 JavaScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 39,021）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 39,023）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 8. [xitu/gold-miner](https://github.com/xitu/gold-miner)
 - **⭐ Stars**: `34,377` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Unknown`
@@ -1216,54 +1216,54 @@
   - 超高人气（★ 34,377）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 9. [transloadit/uppy](https://github.com/transloadit/uppy)
-- **⭐ Stars**: `31,093` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
+- **⭐ Stars**: `31,094` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `dropbox` `encoding` `file-uploader` `file-uploads` `files`
 - **📝 中文介绍**: next 开源 file uploader for web browsers :dog:。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 31,093）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 31,094）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 10. [Redocly/redoc](https://github.com/Redocly/redoc)
-- **⭐ Stars**: `26,030` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
+- **⭐ Stars**: `26,032` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `api-documentation` `documentation-generator` `documentation-tool` `hacktoberfest` `openapi`
 - **📝 中文介绍**: 基于 TypeScript 构建：📘 OpenAPI/Swagger-generated API Reference Documentation （技术标签: api-documentation, documentation-generator, documentation-tool）。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 超高人气（★ 26,030）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 26,032）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 11. [gotify/server](https://github.com/gotify/server)
-- **⭐ Stars**: `16,239` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Go`
+- **⭐ Stars**: `16,242` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Go`
 - **🏷️ 标签**: `Go` `api` `cloud` `free-software` `golang` `gotify`
 - **📝 中文介绍**: simple 服务端 for sending and receiving messages in 实时 per WebSocket. (Includes a sleek web-ui)。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 极致性能：使用 Go 原生编写，单二进制分发，内存占用低且启动迅速
   - 标准化 API 支持：提供完善的 RESTful / gRPC 接口与清晰的接口文档规范
-  - 超高人气（★ 16,239）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
+  - 超高人气（★ 16,242）：业界知名标杆项目，拥有庞大社区活跃度与广泛生产实战检验
 
 ### 12. [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera)
-- **⭐ Stars**: `9,620` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Java`
+- **⭐ Stars**: `9,619` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Java`
 - **🏷️ 标签**: `Java` `camera` `face-detection` `react-native` `rncamera`
 - **📝 中文介绍**: 基于 Java 构建：Camera component for React Native. Also supports barcode scanning! （技术标签: camera, face-detection, react-native）。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 企业级稳健架构：基于 Java 企业级生态，具备成熟的依赖生态与严谨的类型系统
   - 社区活跃与高星支持：在 GitHub 拥有良好社区口碑，持续维护并拥有完整文档
-  - 热门高星（★ 9,620）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 9,619）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 13. [binaricat/Netcatty](https://github.com/binaricat/Netcatty)
-- **⭐ Stars**: `7,612` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
+- **⭐ Stars**: `7,627` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `TypeScript`
 - **🏷️ 标签**: `TypeScript` `electron` `electron-app` `radix-ui` `react` `sftp-client`
 - **📝 中文介绍**: 基于 TypeScript 构建：SSH workspace, SFTP, and terminals in one （技术标签: electron, electron-app, radix-ui）。
 - **✨ 核心功能与亮点**:
   - 【React 与全栈框架】专精领域：专注解决 React 与全栈框架 场景下的核心需求与工程实践
   - 类型安全与组件生态：基于 TypeScript 打造，代码规范健壮，支持热重载与模块化组装
   - CLI 命令行交互：支持丰富参数配置与管道输入输出，易于集成进脚本与 CI/CD 流水线
-  - 热门高星（★ 7,612）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
+  - 热门高星（★ 7,627）：经过广泛社区验证的优秀开源方案，文档完善且维护活跃
 
 ### 14. [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY)
 - **⭐ Stars**: `5,016` | **二级分类**: ⚛️ `React 与全栈框架` | **语言**: `Python`
